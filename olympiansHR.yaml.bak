@@ -1,0 +1,216 @@
+!!python/object/new:__main__.God
+dictitems:
+  children: ['Ares', 'Athena',
+    'Apollo', 'Artemis', 'Aphrodite',
+    'Dionysus', 'Hebe', 'Hermes',
+    'Heracles', 'Helen of Troy', 'Hephaestus',
+    'Perseus', 'Minos', 'The Muses',
+    'Persephone']
+  description: 'King of the Greek Gods, and the
+    god of sky and thunder. He ruled the Olympians from Mount Olympus and was married
+    to his sister, Hera.'
+  domains: ['Sky', 'Thunder']
+  father: 'Chronos'
+  generation: '1st'
+  name: 'Zeus'
+  mother: 'Rhea'
+  roman_name: 'Jupiter'
+  sacred_animals: ['Eagle', 'Bull']
+  siblings: ['Hestia', 'Hades',
+    'Hera', 'Poseidon', 'Demeter']
+  symbols: ['Thunderbolt', 'Eagle',
+    'Oak tree', 'Scales']
+--- !!python/object/new:__main__.God
+dictitems:
+  children: ['Theseus', 'Triton',
+    'Polyphemus', 'Belus', 'Agenor',
+    'Neleus']
+  description: 'God of the sea, sources of fresh
+    water, horses, and earthquakes. Poseidon created the first horse out of seafoam
+    for his sister, Demeter. Greek sailors worshipped him and prayed for calm seas
+    and fair weather. He was married to Amphitrite.'
+  domains: 'Sea'
+  father: 'Chronos'
+  generation: '1st'
+  name: 'Poseidon'
+  mother: 'Rhea'
+  roman_name: 'Neptune'
+  sacred_animals: 'Horse'
+  siblings: ['Hestia', 'Hades',
+    'Hera', 'Zeus', 'Demeter']
+  symbols: ['Trident', 'Bull',
+    'Dolphin', 'Sea Shell', 'Fish']
+--- !!python/object/new:__main__.God
+dictitems:
+  children: 'None'
+  description: 'The virgin goddess of the hearth,
+    architecture, and of the right ordering of domesticity and the family. She would
+    receive the first offering at every sacrifice in the household. It was her responsibility
+    to tend to the sacred flame at Mount Olympus, and supposedly she gave up her seat
+    at Mount Olympus because she became tired of the petty squabbles between the others.
+    When new colonies were established, a flame from Hestia''s public hearth in the
+    mother city would be carried to the new settlement. She never married.'
+  domains: ['Home', 'Hearth']
+  father: 'Chronos'
+  generation: '1st'
+  name: 'Hestia'
+  mother: 'Rhea'
+  roman_name: 'Vesta'
+  sacred_animals: 'Swine'
+  siblings: ['Poseidon', 'Hades',
+    'Hera', 'Zeus', 'Demeter']
+  symbols: ['Hearth/Fireside', 'Kettle',
+    'Cauldron', 'Torch', 'Candle',
+    'Broom', 'Fire']
+--- !!python/object/new:__main__.God
+dictitems:
+  children: ['Pan', 'Hermaphroditus',
+    'Tyche', 'Abderus', 'Autolycus',
+    'Angelia']
+  description: 'The great messenger of the gods
+    in Greek mythology and a guide to the Underworld. A trickster and the god of commerce,
+    thieves, travelers, sports, athletes, and border crossings. On the first day after
+    he was born he invented the lyre. Later on, he also invented fire. He had several
+    consorts, but reportedly never married.'
+  domains: ['Commerce', 'Thieves',
+    'Travelers', 'Sports', 'Athletes',
+    'Border Crossings']
+  father: 'Zeus'
+  generation: '2nd'
+  name: 'Hermes'
+  mother: 'Maia'
+  roman_name: 'Mercury'
+  sacred_animals: ['Tortoise', 'Ram',
+    'Hare', 'Hawk']
+  siblings: ['Ares', 'Athena',
+    'Apollo', 'Artemis', 'Aphrodite',
+    'Dionysus', 'Hebe', 'Heracles',
+    'Helen of Troy', 'Hephaestus', 'Perseus',
+    'Minos', 'The Muses']
+  symbols: ['Cauduceus', 'Lyre',
+    'Talaria']
+--- !!python/object/new:__main__.God
+dictitems:
+  children: ['Ares', 'Enyo',
+    'Hebe', 'Eileithyia', 'Hephaestus',
+    'Eris']
+  description: 'Queen of the Greek Gods, and the
+    god of marriage, women, and birth. She ruled the Olympians from Mount Olympus
+    and was married to her brother, Zeus'
+  domains: ['Marriage', 'Majesty']
+  father: 'Chronos'
+  generation: '2rd'
+  name: 'Hera'
+  mother: 'Rhea'
+  roman_name: 'Juno'
+  sacred_animals: ['Cow', 'Peacock']
+  siblings: ['Poseidon', 'Hades',
+    'Hestia', 'Zeus', 'Demeter']
+  symbols: ['Pomegranate', 'Peacock
+      Feather', 'Diadem']
+--- !!python/object/new:__main__.God
+dictitems:
+  children: ['Thalia', 'Eucleia',
+    'Eupheme', 'Philophrosyne', 'Euthenia']
+  description: 'The crippled blacksmith of the
+    gods, he was the god of technology, blacksmiths, craftsmen, metals, fire, and
+    vulcanoes. He was worshipped in the manufacturing and industrial centers of Greece.
+    His first wife was Aphrodite, and later on married Kharis.'
+  domains: ['Technology', 'Blacksmiths',
+    'Craftsment', 'Volcanoes']
+  father: 'Zeus'
+  generation: '2rd'
+  name: 'Hephaestus'
+  mother: 'Hera'
+  roman_name: 'Vulcan'
+  sacred_animals: 'Donkey'
+  siblings: ['Ares', 'Enyo',
+    'Hebe', 'Eileithyia', 'Hephaestus',
+    'Eris']
+  symbols: ['Hammer', 'Anvil',
+    'Tongs']
+--- !!python/object/new:__main__.God
+dictitems:
+  children: ['Macaria', 'Melinoe',
+    'Zagreus', 'Plutus']
+  description: 'The god of the Underworld as well
+    as the god of riches, he maintains the balance between life and death, and rules
+    the realm of the dead. He was married to Persephone and indirectly brought about
+    the existence of the seasons through the events leading up to their marriage.'
+  domains: ['Underworld', 'Riches']
+  father: 'Chronos'
+  generation: '1st'
+  name: 'Hades'
+  mother: 'Rhea'
+  roman_name: 'Pluto'
+  sacred_animals: 'Cerebrus'
+  siblings: ['Poseidon', 'Hera',
+    'Hestia', 'Zeus', 'Demeter']
+  symbols: ['Cerebrus', 'Cap
+      of Invisibility', 'Cypress', 'Two-pronged
+      spear', 'Black animals']
+--- !!python/object/new:__main__.God
+dictitems:
+  children: ['Persephone', 'Arion']
+  description: 'The goddess of the harvest and
+    the seasons, she also presided over the sanctity of marriage, the sacred law,
+    and the cycle of life and death. The seasons were brought around as part of an
+    agreement between her and Hades. During the six months her daughter Persephone
+    spends with Hades, fall and winter occur. When she is reunited with Persephone,
+    spring and summer occur. She never married.'
+  domains: ['Earth', 'Agriculture',
+    'Harvest', 'Forests']
+  father: 'Chronos'
+  generation: '1st'
+  name: 'Demeter'
+  mother: 'Rhea'
+  roman_name: 'Ceres'
+  sacred_animals: 'Lion'
+  siblings: ['Poseidon', 'Hera',
+    'Hestia', 'Zeus', 'Hades']
+  symbols: ['Torch', 'Lion',
+    'Cornucopia', 'Sheaves of Wheat']
+--- !!python/object/new:__main__.God
+dictitems:
+  children: ['None']
+  description: 'Daughter of Zeus and the Titan
+    Metis, she was the virgin patron goddess of Athens, and the goddess of wisdom,
+    warfare, divine intelligence, and crafts. She was born from Zeus'' forehead after
+    he swallowed her mother while Metis was prenant with Athena. She never married.'
+  domains: ['Wisdom', 'Warfare',
+    'Divine Intelligence', 'Crafts']
+  father: 'Zeus'
+  generation: '1st and 2nd'
+  name: 'Athena'
+  mother: 'Metis'
+  roman_name: 'Minerva'
+  sacred_animals: ['Owl', 'Snake']
+  siblings: ['Ares', 'Hermes',
+    'Apollo', 'Artemis', 'Aphrodite',
+    'Dionysus', 'Hebe', 'Heracles',
+    'Helen of Troy', 'Hephaestus', 'Perseus',
+    'Minos', 'The Muses', 'Poros']
+  symbols: ['Owls', 'Snakes',
+    'Olive tree', 'Aegis', 'Armor',
+    'Helmets', 'Spears', 'Oak tree']
+--- !!python/object/new:__main__.God
+dictitems:
+  children: ['None']
+  description: 'Known mainly as the goddess of
+    the Hunt, she was also regarded as the goddess of wild animals, wilderness, childbirth,
+    virginity, and young girls.'
+  domains: ['Hunt', 'Forests',
+    'Hills', 'Moon']
+  father: 'Zeus'
+  generation: '2nd'
+  name: 'Artemis'
+  mother: 'Leto'
+  roman_name: 'Diana'
+  sacred_animals: ['Deer']
+  siblings: ['Ares', 'Hermes',
+    'Apollo', 'Athena', 'Aphrodite',
+    'Dionysus', 'Hebe', 'Heracles',
+    'Helen of Troy', 'Hephaestus', 'Perseus',
+    'Minos', 'The Muses', 'Poros']
+  symbols: ['Hunting Dogs', 'Stags',
+    'Bow', 'Arrows', 'Moon', 'Cypress']

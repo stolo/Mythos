@@ -1,10 +1,46 @@
 #!/usr/bin/python
+from OlympiaNK import Olympus, God
 
-from Ol
-from BeautifulSoup import BeautifulSoup 
+YAML_FILE = './olympiansHR.yaml'
+olympus = Olympus()
+olympus.load_yaml(YAML_FILE)
 
-page = open("./GreekGods.data", 'r')
-for line in page.readlines():
-    print line.split("||")[0].decode('utf-8')
-    print line.split("||")[1].decode('utf-8')
-    print line.split("||")[2].decode('utf-8')
+def get_greek():
+    page = open("./GreekGods.data", 'r')
+    for line in page.readlines():
+        greek_name = line.split("||")[0].decode('utf-8')
+        name = line.split("||")[1].decode('utf-8')
+        description = line.split("||")[2].decode('utf-8')
+        pantheon = "Greek"
+        g = God( { 'name' : name,
+                   'greek_name' : greek_name,
+                   'description': description,
+                   'pantheon' : pantheon })
+        olympus.append(g)
+        olympus.save_yaml(YAML_FILE)
+
+def get_egyptian():
+    page = open("./EgyptianGods.data", 'r')
+    for line in page.readlines():
+        name = line.split("|")[0].decode('utf-8')
+        description = line.split("|")[1].decode('utf-8')
+        pantheon = "Egyptian"
+        g = God( { 'name' : name,
+                   'description': description,
+                   'pantheon' : pantheon })
+        olympus.append(g)
+        olympus.save_yaml(YAML_FILE)
+
+def get_aztec():
+    page = open("./AztecGods.data", 'r')
+    for line in page.readlines():
+        name = line.split("|")[0].decode('utf-8')
+        description = line.split("|")[1].decode('utf-8')
+        pantheon = "Aztec"
+        g = God( { 'name' : name,
+                   'description': description,
+                   'pantheon' : pantheon })
+        olympus.append(g)
+        olympus.save_yaml(YAML_FILE)
+
+get_aztec()

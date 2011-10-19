@@ -1518,6 +1518,15 @@ dictitems:
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
+  description: !!python/unicode ' Acolnahuacatl, or Acolmiztli a god of the underworld,
+    Mictlan
+
+    '
+  domains: [underworld]
+  name: !!python/unicode 'Acolnahuacatl '
+  pantheon: Aztec
+--- !!python/object/new:OlympiaNK.God
+dictitems:
   description: !!python/unicode ' god of lakes and fishers
 
     '
@@ -1574,627 +1583,431 @@ dictitems:
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' god of water
-
-    '
-  domains: [water]
-  name: !!python/unicode 'Chalchiuhtlatonal '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a night owl god
-
-    '
-  domains: ['']
-  name: !!python/unicode 'Chalchiuhtecolotl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the goddess of lakes and streams, and also of birth;
-    consort of Tlaloc.
-
-    '
-  domains: [lakes, streams, birth]
-  name: !!python/unicode 'Chalchiuhtlicue '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' god of pestilence and mystery
-
-    '
-  domains: [pestilence, mystery]
-  name: !!python/unicode 'Chalchiuhtotolin (Precious Night Turkey) '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a god of the underworld, Mictlan and sacrifices
-
-    '
-  domains: [underworld, sacrifices]
-  name: !!python/unicode 'Chalmecatecuchtlz '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the underworld, Mictlan and the north
-
-    '
-  domains: [underworld, north]
-  name: !!python/unicode 'Chalmecatl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode " the goddess of hearth fires, personal treasure,\
-    \ and volcanoes \n"
-  domains: [hearth fires, personal treasure, volcanoes]
-  name: !!python/unicode 'Chantico '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' goddess of new maize and produce, wife of Cinteotl.
-
-    '
-  domains: [maize, produce]
-  name: !!python/unicode 'Chicomecoatl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a patron of artists
-
-    '
-  domains: [artists]
-  name: !!python/unicode 'Chicomexochtli '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a domestic fertility goddess
-
-    '
-  domains: [fertility]
-  name: !!python/unicode 'Chiconahui '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' associated with creation
-
-    '
-  domains: [creation]
-  name: !!python/unicode 'Chiconahuiehecatl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' an aspect of Ilamatecuhtli and consort of Quetzalcoatl
-
-    '
-  domains: ['']
-  name: !!python/unicode 'Cihuacoatl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the principal maize god, son of Tlazolteotl
-
-    '
-  domains: [maize]
-  name: !!python/unicode 'Cinteotl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' god of astrology and the calendar
-
-    '
-  domains: [astrology]
-  name: !!python/unicode 'Cipactonal '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a creator of the stars
-
-    '
-  domains: [stars]
-  name: !!python/unicode 'Citlalicue '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' legendary mother of Coyolxauhqui, the Centzonuitznaua'
-  domains: ['']
-  name: !!python/unicode 'Coatlicue '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' god of commerce, bartering, and merchants
-
-    '
-  domains: [commerce, bartering, merchants]
-  name: !!python/unicode 'Cochimetl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' legendary sister of Huitzilopochtli, associated
-    with the moon, possibly patroness of the Milky Way
-
-    '
-  domains: [Milky Way, moon]
-  name: !!python/unicode 'Coyolxauhqui '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a goddess of the hearth
-
-    '
-  domains: [hearth]
-  name: !!python/unicode 'Cuaxolotl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the god of the Wind and creator of the earth, heavens,
-    and the present race of humanity. As god of the west, one of the skybearers
-
-    '
-  domains: [wind, creation, earth, heavans]
-  name: !!python/unicode 'Ehecatl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a trickster god of indulgence and pranks. A shapeshifting'
-  domains: [indulgence, pranks]
-  name: !!python/unicode 'Huehuecoyotl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' an ancient god of the hearth, the fire of life.
-    Associated with the pole star and the north, and serves as a skybearers'
-  domains: [hearth]
-  name: !!python/unicode 'Huehueteotl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the supreme god of Tenochtitlan, patron of war,
-    fire and the sun
-
-    '
-  domains: [war, sun, fire]
-  name: !!python/unicode 'Huitzilopochtli '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a goddess of salt and saltwater
-
-    '
-  domains: [salt, saltwater]
-  name: !!python/unicode 'Huixtocihuatl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' aged goddess of the earth, death, and the Milky
-    Way. Her roar signalled war
-
-    '
-  domains: [earth, death, Milk Way]
-  name: !!python/unicode 'Ilamatecuhtli '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode 'Ixquimilli '
-  domains: ['']
-  name: !!python/unicode 'Itztlacoliuhqui'
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' god of sacrifice and stone knives.
-
-    '
-  domains: [sacrifice, stone knives]
-  name: !!python/unicode 'Itzli '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' Queen of Tomoanchan and one of the Cihuateteo (night
-    demons) and tzitzimime (star demons)
-
-    '
-  domains: ['']
-  name: !!python/unicode 'Itzpapalotl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the god of healing, dancing, festivals and games.
-    Brother of Xochipilli.
-
-    '
-  domains: [healing, dancing, festivals, games]
-  name: !!python/unicode 'Ixtlilton '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
-
-    '
-  domains: [excess]
-  name: !!python/unicode 'Macuilcozcacuauhtli (five vulture) '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
-
-    '
-  domains: [excess]
-  name: !!python/unicode 'Macuilcuetzpalin (five lizard) '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
-
-    '
-  domains: [excess]
-  name: !!python/unicode 'Macuilmalinalli (five grass) '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
-
-    '
-  domains: [excess]
-  name: !!python/unicode 'Macuil (five rabbit) '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the god of games and gambling, and chief of the
-    Ahuiateteo (gods of excess)
-
-    '
-  domains: [gambling, games]
-  name: !!python/unicode 'Macuilxochitl (five flower) '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' sorceress and goddess of snakes, scorpions and insects
-    of the desert
-
-    '
-  domains: [snakes, scorpions, insects of the desert]
-  name: !!python/unicode 'Malinalxochitl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' goddess of rainfall and singing. Identified with
-    Chalchiuhtlicue.
-
-    '
-  domains: [rainfall, singing]
-  name: !!python/unicode 'Matlalceuitl '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the goddess of maguey, and by extension, alcohol
-
-    '
-  domains: [alcohol, maguey]
-  name: !!python/unicode 'Mayahuel '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' lowly god of worms who failed to sacrifice himself
-    to become the sun, and became the moon instead, his face darkened by a rabbit.
-
-    '
-  domains: [worms, moon]
-  name: !!python/unicode 'Metztli '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a god of war and storms
-
-    '
-  domains: [war, storms]
-  name: !!python/unicode 'Mextli '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' goddess of death and Lady of Mictlan, the underworld
+  description: !!python/unicode ' Acolnahuacatl, or Acolmiztli a god of the underworld,
+    Mictlan
 
     '
   domains: [underworld]
-  name: !!python/unicode 'Mictecacihuatl '
+  name: !!python/unicode 'Acolnahuacatl '
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' the god of death and Lord of Mictlan, also as god
-    of the south, one of the skybearers
+  description: !!python/unicode ' god of lakes and fishers
 
     '
-  domains: [south, death]
-  name: !!python/unicode 'Mictlantecuhtli '
+  domains: [lakes, fishers]
+  name: !!python/unicode 'Amimitl '
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' god of hunting, war, and the Milky Way. An aspect
-    of Tezcatlpoca and father of Quetzalcoatl
+dictitems: {description: !!python/unicode ' goddess of oceanic storms such as hurricanes
 
-    '
-  domains: [hunting, war, Milky Way]
-  name: !!python/unicode 'Mixcoatl (cloud serpent) '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Atlacamani ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' lowly god who sacrificed himself to become sun god
-    Tonatiuh
+dictitems: {description: !!python/unicode ' goddess of drought
 
-    '
-  domains: [sun]
-  name: !!python/unicode 'Nanahuatzin '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Atlacoya ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the god(s) of duality, pregenator(s) of souls and
-    lord/lady of heaven
+dictitems: {description: !!python/unicode ' goddess of the coast
 
-    '
-  domains: [duality, heaven]
-  name: !!python/unicode 'Ometeotl '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Atlatonan (also ''''Atlatonin'''') ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' drunken rabbit god, leader of the Centzon Totochtin
+dictitems: {description: !!python/unicode ' water god
 
-    '
-  domains: ['']
-  name: !!python/unicode 'Ometotchtli (two rabbit) '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Atlaua ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' left'
-  domains: ['']
-  name: !!python/unicode 'Opochtli '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' goddess of astrology and the calendar
+dictitems: {description: !!python/unicode ' goddess of mist, fog, vanity and fame
 
-    '
-  domains: [astrology, calendar]
-  name: !!python/unicode 'Oxomoco '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Ayauhteotl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the god of medicine, husband of Mayahuel
+dictitems: {description: !!python/unicode ' god of hunting, war, fate and fire
 
-    '
-  domains: [medicine]
-  name: !!python/unicode 'Patecatl '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Camaxtli ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the messenger to Huitzilopochtli
+dictitems: {description: !!python/unicode ' god of water
 
-    '
-  domains: ['']
-  name: !!python/unicode 'Paynal '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalchiuhtlatonal ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' creator god and patron of rulership, priests and
-    merchants. Associated with Ehecatl as the divine wind
+dictitems: {description: !!python/unicode ' a night owl god
 
-    '
-  domains: [rulership, priests, merchants]
-  name: !!python/unicode 'Quetzalcoatl feathered serpent) '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalchiuhtecolotl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' goddess of bathing and sweatbaths
+dictitems: {description: !!python/unicode ' the goddess of lakes and streams, and
+    also of birth; consort of Tlaloc.
 
-    '
-  domains: [bathing, sweatbaths]
-  name: !!python/unicode 'Temazcalteci '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalchiuhtlicue ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the god of dead warriors
+dictitems: {description: !!python/unicode ' god of pestilence and mystery
 
-    '
-  domains: [dead warriors]
-  name: !!python/unicode 'Teoyaomicqui '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalchiuhtotolin (Precious Night Turkey) ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' (The jaguar form of Tezcatlipoca) god of the heart
-    of the mountain, associated with jaguars, echoes, and earthquakes
+dictitems: {description: !!python/unicode ' a god of the underworld, Mictlan and sacrifices
 
-    '
-  domains: [jaguars, earthquakes, echoes]
-  name: !!python/unicode 'Tepeyollotl '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalmecatecuchtlz ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' god of pulque and rabbits
+dictitems: {description: !!python/unicode ' Acolnahuacatl, or Acolmiztli a god of
+    the underworld, Mictlan
 
-    '
-  domains: [pulque, rabbits]
-  name: !!python/unicode 'Tepoztecatl '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Acolnahuacatl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' mother of the gods
+dictitems: {description: !!python/unicode ' god of lakes and fishers
 
-    '
-  domains: ['']
-  name: !!python/unicode 'Teteoinnan '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Amimitl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' omnipotent god of rulers, sorcerers and warriors;
-    night, death, discord, conflict, temptation and change. A sinister rival to Quetzalcoatl.
-    Can appear as a jaguar.
+dictitems: {description: !!python/unicode ' goddess of oceanic storms such as hurricanes
 
-    '
-  domains: [rulers, sorcerers, warriors, night, ' death', ' discord', ' conflict',
-    ' temptation', change]
-  name: !!python/unicode 'Tezcatlipoca '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Atlacamani ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' destructive god of the morning star (venus), dawn,
-    and of the east. One of the skybearers
+dictitems: {description: !!python/unicode ' goddess of drought
 
-    '
-  domains: [dawn, east]
-  name: !!python/unicode 'Tlahuizcalpantecuhtli '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Atlacoya ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the great and ancient provider and god of rain,
-    fertility and lightning
+dictitems: {description: !!python/unicode ' goddess of the coast
 
-    '
-  domains: [rain, fertility, lightning]
-  name: !!python/unicode 'Tlaloc '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Atlatonan (also ''''Atlatonin'''') ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' goddess of earth, associated with difficult births
+dictitems: {description: !!python/unicode ' water god
 
-    '
-  domains: [earth]
-  name: !!python/unicode 'Tlaltecuhtli '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Atlaua ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the goddess of purification from filth, disease
-    or excess
+dictitems: {description: !!python/unicode ' goddess of mist, fog, vanity and fame
 
-    '
-  domains: [purification, disease, excess]
-  name: !!python/unicode 'Tlazolteotl '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Ayauhteotl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a creator god or ruler
+dictitems: {description: !!python/unicode ' god of hunting, war, fate and fire
 
-    '
-  domains: [creation]
-  name: !!python/unicode 'Tloquenahuaque '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Camaxtli ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' grandmother goddess, heart of the earth and mother
-    of the gods. Associated with midwives and war
+dictitems: {description: !!python/unicode ' god of water
 
-    '
-  domains: [earth, midwives, war]
-  name: !!python/unicode 'Toci '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalchiuhtlatonal ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the aged creator and provider of food and patron
-    of conceptions
+dictitems: {description: !!python/unicode ' a night owl god
 
-    '
-  domains: [food]
-  name: !!python/unicode 'Tonacatecuhtli '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalchiuhtecolotl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' consort of Tonacatecuhtli
+dictitems: {description: !!python/unicode ' the goddess of lakes and streams, and
+    also of birth; consort of Tlaloc.
 
-    '
-  domains: ['']
-  name: !!python/unicode 'Tonacacihuatl '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalchiuhtlicue ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a mother goddess
+dictitems: {description: !!python/unicode ' god of pestilence and mystery
 
-    '
-  domains: ['']
-  name: !!python/unicode 'Tonantzin '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalchiuhtotolin (Precious Night Turkey) ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' a sun god and heavenly warrior, associated with
-    eagles and with the Maya civilization'
-  domains: [sun]
-  name: !!python/unicode 'Tonatiuh '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' aged grandmother goddess
+dictitems: {description: !!python/unicode ' a god of the underworld, Mictlan and sacrifices
 
-    '
-  domains: ['']
-  name: !!python/unicode 'Tzitzmitl '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalmecatecuchtlz ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the goddess of young maize
+dictitems: {description: !!python/unicode ' the underworld, Mictlan and the north
 
-    '
-  domains: [maize]
-  name: !!python/unicode 'Xilonen '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chalmecatl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the god of the seasons, seed germination and renewal,
-    considered the patron of goldworkers
+dictitems: {description: !!python/unicode " the goddess of hearth fires, personal\
+    \ treasure, and volcanoes \n", name: !!python/unicode 'Chantico ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of new maize and produce, wife
+    of Cinteotl.
 
-    '
-  domains: [seasons, seeds, germination, renewal, goldworking]
-  name: !!python/unicode 'Xipe Totec '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chicomecoatl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' embodiment of the sun''s rays and emblem of XiuhtecuhtliImage:Aztec
-    serpent sculpture.JPG'
-  domains: [suns]
-  name: !!python/unicode 'Xiuhcoatl (fire serpent or turquoise serpent) '
-  pantheon: Aztec
---- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode '(also called Huehueteotl)
+dictitems: {description: !!python/unicode ' a patron of artists
 
-    '
-  domains: ['']
-  name: !!python/unicode 'Xiuhtecuhtli '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chicomexochtli ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the young god of feasting, painting, dancing, games,
-    and writing. Associated with Macuilxochitl and Cinteotl
+dictitems: {description: !!python/unicode ' a domestic fertility goddess
 
-    '
-  domains: [feasting, painting, dancing, games, writing]
-  name: !!python/unicode 'Xochipilli '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chiconahui ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' goddess of love, beauty, female sexuality, prostitutes,
-    flowers, pleasure, craft, weaving, and young mothers
+dictitems: {description: !!python/unicode ' associated with creation
 
-    '
-  domains: [love, beauty, female sexuality, prostitutes, flowers, pleasure, craft,
-    weaving, young mothers]
-  name: !!python/unicode 'Xochiquetzal '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Chiconahuiehecatl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' star god associated with fire
+dictitems: {description: !!python/unicode ' an aspect of Ilamatecuhtli and consort
+    of Quetzalcoatl
 
-    '
-  domains: [stars, fire]
-  name: !!python/unicode 'Xocotl '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Cihuacoatl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' canine companion of Quetzalcoatl and god of twins,
-    sickness and deformity. Accompanies the dead to Mictlan
+dictitems: {description: !!python/unicode ' the principal maize god, son of Tlazolteotl
 
-    '
-  domains: [twins, sickness, deformity]
-  name: !!python/unicode 'Xolotl '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Cinteotl ', pantheon: Aztec}
 --- !!python/object/new:OlympiaNK.God
-dictitems:
-  description: !!python/unicode ' the god of merchants and travellers
+dictitems: {description: !!python/unicode ' god of astrology and the calendar
 
-    '
-  domains: [merchants, travellers]
-  name: !!python/unicode 'Yacatecuhtli '
-  pantheon: Aztec
+    ', name: !!python/unicode 'Cipactonal ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a creator of the stars
+
+    ', name: !!python/unicode 'Citlalicue ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' legendary mother of Coyolxauhqui, the
+    Centzonuitznaua', name: !!python/unicode 'Coatlicue ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of commerce, bartering, and merchants
+
+    ', name: !!python/unicode 'Cochimetl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' legendary sister of Huitzilopochtli, associated
+    with the moon, possibly patroness of the Milky Way
+
+    ', name: !!python/unicode 'Coyolxauhqui ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a goddess of the hearth
+
+    ', name: !!python/unicode 'Cuaxolotl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the god of the Wind and creator of the
+    earth, heavens, and the present race of humanity. As god of the west, one of the
+    skybearers
+
+    ', name: !!python/unicode 'Ehecatl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a trickster god of indulgence and pranks.
+    A shapeshifting', name: !!python/unicode 'Huehuecoyotl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' an ancient god of the hearth, the fire
+    of life. Associated with the pole star and the north, and serves as a skybearers',
+  name: !!python/unicode 'Huehueteotl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the supreme god of Tenochtitlan, patron
+    of war, fire and the sun
+
+    ', name: !!python/unicode 'Huitzilopochtli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a goddess of salt and saltwater
+
+    ', name: !!python/unicode 'Huixtocihuatl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' aged goddess of the earth, death, and
+    the Milky Way. Her roar signalled war
+
+    ', name: !!python/unicode 'Ilamatecuhtli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Ixquimilli ', name: !!python/unicode 'Itztlacoliuhqui',
+  pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of sacrifice and stone knives.
+
+    ', name: !!python/unicode 'Itzli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Queen of Tomoanchan and one of the Cihuateteo
+    (night demons) and tzitzimime (star demons)
+
+    ', name: !!python/unicode 'Itzpapalotl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the god of healing, dancing, festivals
+    and games. Brother of Xochipilli.
+
+    ', name: !!python/unicode 'Ixtlilton ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
+
+    ', name: !!python/unicode 'Macuilcozcacuauhtli (five vulture) ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
+
+    ', name: !!python/unicode 'Macuilcuetzpalin (five lizard) ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
+
+    ', name: !!python/unicode 'Macuilmalinalli (five grass) ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
+
+    ', name: !!python/unicode 'Macuil (five rabbit) ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the god of games and gambling, and chief
+    of the Ahuiateteo (gods of excess)
+
+    ', name: !!python/unicode 'Macuilxochitl (five flower) ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' sorceress and goddess of snakes, scorpions
+    and insects of the desert
+
+    ', name: !!python/unicode 'Malinalxochitl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of rainfall and singing. Identified
+    with Chalchiuhtlicue.
+
+    ', name: !!python/unicode 'Matlalceuitl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the goddess of maguey, and by extension,
+    alcohol
+
+    ', name: !!python/unicode 'Mayahuel ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' lowly god of worms who failed to sacrifice
+    himself to become the sun, and became the moon instead, his face darkened by a
+    rabbit.
+
+    ', name: !!python/unicode 'Metztli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a god of war and storms
+
+    ', name: !!python/unicode 'Mextli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of death and Lady of Mictlan,
+    the underworld
+
+    ', name: !!python/unicode 'Mictecacihuatl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the god of death and Lord of Mictlan,
+    also as god of the south, one of the skybearers
+
+    ', name: !!python/unicode 'Mictlantecuhtli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of hunting, war, and the Milky Way.
+    An aspect of Tezcatlpoca and father of Quetzalcoatl
+
+    ', name: !!python/unicode 'Mixcoatl (cloud serpent) ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' lowly god who sacrificed himself to become
+    sun god Tonatiuh
+
+    ', name: !!python/unicode 'Nanahuatzin ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the god(s) of duality, pregenator(s) of
+    souls and lord/lady of heaven
+
+    ', name: !!python/unicode 'Ometeotl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' drunken rabbit god, leader of the Centzon
+    Totochtin
+
+    ', name: !!python/unicode 'Ometotchtli (two rabbit) ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' left', name: !!python/unicode 'Opochtli ',
+  pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of astrology and the calendar
+
+    ', name: !!python/unicode 'Oxomoco ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the god of medicine, husband of Mayahuel
+
+    ', name: !!python/unicode 'Patecatl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the messenger to Huitzilopochtli
+
+    ', name: !!python/unicode 'Paynal ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' creator god and patron of rulership, priests
+    and merchants. Associated with Ehecatl as the divine wind
+
+    ', name: !!python/unicode 'Quetzalcoatl feathered serpent) ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of bathing and sweatbaths
+
+    ', name: !!python/unicode 'Temazcalteci ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the god of dead warriors
+
+    ', name: !!python/unicode 'Teoyaomicqui ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' (The jaguar form of Tezcatlipoca) god
+    of the heart of the mountain, associated with jaguars, echoes, and earthquakes
+
+    ', name: !!python/unicode 'Tepeyollotl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of pulque and rabbits
+
+    ', name: !!python/unicode 'Tepoztecatl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' mother of the gods
+
+    ', name: !!python/unicode 'Teteoinnan ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' omnipotent god of rulers, sorcerers and
+    warriors; night, death, discord, conflict, temptation and change. A sinister rival
+    to Quetzalcoatl. Can appear as a jaguar.
+
+    ', name: !!python/unicode 'Tezcatlipoca ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' destructive god of the morning star (venus),
+    dawn, and of the east. One of the skybearers
+
+    ', name: !!python/unicode 'Tlahuizcalpantecuhtli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the great and ancient provider and god
+    of rain, fertility and lightning
+
+    ', name: !!python/unicode 'Tlaloc ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of earth, associated with difficult
+    births
+
+    ', name: !!python/unicode 'Tlaltecuhtli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the goddess of purification from filth,
+    disease or excess
+
+    ', name: !!python/unicode 'Tlazolteotl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a creator god or ruler
+
+    ', name: !!python/unicode 'Tloquenahuaque ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' grandmother goddess, heart of the earth
+    and mother of the gods. Associated with midwives and war
+
+    ', name: !!python/unicode 'Toci ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the aged creator and provider of food
+    and patron of conceptions
+
+    ', name: !!python/unicode 'Tonacatecuhtli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' consort of Tonacatecuhtli
+
+    ', name: !!python/unicode 'Tonacacihuatl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a mother goddess
+
+    ', name: !!python/unicode 'Tonantzin ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a sun god and heavenly warrior, associated
+    with eagles and with the Maya civilization', name: !!python/unicode 'Tonatiuh ',
+  pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' aged grandmother goddess
+
+    ', name: !!python/unicode 'Tzitzmitl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the goddess of young maize
+
+    ', name: !!python/unicode 'Xilonen ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the god of the seasons, seed germination
+    and renewal, considered the patron of goldworkers
+
+    ', name: !!python/unicode 'Xipe Totec ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' embodiment of the sun''s rays and emblem
+    of XiuhtecuhtliImage:Aztec serpent sculpture.JPG', name: !!python/unicode 'Xiuhcoatl
+    (fire serpent or turquoise serpent) ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '(also called Huehueteotl)
+
+    ', name: !!python/unicode 'Xiuhtecuhtli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the young god of feasting, painting, dancing,
+    games, and writing. Associated with Macuilxochitl and Cinteotl
+
+    ', name: !!python/unicode 'Xochipilli ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of love, beauty, female sexuality,
+    prostitutes, flowers, pleasure, craft, weaving, and young mothers
+
+    ', name: !!python/unicode 'Xochiquetzal ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' star god associated with fire
+
+    ', name: !!python/unicode 'Xocotl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' canine companion of Quetzalcoatl and god
+    of twins, sickness and deformity. Accompanies the dead to Mictlan
+
+    ', name: !!python/unicode 'Xolotl ', pantheon: Aztec}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the god of merchants and travellers
+
+    ', name: !!python/unicode 'Yacatecuhtli ', pantheon: Aztec}

@@ -1,0 +1,896 @@
+!!python/object/new:OlympiaNK.God
+dictitems:
+  children: [Ares, Athena, Apollo, Artemis, Aphrodite, Dionysus, Hebe, Hermes, Heracles,
+    Helen of Troy, Hephaestus, Perseus, Minos, The Muses, Persephone]
+  description: King of the Greek Gods, and the god of sky and thunder. He ruled the
+    Olympians from Mount Olympus and was married to his sister, Hera.
+  domains: [Sky, Thunder]
+  father: Chronos
+  generation: 1st
+  mother: Rhea
+  name: Zeus
+  roman_name: Jupiter
+  sacred_animals: [Eagle, Bull]
+  siblings: [Hestia, Hades, Hera, Poseidon, Demeter]
+  symbols: [Thunderbolt, Eagle, Oak tree, Scales]
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  children: [Theseus, Triton, Polyphemus, Belus, Agenor, Neleus]
+  description: God of the sea, sources of fresh water, horses, and earthquakes. Poseidon
+    created the first horse out of seafoam for his sister, Demeter. Greek sailors
+    worshipped him and prayed for calm seas and fair weather. He was married to Amphitrite.
+  domains: Sea
+  father: Chronos
+  generation: 1st
+  mother: Rhea
+  name: Poseidon
+  roman_name: Neptune
+  sacred_animals: Horse
+  siblings: [Hestia, Hades, Hera, Zeus, Demeter]
+  symbols: [Trident, Bull, Dolphin, Sea Shell, Fish]
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  children: None
+  description: The virgin goddess of the hearth, architecture, and of the right ordering
+    of domesticity and the family. She would receive the first offering at every sacrifice
+    in the household. It was her responsibility to tend to the sacred flame at Mount
+    Olympus, and supposedly she gave up her seat at Mount Olympus because she became
+    tired of the petty squabbles between the others. When new colonies were established,
+    a flame from Hestia's public hearth in the mother city would be carried to the
+    new settlement. She never married.
+  domains: [Home, Hearth]
+  father: Chronos
+  generation: 1st
+  mother: Rhea
+  name: Hestia
+  roman_name: Vesta
+  sacred_animals: Swine
+  siblings: [Poseidon, Hades, Hera, Zeus, Demeter]
+  symbols: [Hearth/Fireside, Kettle, Cauldron, Torch, Candle, Broom, Fire]
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  children: [Pan, Hermaphroditus, Tyche, Abderus, Autolycus, Angelia]
+  description: The great messenger of the gods in Greek mythology and a guide to the
+    Underworld. A trickster and the god of commerce, thieves, travelers, sports, athletes,
+    and border crossings. On the first day after he was born he invented the lyre.
+    Later on, he also invented fire. He had several consorts, but reportedly never
+    married.
+  domains: [Commerce, Thieves, Travelers, Sports, Athletes, Border Crossings]
+  father: Zeus
+  generation: 2nd
+  mother: Maia
+  name: Hermes
+  roman_name: Mercury
+  sacred_animals: [Tortoise, Ram, Hare, Hawk]
+  siblings: [Ares, Athena, Apollo, Artemis, Aphrodite, Dionysus, Hebe, Heracles, Helen
+      of Troy, Hephaestus, Perseus, Minos, The Muses]
+  symbols: [Cauduceus, Lyre, Talaria]
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  children: [Ares, Enyo, Hebe, Eileithyia, Hephaestus, Eris]
+  description: Queen of the Greek Gods, and the god of marriage, women, and birth.
+    She ruled the Olympians from Mount Olympus and was married to her brother, Zeus
+  domains: [Marriage, Majesty]
+  father: Chronos
+  generation: 2rd
+  mother: Rhea
+  name: Hera
+  roman_name: Juno
+  sacred_animals: [Cow, Peacock]
+  siblings: [Poseidon, Hades, Hestia, Zeus, Demeter]
+  symbols: [Pomegranate, Peacock Feather, Diadem]
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  children: [Thalia, Eucleia, Eupheme, Philophrosyne, Euthenia]
+  description: The crippled blacksmith of the gods, he was the god of technology,
+    blacksmiths, craftsmen, metals, fire, and vulcanoes. He was worshipped in the
+    manufacturing and industrial centers of Greece. His first wife was Aphrodite,
+    and later on married Kharis.
+  domains: [Technology, Blacksmiths, Craftsment, Volcanoes]
+  father: Zeus
+  generation: 2rd
+  mother: Hera
+  name: Hephaestus
+  roman_name: Vulcan
+  sacred_animals: Donkey
+  siblings: [Ares, Enyo, Hebe, Eileithyia, Hephaestus, Eris]
+  symbols: [Hammer, Anvil, Tongs]
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  children: [Macaria, Melinoe, Zagreus, Plutus]
+  description: The god of the Underworld as well as the god of riches, he maintains
+    the balance between life and death, and rules the realm of the dead. He was married
+    to Persephone and indirectly brought about the existence of the seasons through
+    the events leading up to their marriage.
+  domains: [Underworld, Riches]
+  father: Chronos
+  generation: 1st
+  mother: Rhea
+  name: Hades
+  roman_name: Pluto
+  sacred_animals: Cerebrus
+  siblings: [Poseidon, Hera, Hestia, Zeus, Demeter]
+  symbols: [Cerebrus, Cap of Invisibility, Cypress, Two-pronged spear, Black animals]
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  children: [Persephone, Arion]
+  description: The goddess of the harvest and the seasons, she also presided over
+    the sanctity of marriage, the sacred law, and the cycle of life and death. The
+    seasons were brought around as part of an agreement between her and Hades. During
+    the six months her daughter Persephone spends with Hades, fall and winter occur.
+    When she is reunited with Persephone, spring and summer occur. She never married.
+  domains: [Earth, Agriculture, Harvest, Forests]
+  father: Chronos
+  generation: 1st
+  mother: Rhea
+  name: Demeter
+  roman_name: Ceres
+  sacred_animals: Lion
+  siblings: [Poseidon, Hera, Hestia, Zeus, Hades]
+  symbols: [Torch, Lion, Cornucopia, Sheaves of Wheat]
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  children: [None]
+  description: Daughter of Zeus and the Titan Metis, she was the virgin patron goddess
+    of Athens, and the goddess of wisdom, warfare, divine intelligence, and crafts.
+    She was born from Zeus' forehead after he swallowed her mother while Metis was
+    prenant with Athena. She never married.
+  domains: [Wisdom, Warfare, Divine Intelligence, Crafts]
+  father: Zeus
+  generation: 1st and 2nd
+  mother: Metis
+  name: Athena
+  roman_name: Minerva
+  sacred_animals: [Owl, Snake]
+  siblings: [Ares, Hermes, Apollo, Artemis, Aphrodite, Dionysus, Hebe, Heracles, Helen
+      of Troy, Hephaestus, Perseus, Minos, The Muses, Poros]
+  symbols: [Owls, Snakes, Olive tree, Aegis, Armor, Helmets, Spears, Oak tree]
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  children: [None]
+  description: Known mainly as the goddess of the Hunt, she was also regarded as the
+    goddess of wild animals, wilderness, childbirth, virginity, and young girls.
+  domains: [Hunt, Forests, Hills, Moon]
+  father: Zeus
+  generation: 2nd
+  mother: Leto
+  name: Artemis
+  roman_name: Diana
+  sacred_animals: [Deer]
+  siblings: [Ares, Hermes, Apollo, Athena, Aphrodite, Dionysus, Hebe, Heracles, Helen
+      of Troy, Hephaestus, Perseus, Minos, The Muses, Poros]
+  symbols: [Hunting Dogs, Stags, Bow, Arrows, Moon, Cypress]
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The god of the upper air and light.
+
+    ', greek_name: "\u0391\u1F30\u03B8\u03AE\u03C1 ", name: !!python/unicode ' Aether ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The goddess of inevitability, compulsion
+    and necessity.
+
+    ', greek_name: "\u1F08\u03BD\u03AC\u03B3\u03BA\u03B7 ", name: !!python/unicode ' Ananke ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The god of darkness and shadow.
+
+    ', greek_name: "\u1F1C\u03C1\u03B5\u03B2\u03BF\u03C2 ", name: !!python/unicode ' Erebus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Personification of the Earth (Mother Earth);
+    mother of the Titan (mythology)|Titans.
+
+    ', greek_name: "\u0393\u03B1\u1FD6\u03B1 ", name: !!python/unicode ' Gaia ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Goddess of daylight and the sun.
+
+    ', greek_name: "\u1F29\u03BC\u03AD\u03C1\u03B1 ", name: !!python/unicode ' Hemera ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The nothingness from which all else sprang
+
+    ', greek_name: "\u03A7\u03AC\u03BF\u03C2 ", name: !!python/unicode ' Chaos ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode " The Keeper of Time. Not to be confused\
+    \ with the Titan (mythology)|Titan Cronus, the father of Zeus. \n", greek_name: "\u03A7\u03C1\
+    \u03CC\u03BD\u03BF\u03C2 ", name: !!python/unicode ' Chronos ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode " The goddesses of the islands. \n", greek_name: "N\u1FC6\
+    \u03C3\u03BF\u03B9 ", name: !!python/unicode ' The Nesoi ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The goddess of night.
+
+    ', greek_name: "\u039D\u03CD\u03BE ", name: !!python/unicode ' Nyx ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The god of the heavens (Father Sky); father
+    of the Titans.
+
+    ', greek_name: "\u039F\u1F50\u03C1\u03B1\u03BD\u03CC\u03C2 ", name: !!python/unicode ' Uranus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The gods of mountains.
+
+    ', greek_name: "\u039F\u1F54\u03C1\u03B5\u03B1 ", name: !!python/unicode ' The
+    Ourea ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The god of procreation in the Orphics|Orphic
+    tradition.
+
+    ', greek_name: "\u03A6\u03AC\u03BD\u03B7\u03C2 ", name: !!python/unicode ' Phanes ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The god of the sea, father of the fish
+    and other sea creatures.
+
+    ', greek_name: "\u03A0\u03CC\u03BD\u03C4\u03BF\u03C2 ", name: !!python/unicode ' Pontus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The darkest, deepest part of the underworld.
+
+    ', greek_name: "\u03A4\u03AC\u03C1\u03C4\u03B1\u03C1\u03BF\u03C2 ", name: !!python/unicode ' Tartarus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Spirit of the sea and consort of Pontos.
+
+    ', greek_name: "\u0398\u03AC\u03BB\u03B1\u03C3\u03C3\u03B1 ", name: !!python/unicode ' Thalassa ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of light. With Theia, he is the
+    father of Helios (the sun), Selene (the moon) and Eos (the dawn).
+
+    ', greek_name: "\u1F59\u03C0\u03B5\u03C1\u03AF\u03C9\u03BD ", name: !!python/unicode ' Hyperion ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of mortality and father of Prometheus,
+    Epimetheus (mythology)|Epimetheus and Atlas (mythology)|Atlas.
+
+    ', greek_name: "\u1F38\u03B1\u03C0\u03B5\u03C4\u03CC\u03C2 ", name: !!python/unicode ' Iapetus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of intellect and the axis of heaven
+    around which the constellations revolved.
+
+    ', greek_name: "\u039A\u03BF\u1FD6\u03BF\u03C2 ", name: !!python/unicode ' Coeus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The least individualized of the Twelve
+    Titans, he is the father of Astraeus|Astraios, Pallas (son of Crius)|Pallas and
+    Perses (Titan)|Perses.
+
+    ', greek_name: "\u039A\u03C1\u03B5\u1FD6\u03BF\u03C2 ", name: !!python/unicode ' Crius ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The leader of the Titans, who overthrew
+    his father Uranus only to be overthrown in turn by his son, Zeus. Not to be confused
+    with Chronos, the god of time.
+
+    ', greek_name: "\u039A\u03C1\u03CC\u03BD\u03BF\u03C2 ", name: !!python/unicode ' Cronus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of memory and remembrance, and mother
+    of the Muse|Nine Muses.
+
+    ', greek_name: "M\u03BD\u03B7\u03BC\u03BF\u03C3\u03CD\u03BD\u03B7 ", name: !!python/unicode ' Mnemosyne ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of the all-encircling river Oceanus
+    around the earth, the font of all the Earth''s fresh-water.
+
+    ', greek_name: "\u1F68\u03BA\u03B5\u03B1\u03BD\u03CC\u03C2 ", name: !!python/unicode ' Oceanus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of the "bright" intellect and prophecy,
+    and consort of Koios.
+
+    ', greek_name: "\u03A6\u03BF\u03AF\u03B2\u03B7 ", name: !!python/unicode ' Phoebe ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of female fertility, motherhood,
+    and generation. She is the sister and consort of Cronus, and mother of Zeus, Hades,
+    Poseidon, Hera, Demeter and Hestia.
+
+    ', greek_name: "\u1FEC\u03AD\u03B1 ", name: !!python/unicode ' Rhea ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Wife of Oceanus, and the mother of the
+    rivers, springs, streams, fountains and clouds.
+
+    ', greek_name: "\u03A4\u03B7\u03B8\u03CD\u03C2 ", name: !!python/unicode ' Tethys ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of sight and the shining light of
+    the clear blue sky. She is the consort of Hyperion, and mother of Helios, Selene
+    and Eos.
+
+    ', greek_name: "\u0398\u03B5\u03AF\u03B1 ", name: !!python/unicode ' Theia ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of divine law and order.
+
+    ', greek_name: "\u0398\u03AD\u03BC\u03B9\u03C2 ", name: !!python/unicode ' Themis ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of nocturnal oracles and falling
+    stars.
+
+    ', greek_name: "\u1F08\u03C3\u03C4\u03B5\u03C1\u03AF\u03B1 ", name: !!python/unicode ' Asteria ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of stars and planets, and the art
+    of astrology.
+
+    ', greek_name: "\u1F08\u03C3\u03C4\u03C1\u03B1\u1FD6\u03BF\u03C2 ", name: !!python/unicode ' Astraeus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan forced to carry the sky upon his
+    shoulders. Also Son of Iapetus.
+
+    ', greek_name: "\u1F0C\u03C4\u03BB\u03B1\u03C2 ", name: !!python/unicode ' Atlas ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of the breeze and the fresh, cool
+    air of early morning.
+
+    ', greek_name: "\u0391\u1F54\u03C1\u03B1 ", name: !!python/unicode ' Aura ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Titan of the oracle of Dodona.
+
+    ', greek_name: "\u0394\u03B9\u03CE\u03BD\u03B7 ", name: !!python/unicode ' Dione ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of the dawn.
+
+    ', greek_name: "\u1F28\u03CE\u03C2 ", name: !!python/unicode ' Eos ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of afterthought and the father of
+    excuses.
+
+    ', greek_name: "\u1F18\u03C0\u03B9\u03BC\u03B7\u03B8\u03B5\u03CD\u03C2 ", name: !!python/unicode ' Epimetheus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of the mastery of the seas and consort
+    of Krios.
+
+    ', greek_name: "\u0395\u1F50\u03C1\u03C5\u03B2\u03AF\u03B1 ", name: !!python/unicode ' Eurybia ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of water-meadows and pasturelands,
+    and mother of the three Charites by Zeus.
+
+    ', greek_name: "\u0395\u1F50\u03C1\u03C5\u03BD\u03CC\u03BC\u03B7 ", name: !!python/unicode ' Eurynome ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of the sun and guardian of oaths.
+
+    ', greek_name: "\u1F2D\u03BB\u03B9\u03BF\u03C2 ", name: !!python/unicode ' Helios ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of renown, fame and infamy, and
+    wife of Iapetos.
+
+    ', greek_name: "\u039A\u03BB\u03C5\u03BC\u03AD\u03BD\u03B7 ", name: !!python/unicode ' Asia ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of air and the hunter''s skill of
+    stalking prey. He is the male counterpart of Leto.
+
+    ', greek_name: "\u039B\u03B7\u03BB\u03B1\u03BD\u03C4\u03BF\u03C2 ", name: !!python/unicode ' Lelantos ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of motherhood and mother of Artemis
+    and Apollo.
+
+    ', greek_name: "\u039B\u03B7\u03C4\u03CE ", name: !!python/unicode ' Leto ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of violent anger, rash action, and
+    human mortality. Killed by Zeus.
+
+    ', greek_name: "\u039C\u03B5\u03BD\u03BF\u03AF\u03C4\u03B9\u03BF\u03C2 ", name: !!python/unicode ' Menoetius ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of good counsel, advice, planning,
+    cunning, craftiness and wisdom, and mother of Athena.
+
+    ', greek_name: "\u039C\u1FC6\u03C4\u03B9\u03C2 (M\u0113\u0302tis) ", name: !!python/unicode ' Metis ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' An elder Titan, in some versions of the
+    myth he ruled the Earth with his consort Eurynome before Cronus overthrew him.
+
+    ', greek_name: "\u1F48\u03C6\u03AF\u03C9\u03BD ", name: !!python/unicode ' Ophion ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of warcraft. He was killed by Athena
+    during the Titanomachy.
+
+    ', greek_name: "\u03A0\u03AC\u03BB\u03BB\u03B1\u03C2 ", name: !!python/unicode ' Pallas ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of destruction.
+
+    ', greek_name: "\u03A0\u03AD\u03C1\u03C3\u03B7\u03C2 ", name: !!python/unicode ' Perses ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of forethought and crafty counsel,
+    and creator of mankind.
+
+    ', greek_name: "\u03A0\u03C1\u03BF\u03BC\u03B7\u03B8\u03B5\u03CD\u03C2 ", name: !!python/unicode ' Prometheus ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of the moon.
+
+    ', greek_name: "\u03A3\u03B5\u03BB\u03AE\u03BD\u03B7 ", name: !!python/unicode ' Selene ',
+  pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Titan of the Underworld river Styx and
+    personification of hatred.
+
+    ', greek_name: "\u03A3\u03C4\u03CD\u03BE ", name: !!python/unicode ' Styx ', pantheon: Greek}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' ferryman to the underworld
+
+    ', name: !!python/unicode 'Aken ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of the horizon
+
+    ', name: !!python/unicode 'Aker ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'heh ', name: !!python/unicode 'Am', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' crocodile', name: !!python/unicode 'Ammit ',
+  pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' "the hidden one", a local creator deity
+    later married to Mut after rising in importance
+
+    ', name: !!python/unicode 'Amun or Amen ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' female aspect of the primordial concept
+    of air in the Ogdoad cosmogony; depicted as a cobra snake or a snake', name: !!python/unicode 'Amunet ',
+  pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god thought to be a precursor to Osiris
+
+    ', name: !!python/unicode 'Andjety ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of war
+
+    ', name: !!python/unicode 'Anhur ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a minor war goddess
+
+    ', name: !!python/unicode 'Ankt ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' female aspect of Anubis
+
+    ', name: !!python/unicode 'Anput ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of ferrymen
+
+    ', name: !!python/unicode 'Anti ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' dog or jackal god of embalming and tomb',
+  name: !!python/unicode 'Anubis ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '  gazelle-headed goddess of the Nile River,
+    the child of Satis and among the Elephantine triad of deities
+
+    ', name: !!python/unicode 'Anuket ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' evil serpent of the Underworld and enemy
+    of Ra; formed from a length of Neith''s spit during her creation of the world
+
+    ', name: !!python/unicode 'Apophis ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '  bull deity worshipped in the Memphis,
+    EgyptMemphis region
+
+    ', name: !!python/unicode 'Apis ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of oases and the vineyards of the
+    western Nile Delta
+
+    ', name: !!python/unicode 'Ash  ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' sun god worshipped primarily during the
+    period of Atenism in the Eighteenth dynasty of Egypteighteenth dynasty when Pharaoh
+    Amenhotep IV (Akhenaten) introduced monotheistic worship
+
+    ', name: !!python/unicode 'The Aten ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a creator deity, and the setting sun
+
+    ', name: !!python/unicode 'Atum ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' baboon god associated with death and virility
+
+    ', name: !!python/unicode 'Babi  ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' sheepram god of fertility
+
+    ', name: !!python/unicode 'Banebdjedet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' minor underworld god
+
+    ', name: !!python/unicode 'Ba ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' protector of the pharaoh and solar goddess,
+    depicted as a lionlioness, house cat, cat', name: !!python/unicode 'Bastet  ',
+  pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' cow goddess who gave authority to the
+    king; her cult originated in Hu and persisted widely until absorbed as an aspect
+    of Hathor after the eleventh dynasty
+
+    ', name: !!python/unicode 'Bat ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' bull god
+
+    ', name: !!python/unicode 'Bata ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' dwarfed demigod associated with protection
+    of the household, particularly childbirth, and entertainment
+
+    ', name: !!python/unicode 'Bes ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' crocodile god
+
+    ', name: !!python/unicode 'Chenti ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of the Earth, first ruler of Egypt
+    and husband of Nut (goddess)Nut
+
+    ', name: !!python/unicode 'Geb ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of the western deserts
+
+    ', name: !!python/unicode 'Ha ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of the annual flooding of
+    the Nile, associated with fertility
+
+    ', name: !!python/unicode 'Hapi ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' cow or cow', name: !!python/unicode 'Hathor ',
+  pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' fish goddess, originally a deification
+    of the Nile River
+
+    ', name: !!python/unicode 'Hatmehit ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' scorpion goddess, later incorporated into
+    Isis
+
+    ', name: !!python/unicode 'Hedetet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of magic (paranormal)magic
+
+    ', name: !!python/unicode 'Heka ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' falcon god
+
+    ', name: !!python/unicode 'Hemen ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' frog or a frog', name: !!python/unicode 'Heqet ',
+  pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of fate and protection
+
+    ', name: !!python/unicode 'Hemsut ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' ram god
+
+    ', name: !!python/unicode 'Heryshaf ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' falcon', name: !!python/unicode 'Horus
+    or Heru ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' personifications of the four canopic jars
+
+    ', name: !!python/unicode 'The four sons of Horus ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of the first word
+
+    ', name: !!python/unicode 'Hu ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of eternity
+
+    ', name: !!python/unicode 'Huh ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of the east, consort of Min and
+    cleanser of Ra
+
+    ', name: !!python/unicode 'Iabet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of the moon
+
+    ', name: !!python/unicode 'Iah ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' minor goddess of milk and, by association,
+    of nurturing and childbirth
+
+    ', name: !!python/unicode 'Iat ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of the necropoleis west of the
+    Nile
+
+    ', name: !!python/unicode 'Imentet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of magic, motherhood and fertility
+    and consort of Osiris; represented as the throne
+
+    ', name: !!python/unicode 'Isis ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a primal goddess described as "the grandmother
+    of all of the deities"
+
+    ', name: !!python/unicode 'Iusaaset ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of embalming liquid
+
+    ', name: !!python/unicode 'Kebechet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the scarab beetle or scarab', name: !!python/unicode 'Khepri ',
+  pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a creator deity
+
+    ', name: !!python/unicode 'Kneph ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' ram', name: !!python/unicode 'Khnum ',
+  pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of youth and the moon
+
+    ', name: !!python/unicode 'Khonsu ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'frog', name: !!python/unicode 'Kuk ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' lion', name: !!python/unicode 'Maahes ',
+  pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess who personified concept of truth,
+    balance, justice and order
+
+    ', name: !!python/unicode 'Ma''at ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess who protected against snakes and
+    scorpions
+
+    ', name: !!python/unicode 'Mafdet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' protective snake god which coils around
+    the sun god Ra during his journey through the night
+
+    ', name: !!python/unicode 'Mehen ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of war, associated with Sekhmet
+
+    ', name: !!python/unicode 'Menhit ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess associated with rejoicing, singing
+    and dancing
+
+    ', name: !!python/unicode 'Meret ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' cobra', name: !!python/unicode 'Meretseger ',
+  pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of childbirth and the creator
+    of each person''s Ka, a part of their soul, which she breathed into them at the
+    moment of birth
+
+    ', name: !!python/unicode 'Meskhenet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of fertility and lettuce, often represented
+    as a man with an erect penis
+
+    ', name: !!python/unicode 'Min ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the sacred bull of Heliopolis
+
+    ', name: !!python/unicode 'Mnevis ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' falcon god of war
+
+    ', name: !!python/unicode 'Monthu ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' mother goddess, associated with the waters
+    from which everything was born
+
+    ', name: !!python/unicode 'Mut ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of healing and beauty
+
+    ', name: !!python/unicode 'Nefertem ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' guardian of the entrance to the underworld
+
+    ', name: !!python/unicode 'Nehebkau ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of creation, weaving, war and
+    the dead
+
+    ', name: !!python/unicode 'Neith ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Egyptian vulturevulture goddess; patron
+    of pharaohs and Upper Egypt
+
+    ', name: !!python/unicode 'Nekhbet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' androgynous deification of grain
+
+    ', name: !!python/unicode 'Neper ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of death, night and lamentation;
+    the nursing mother of Horus and the pharaohs
+
+    ', name: !!python/unicode 'Nephthys or Nebthet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of the primordial watery abyss
+
+    ', name: !!python/unicode 'Nu ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of the sky and heavens
+
+    ', name: !!python/unicode 'Nut ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' merciful judge of the dead in the afterlife
+    and consort of Isis
+
+    ', name: !!python/unicode 'Osiris or Wesir ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a synthesis of Sekhmet and Bast
+
+    ', name: !!python/unicode 'Pakhet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of revenge
+
+    ', name: !!python/unicode 'Petbe ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' creator deity, also a god of craft
+
+    ', name: !!python/unicode 'Ptah ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of the north wind
+
+    ', name: !!python/unicode 'Qebui ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the sun, also a creator deity, whose chief
+    cult centre was based in Heliopolis
+
+    ', name: !!python/unicode 'Ra ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' fish god who fertilises the land with
+    his tears
+
+    ', name: !!python/unicode 'Rem (mythology)Rem ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of the act of giving a true
+    name during birth
+
+    ', name: !!python/unicode 'Renenutet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of perception
+
+    ', name: !!python/unicode 'Saa or Sia ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of war, hunting, fertility and
+    the flooding of the Nile River
+
+    ', name: !!python/unicode 'Satet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' lioness goddess of destruction, pestilence
+    and war; fierce protector of the pharaoh, and later as an aspect of Hathor
+
+    ', name: !!python/unicode 'Sekhmet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' falcon god of the Memphite necropolis
+
+    ', name: !!python/unicode 'Seker ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' scorpion goddess of healing stings and
+    bites
+
+    ', name: !!python/unicode 'Serket ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of writing, astronomy, astrology,
+    architecture, and mathematics; depicted as a scribe
+
+    ', name: !!python/unicode 'Seshat ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of the desert, storms and foreigners;
+    later god of chaos
+
+    ', name: !!python/unicode 'Set ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of the concept of Destinyfate
+
+    ', name: !!python/unicode 'Shai ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' savior deity
+
+    ', name: !!python/unicode 'Shed ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of execution, slaughter, blood, oil
+    and wine
+
+    ', name: !!python/unicode 'Shezmu ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' personification of air
+
+    ', name: !!python/unicode 'Shu ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' crocodile god of the Nile; patron of the
+    military
+
+    ', name: !!python/unicode 'Sobek ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' messenger god
+
+    ', name: !!python/unicode 'Sobkou ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' deification of the star Sothis (Sirius)
+
+    ', name: !!python/unicode 'Sopdet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' personification of the scorching heat
+    of the sun
+
+    ', name: !!python/unicode 'Sopdu ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' scorpion goddess identified as the consort
+    of Horus
+
+    ', name: !!python/unicode 'Ta ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' god of the primordial mound
+
+    ', name: !!python/unicode 'Tatenen ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' hippopotamus goddess of pregnant women
+    and protector during childbirth
+
+    ', name: !!python/unicode 'Taweret ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of moisture, moist air, dew and
+    rain.
+
+    ', name: !!python/unicode 'Tefnut ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' goddess of beer
+
+    ', name: !!python/unicode 'Tenenet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' ibis headed god of the moon, drawing,
+    writing, geometry, wisdom, medicine, music, astronomy and magic
+
+    ', name: !!python/unicode 'Thoth ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' snake goddess
+
+    ', name: !!python/unicode 'Unut ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' snake goddess and protector of Lower Egypt
+
+    ', name: !!python/unicode 'Wadjet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'wer ', name: !!python/unicode 'Wadj', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' plant god supporting the heavens
+
+    ', name: !!python/unicode 'Weneg ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' personification of supernatural powers
+
+    ', name: !!python/unicode 'Werethekau ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' jackal god of warfare and hunting
+
+    ', name: !!python/unicode 'Wepwawet ', pantheon: Egyptian}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a localized guardian goddess, protector
+    of the young god Horus; an early consort of Amun, later superseded by Mut
+
+    ', name: !!python/unicode 'Wosret ', pantheon: Egyptian}
