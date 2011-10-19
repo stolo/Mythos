@@ -1,0 +1,216 @@
+!!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': [!!python/str 'Ares', !!python/str 'Athena',
+    !!python/str 'Apollo', !!python/str 'Artemis', !!python/str 'Aphrodite',
+    !!python/str 'Dionysus', !!python/str 'Hebe', !!python/str 'Hermes',
+    !!python/str 'Heracles', !!python/str 'Helen of Troy', !!python/str 'Hephaestus',
+    !!python/str 'Perseus', !!python/str 'Minos', !!python/str 'The Muses',
+    !!python/str 'Persephone']
+  !!python/str 'description': !!python/str 'King of the Greek Gods, and the
+    god of sky and thunder. He ruled the Olympians from Mount Olympus and was married
+    to his sister, Hera.'
+  !!python/str 'domains': [!!python/str 'Sky', !!python/str 'Thunder']
+  !!python/str 'father': !!python/str 'Chronos'
+  !!python/str 'generation': !!python/str '1st'
+  !!python/str 'greek_name': !!python/str 'Zeus'
+  !!python/str 'mother': !!python/str 'Rhea'
+  !!python/str 'roman_name': !!python/str 'Jupiter'
+  !!python/str 'sacred_animals': [!!python/str 'Eagle', !!python/str 'Bull']
+  !!python/str 'siblings': [!!python/str 'Hestia', !!python/str 'Hades',
+    !!python/str 'Hera', !!python/str 'Poseidon', !!python/str 'Demeter']
+  !!python/str 'symbols': [!!python/str 'Thunderbolt', !!python/str 'Eagle',
+    !!python/str 'Oak tree', !!python/str 'Scales']
+--- !!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': [!!python/str 'Theseus', !!python/str 'Triton',
+    !!python/str 'Polyphemus', !!python/str 'Belus', !!python/str 'Agenor',
+    !!python/str 'Neleus']
+  !!python/str 'description': !!python/str 'God of the sea, sources of fresh
+    water, horses, and earthquakes. Poseidon created the first horse out of seafoam
+    for his sister, Demeter. Greek sailors worshipped him and prayed for calm seas
+    and fair weather. He was married to Amphitrite.'
+  !!python/str 'domains': !!python/str 'Sea'
+  !!python/str 'father': !!python/str 'Chronos'
+  !!python/str 'generation': !!python/str '1st'
+  !!python/str 'greek_name': !!python/str 'Poseidon'
+  !!python/str 'mother': !!python/str 'Rhea'
+  !!python/str 'roman_name': !!python/str 'Neptune'
+  !!python/str 'sacred_animals': !!python/str 'Horse'
+  !!python/str 'siblings': [!!python/str 'Hestia', !!python/str 'Hades',
+    !!python/str 'Hera', !!python/str 'Zeus', !!python/str 'Demeter']
+  !!python/str 'symbols': [!!python/str 'Trident', !!python/str 'Bull',
+    !!python/str 'Dolphin', !!python/str 'Sea Shell', !!python/str 'Fish']
+--- !!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': !!python/str 'None'
+  !!python/str 'description': !!python/str 'The virgin goddess of the hearth,
+    architecture, and of the right ordering of domesticity and the family. She would
+    receive the first offering at every sacrifice in the household. It was her responsibility
+    to tend to the sacred flame at Mount Olympus, and supposedly she gave up her seat
+    at Mount Olympus because she became tired of the petty squabbles between the others.
+    When new colonies were established, a flame from Hestia''s public hearth in the
+    mother city would be carried to the new settlement. She never married.'
+  !!python/str 'domains': [!!python/str 'Home', !!python/str 'Hearth']
+  !!python/str 'father': !!python/str 'Chronos'
+  !!python/str 'generation': !!python/str '1st'
+  !!python/str 'greek_name': !!python/str 'Hestia'
+  !!python/str 'mother': !!python/str 'Rhea'
+  !!python/str 'roman_name': !!python/str 'Vesta'
+  !!python/str 'sacred_animals': !!python/str 'Swine'
+  !!python/str 'siblings': [!!python/str 'Poseidon', !!python/str 'Hades',
+    !!python/str 'Hera', !!python/str 'Zeus', !!python/str 'Demeter']
+  !!python/str 'symbols': [!!python/str 'Hearth/Fireside', !!python/str 'Kettle',
+    !!python/str 'Cauldron', !!python/str 'Torch', !!python/str 'Candle',
+    !!python/str 'Broom', !!python/str 'Fire']
+--- !!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': [!!python/str 'Pan', !!python/str 'Hermaphroditus',
+    !!python/str 'Tyche', !!python/str 'Abderus', !!python/str 'Autolycus',
+    !!python/str 'Angelia']
+  !!python/str 'description': !!python/str 'The great messenger of the gods
+    in Greek mythology and a guide to the Underworld. A trickster and the god of commerce,
+    thieves, travelers, sports, athletes, and border crossings. On the first day after
+    he was born he invented the lyre. Later on, he also invented fire. He had several
+    consorts, but reportedly never married.'
+  !!python/str 'domains': [!!python/str 'Commerce', !!python/str 'Thieves',
+    !!python/str 'Travelers', !!python/str 'Sports', !!python/str 'Athletes',
+    !!python/str 'Border Crossings']
+  !!python/str 'father': !!python/str 'Zeus'
+  !!python/str 'generation': !!python/str '2nd'
+  !!python/str 'greek_name': !!python/str 'Hermes'
+  !!python/str 'mother': !!python/str 'Maia'
+  !!python/str 'roman_name': !!python/str 'Mercury'
+  !!python/str 'sacred_animals': [!!python/str 'Tortoise', !!python/str 'Ram',
+    !!python/str 'Hare', !!python/str 'Hawk']
+  !!python/str 'siblings': [!!python/str 'Ares', !!python/str 'Athena',
+    !!python/str 'Apollo', !!python/str 'Artemis', !!python/str 'Aphrodite',
+    !!python/str 'Dionysus', !!python/str 'Hebe', !!python/str 'Heracles',
+    !!python/str 'Helen of Troy', !!python/str 'Hephaestus', !!python/str 'Perseus',
+    !!python/str 'Minos', !!python/str 'The Muses']
+  !!python/str 'symbols': [!!python/str 'Cauduceus', !!python/str 'Lyre',
+    !!python/str 'Talaria']
+--- !!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': [!!python/str 'Ares', !!python/str 'Enyo',
+    !!python/str 'Hebe', !!python/str 'Eileithyia', !!python/str 'Hephaestus',
+    !!python/str 'Eris']
+  !!python/str 'description': !!python/str 'Queen of the Greek Gods, and the
+    god of marriage, women, and birth. She ruled the Olympians from Mount Olympus
+    and was married to her brother, Zeus'
+  !!python/str 'domains': [!!python/str 'Marriage', !!python/str 'Majesty']
+  !!python/str 'father': !!python/str 'Chronos'
+  !!python/str 'generation': !!python/str '2rd'
+  !!python/str 'greek_name': !!python/str 'Hera'
+  !!python/str 'mother': !!python/str 'Rhea'
+  !!python/str 'roman_name': !!python/str 'Juno'
+  !!python/str 'sacred_animals': [!!python/str 'Cow', !!python/str 'Peacock']
+  !!python/str 'siblings': [!!python/str 'Poseidon', !!python/str 'Hades',
+    !!python/str 'Hestia', !!python/str 'Zeus', !!python/str 'Demeter']
+  !!python/str 'symbols': [!!python/str 'Pomegranate', !!python/str 'Peacock
+      Feather', !!python/str 'Diadem']
+--- !!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': [!!python/str 'Thalia', !!python/str 'Eucleia',
+    !!python/str 'Eupheme', !!python/str 'Philophrosyne', !!python/str 'Euthenia']
+  !!python/str 'description': !!python/str 'The crippled blacksmith of the
+    gods, he was the god of technology, blacksmiths, craftsmen, metals, fire, and
+    vulcanoes. He was worshipped in the manufacturing and industrial centers of Greece.
+    His first wife was Aphrodite, and later on married Kharis.'
+  !!python/str 'domains': [!!python/str 'Technology', !!python/str 'Blacksmiths',
+    !!python/str 'Craftsment', !!python/str 'Volcanoes']
+  !!python/str 'father': !!python/str 'Zeus'
+  !!python/str 'generation': !!python/str '2rd'
+  !!python/str 'greek_name': !!python/str 'Hephaestus'
+  !!python/str 'mother': !!python/str 'Hera'
+  !!python/str 'roman_name': !!python/str 'Vulcan'
+  !!python/str 'sacred_animals': !!python/str 'Donkey'
+  !!python/str 'siblings': [!!python/str 'Ares', !!python/str 'Enyo',
+    !!python/str 'Hebe', !!python/str 'Eileithyia', !!python/str 'Hephaestus',
+    !!python/str 'Eris']
+  !!python/str 'symbols': [!!python/str 'Hammer', !!python/str 'Anvil',
+    !!python/str 'Tongs']
+--- !!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': [!!python/str 'Macaria', !!python/str 'Melinoe',
+    !!python/str 'Zagreus', !!python/str 'Plutus']
+  !!python/str 'description': !!python/str 'The god of the Underworld as well
+    as the god of riches, he maintains the balance between life and death, and rules
+    the realm of the dead. He was married to Persephone and indirectly brought about
+    the existence of the seasons through the events leading up to their marriage.'
+  !!python/str 'domains': [!!python/str 'Underworld', !!python/str 'Riches']
+  !!python/str 'father': !!python/str 'Chronos'
+  !!python/str 'generation': !!python/str '1st'
+  !!python/str 'greek_name': !!python/str 'Hades'
+  !!python/str 'mother': !!python/str 'Rhea'
+  !!python/str 'roman_name': !!python/str 'Pluto'
+  !!python/str 'sacred_animals': !!python/str 'Cerebrus'
+  !!python/str 'siblings': [!!python/str 'Poseidon', !!python/str 'Hera',
+    !!python/str 'Hestia', !!python/str 'Zeus', !!python/str 'Demeter']
+  !!python/str 'symbols': [!!python/str 'Cerebrus', !!python/str 'Cap
+      of Invisibility', !!python/str 'Cypress', !!python/str 'Two-pronged
+      spear', !!python/str 'Black animals']
+--- !!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': [!!python/str 'Persephone', !!python/str 'Arion']
+  !!python/str 'description': !!python/str 'The goddess of the harvest and
+    the seasons, she also presided over the sanctity of marriage, the sacred law,
+    and the cycle of life and death. The seasons were brought around as part of an
+    agreement between her and Hades. During the six months her daughter Persephone
+    spends with Hades, fall and winter occur. When she is reunited with Persephone,
+    spring and summer occur. She never married.'
+  !!python/str 'domains': [!!python/str 'Earth', !!python/str 'Agriculture',
+    !!python/str 'Harvest', !!python/str 'Forests']
+  !!python/str 'father': !!python/str 'Chronos'
+  !!python/str 'generation': !!python/str '1st'
+  !!python/str 'greek_name': !!python/str 'Demeter'
+  !!python/str 'mother': !!python/str 'Rhea'
+  !!python/str 'roman_name': !!python/str 'Ceres'
+  !!python/str 'sacred_animals': !!python/str 'Lion'
+  !!python/str 'siblings': [!!python/str 'Poseidon', !!python/str 'Hera',
+    !!python/str 'Hestia', !!python/str 'Zeus', !!python/str 'Hades']
+  !!python/str 'symbols': [!!python/str 'Torch', !!python/str 'Lion',
+    !!python/str 'Cornucopia', !!python/str 'Sheaves of Wheat']
+--- !!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': [!!python/str 'None']
+  !!python/str 'description': !!python/str 'Daughter of Zeus and the Titan
+    Metis, she was the virgin patron goddess of Athens, and the goddess of wisdom,
+    warfare, divine intelligence, and crafts. She was born from Zeus'' forehead after
+    he swallowed her mother while Metis was prenant with Athena. She never married.'
+  !!python/str 'domains': [!!python/str 'Wisdom', !!python/str 'Warfare',
+    !!python/str 'Divine Intelligence', !!python/str 'Crafts']
+  !!python/str 'father': !!python/str 'Zeus'
+  !!python/str 'generation': !!python/str '1st and 2nd'
+  !!python/str 'greek_name': !!python/str 'Athena'
+  !!python/str 'mother': !!python/str 'Metis'
+  !!python/str 'roman_name': !!python/str 'Minerva'
+  !!python/str 'sacred_animals': [!!python/str 'Owl', !!python/str 'Snake']
+  !!python/str 'siblings': [!!python/str 'Ares', !!python/str 'Hermes',
+    !!python/str 'Apollo', !!python/str 'Artemis', !!python/str 'Aphrodite',
+    !!python/str 'Dionysus', !!python/str 'Hebe', !!python/str 'Heracles',
+    !!python/str 'Helen of Troy', !!python/str 'Hephaestus', !!python/str 'Perseus',
+    !!python/str 'Minos', !!python/str 'The Muses', !!python/str 'Poros']
+  !!python/str 'symbols': [!!python/str 'Owls', !!python/str 'Snakes',
+    !!python/str 'Olive tree', !!python/str 'Aegis', !!python/str 'Armor',
+    !!python/str 'Helmets', !!python/str 'Spears', !!python/str 'Oak tree']
+--- !!python/object/new:__main__.God
+dictitems:
+  !!python/str 'children': [!!python/str 'None']
+  !!python/str 'description': !!python/str 'Known mainly as the goddess of
+    the Hunt, she was also regarded as the goddess of wild animals, wilderness, childbirth,
+    virginity, and young girls.'
+  !!python/str 'domains': [!!python/str 'Hunt', !!python/str 'Forests',
+    !!python/str 'Hills', !!python/str 'Moon']
+  !!python/str 'father': !!python/str 'Zeus'
+  !!python/str 'generation': !!python/str '2nd'
+  !!python/str 'greek_name': !!python/str 'Artemis'
+  !!python/str 'mother': !!python/str 'Leto'
+  !!python/str 'roman_name': !!python/str 'Diana'
+  !!python/str 'sacred_animals': [!!python/str 'Deer']
+  !!python/str 'siblings': [!!python/str 'Ares', !!python/str 'Hermes',
+    !!python/str 'Apollo', !!python/str 'Athena', !!python/str 'Aphrodite',
+    !!python/str 'Dionysus', !!python/str 'Hebe', !!python/str 'Heracles',
+    !!python/str 'Helen of Troy', !!python/str 'Hephaestus', !!python/str 'Perseus',
+    !!python/str 'Minos', !!python/str 'The Muses', !!python/str 'Poros']
+  !!python/str 'symbols': [!!python/str 'Hunting Dogs', !!python/str 'Stags',
+    !!python/str 'Bow', !!python/str 'Arrows', !!python/str 'Moon', !!python/str 'Cypress']
