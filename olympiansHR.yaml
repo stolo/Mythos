@@ -2852,41 +2852,41 @@ dictitems: {description: !!python/unicode 'Goddess of health and healing
 dictitems: {description: !!python/unicode ' Commonly called Uzume, she is the goddess
     of dawn and revelry, instrumental to the Solar deity#Missing_sun', japanese_name: " (\u5929\
     \u5B87\u53D7\u58F2\u547D or \u5929\u923F\u5973\u547D) ", name: !!python/unicode 'Ame-no-Uzume ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Commonly called Amaterasu, she is the
     Solar deity', japanese_name: " (\u5929\u7167\u5927\u795E or \u5929\u7167\u5927\
-    \u5FA1\u795E) ", name: !!python/unicode 'Amaterasu ', pantheon: Japanses}
+    \u5FA1\u795E) ", name: !!python/unicode 'Amaterasu ', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' A male deity, he is considered the "First
     in Charge of Divine Affairs", as well as the aide to the first Emperor of Japan.
     He is also considered to be the ancestor of the Fujiwara family.
 
     ', japanese_name: " (\u5929\u5150\u5C4B\u547D or \u5929\u5150\u5C4B\u6839\u547D\
-    ) ", name: !!python/unicode 'Ame-no-Koyane ', pantheon: Japanses}
+    ) ", name: !!python/unicode 'Ame-no-Koyane ', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Also known as Kami-no-Kaze, he is the
     Japanese god of the wind and one of the eldest Shinto gods, said to be present
     at the creation of the world. He is often depicted as an Oni (Japanese folklore)',
-  japanese_name: " (\u98A8\u795E) ", name: "F\u016Bjin ", pantheon: Japanses}
+  japanese_name: " (\u98A8\u795E) ", name: "F\u016Bjin ", pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Also known as Hachiman-shin or Yawata
     no Kami, he is the god of war and the divine protector of Japan and its people.
     Originally an agriculture', japanese_name: " (\u516B\u5E61\u795E) ", name: !!python/unicode 'Hachiman ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' The god or goddess of rice and fertility.
     His/her messengers and symbolic animal are foxes.  He/she is often identified
     with the Buddhist deity Dakiniten.
 
-    ', japanese_name: " (\u7A32\u8377) ", name: !!python/unicode 'Inari ', pantheon: Japanses}
+    ', japanese_name: " (\u7A32\u8377) ", name: !!python/unicode 'Inari ', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' The forefather of the gods, he is the
     first male as well as the god of creation and life. He and his wife, Izanami,
     were responsible for the birth of the islands of Japan and many kami, though she
     died in childbirth. Later, after his failed attempt to retrieve her from the Yomi',
   japanese_name: " (\u4F0A\u5F0A\u8AFE or \u4F0A\u90AA\u90A3\u5C90) ", name: !!python/unicode 'Izanagi ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Izanagi''s wife and sister, she is the
     first female as well as the goddess of creation and death. She died shortly after
@@ -2895,73 +2895,73 @@ dictitems: {description: !!python/unicode ' Izanagi''s wife and sister, she is t
     the cycle of life and death for all living beings.
 
     ', japanese_name: " (\u4F0A\u5F09\u5189 or \u4F0A\u90AA\u90A3\u7F8E) ", name: !!python/unicode 'Izanami ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Commonly called Ninigi, he was the grandson
     of Amaterasu. His great-grandson was Kamuyamato Iwarebiko, later to be known as
     Emperor Jimmu, first emperor of Japan.
 
     ', japanese_name: " (\u74CA\u74CA\u6775\u5C0A) ", name: !!python/unicode 'Ninigi-no-Mikoto ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' The deity of wisdom and intelligence,
     who is always called upon to "ponder" and give good counsel in the deliberations
     of the heavenly deities.
 
     ', japanese_name: " \uFF08\u601D\u517C\uFF09 ", name: !!python/unicode 'Omoikane ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " Commonly called Raiden (\u96F7\u96FB), he is the god of\
     \ thunder and lightning, and is often paired with F\u016Bjin. As with the latter,\
     \ Raijin is usually depicted as an oni.\n", japanese_name: " (\u96F7\u795E) ",
-  name: !!python/unicode 'Raijin ', pantheon: Japanses}
+  name: !!python/unicode 'Raijin ', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " Also known as Watatsumi or \u014Cwatatsumi, he is a Japanese\
-    \ dragon", japanese_name: " (\u9F8D\u795E) ", name: "Ry\u016Bjin ", pantheon: Japanses}
+    \ dragon", japanese_name: " (\u9F8D\u795E) ", name: "Ry\u016Bjin ", pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " A small deity of medicine and rain, who created and solidified\
     \ the land with \u014Ckuninushi.\n", japanese_name: " \uFF08\u5C11\u540D\u6BD8\
-    \u53E4\u90A3\uFF09 ", name: "Sukuna-Biko-Na\u3000", pantheon: Japanses}
+    \u53E4\u90A3\uFF09 ", name: "Sukuna-Biko-Na\u3000", pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " The god of scholarship, he is the deified Sugawara no Michizane\
     \ (845\u2013c903), who was elevated to his position after dying in exile and subsequent\
     \ disasters in Kyoto", japanese_name: " (\u5929\u795E) ", name: !!python/unicode 'Tenjin ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " Also known as Otohime (\u4E59\u59EB), she was the daughter\
     \ of Ry\u016Bjin and the grandmother of Jimmu. It is said that after she gave\
     \ birth to her son, she turned into a dragon and disappeared.\n", japanese_name: " (\u8C4A\
-    \u7389\u59EB) ", name: !!python/unicode 'Toyotama-hime ', pantheon: Japanses}
+    \u7389\u59EB) ", name: !!python/unicode 'Toyotama-hime ', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Also known as Tsukiyomi, Tsuki no Kami,
     Tsukiyomino Mikoto, and Tsukiyumi no Mikoto, he is the Lunar deity', japanese_name: " (\u6708\
     \u8AAD\u306E\u547D or \u6708\u591C\u898B\u306E\u5C0A) ", name: !!python/unicode 'Tsukuyomi ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' the kami of all evil and stars who existed
     before the Kotoamatsukami.
 
     ', japanese_name: " (\u5929\u6D25\u7515\u661F) ", name: !!python/unicode 'Amatsu-Mikaboshi ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' the wife of Ninigi and daughter of Ohoyamatsumi,
     and great-grandmother of Jimmu. She is also known as the goddess of Mount Fuji.
     She is also known by the name Sengen.
 
     ', japanese_name: " (\u6728\u82B1\u4E4B\u958B\u8036\u59EB) ", name: !!python/unicode 'Konohanasakuya-hime ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' an elder brother of Amaterasu, and an
     important god who rules mountain, sea, and war, as well as the father of Konohanasakuya-hime.
 
     ', japanese_name: " (\u5927\u5C71\u7A4D\u547D) ", name: "\u014Choyamatsumi ",
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' a kami of the Earth that guided Ninigi
     to the Japanese islands.
 
     ', japanese_name: " (\u733F\u7530\u6BD8\u53E4\u795E) ", name: "Sarutahiko \u014C\
-    kami ", pantheon: Japanses}
+    kami ", pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' sometimes called Ogetsu-hime-no-Kami,
     a goddess of food. After she had spat a fish, vomited or defecated game and coughed
@@ -2969,7 +2969,7 @@ dictitems: {description: !!python/unicode ' sometimes called Ogetsu-hime-no-Kami
     Susanoo.
 
     ', japanese_name: " (\u4FDD\u98DF\u795E) ", name: !!python/unicode 'Uke Mochi ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' reportedly called "Futsu". Almost all
     the oldest Shinto shrines such as "Isonokami Jingu" (the only "Jingu", the shrine
@@ -2979,16 +2979,16 @@ dictitems: {description: !!python/unicode ' reportedly called "Futsu". Almost al
     are the same as "Futsu", "Futsushi" and "Furu".
 
     ', japanese_name: " (\u7D4C\u6D25\u4E3B\u5C0A, \u658E\u4E3B\u5C0A) ", name: !!python/unicode 'Futsu-nushi-no-kami ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Alternately Romanization', japanese_name: " (\u9808\
-    \u4F50\u4E4B\u7537\u5C0A) ", name: !!python/unicode 'Susanoo ', pantheon: Japanses}
+    \u4F50\u4E4B\u7537\u5C0A) ", name: !!python/unicode 'Susanoo ', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' reportedly called "Futsushi" and said
     a son or elder brother of "Futsu".
 
     ', japanese_name: " (\u5929\u82D7\u52A0\u5C0A) ", name: !!python/unicode 'Ame-no-naemasu-no-Mikoto ',
-  pantheon: Japanses}
+  pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " reportedly called \"Furu\" and said a sone of \"Futsushi\"\
     . Only Nigihayahi (Furu) has the name of \"Amateru (\u5929\u7167)\" among Japanese\
@@ -2997,4 +2997,769 @@ dictitems: {description: " reportedly called \"Furu\" and said a sone of \"Futsu
     \ Jinmu in the two oldest official history books of Japan, \"Kojiki\" (712) or\
     \ \"Nihon Shoki\" (720).\n", japanese_name: " (\u9952\u901F\u65E5\u5C0A, \u5929\
     \u7167\u56FD\u7167\u5F66\u5929\u706B\u660E\u6ADB\u7389\u9952\u901F\u65E5\u5C0A\
-    ) ", name: !!python/unicode 'Nigihayahi-no-mikoto ', pantheon: Japanses}
+    ) ", name: !!python/unicode 'Nigihayahi-no-mikoto ', pantheon: Japanese}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "the sky father   \n", name: !!python/unicode 'Dyaush-Pita',
+  pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the earth mother
+
+    ', name: !!python/unicode 'Prithivi mata', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the wind God
+
+    ', name: !!python/unicode 'Vayu', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the rain God
+
+    ', name: !!python/unicode 'Parjanya', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the sun God
+
+    ', name: !!python/unicode 'Surya', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the God of oceans
+
+    ', name: !!python/unicode 'Varuna', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the fire God
+
+    ', name: !!python/unicode 'Agni', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the war God
+
+    ', name: !!python/unicode 'Indra', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the God of speech, deity of soma creeper
+
+    ', name: !!python/unicode 'Soma', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "the Goddess of dawn   \n", name: !!python/unicode 'Ushas',
+  pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the God of death
+
+    ', name: !!python/unicode 'Yama', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a group of deities, who are six in number
+    in the Rig Veda, eight in most of the Brahmanas and twelve in the Satapatha Brahmana
+
+    ', name: !!python/unicode 'Adityas', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'twin Deities
+
+    ', name: !!python/unicode 'Aswini', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'eight in number
+
+    ', name: !!python/unicode 'Rudras', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "eight in number  \n", name: !!python/unicode 'Vasus',
+  pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'ten in number
+
+    ', name: !!python/unicode 'Visvedevas', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The Constellations or stars
+
+    ', name: !!python/unicode 'Nakshatra', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Antariksha
+
+    ', name: !!python/unicode 'Space', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Dyaus
+
+    ', name: !!python/unicode 'Sky', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'creator of the entire universe
+
+    ', name: !!python/unicode 'God Brahma', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The preserver of the Universe
+
+    ', name: !!python/unicode 'God Vishnu', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The destroyer and has the power of his
+    3rd eye
+
+    ', name: !!python/unicode 'God Shiva', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The consort of God Brahma, the goddess
+    for knowledge
+
+    ', name: !!python/unicode 'Goddess Saraswati', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "The Consort of God Vishnu and the goddess\
+    \ of wealth, delight, beauty     and love. \n", name: !!python/unicode 'Goddess
+    Laxmi', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The consort of God Shiva and the goddess
+    of transformation, power and destruction.
+
+    ', name: !!python/unicode 'Goddess Parvati', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the form of Goddess Parvati
+
+    ', name: !!python/unicode 'Sati Maa', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the form of Goddess Parvati and the energy
+    of mother
+
+    ', name: !!python/unicode 'Durga Maa', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'having the destructive power and harmful
+    energy
+
+    ', name: !!python/unicode 'Kali Mata', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the powerful form of Shakti
+
+    ', name: !!python/unicode 'The Mahadevi', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "the consort of Lord Rama \n", name: !!python/unicode 'Sita
+    Mata', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the consort of Lord Krishna
+
+    ', name: !!python/unicode 'Rukmani', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "the divine devotee and fan of Lord Krishna\
+    \ \n", name: !!python/unicode 'Radha', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the holy river
+
+    ', name: !!python/unicode 'Ganga Mata', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the holy river
+
+    ', name: !!python/unicode 'Yamuna Maa', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the goddess of learning
+
+    ', name: !!python/unicode 'Gayatri Maa', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the goddess
+
+    ', name: !!python/unicode 'Santoshi Maa', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the goddess
+
+    ', name: !!python/unicode 'Mata Vishnodevi', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the goddess of Harvests
+
+    ', name: !!python/unicode 'Maa Annpurna', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the seventh incarnation of God Vishnu
+
+    ', name: !!python/unicode 'God Rama', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the eighth incarnation of God Vishnu
+
+    ', name: !!python/unicode 'God Krishna', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the strong and powerful incarnation of
+    God Shiva
+
+    ', name: !!python/unicode 'God Bhirav', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Vishnu as a fish
+
+    ', name: !!python/unicode 'Matsya Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "Vishnu as a tortoise \n", name: !!python/unicode 'Kurma
+    Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "Vishnu as a boar \n", name: !!python/unicode 'Varaha
+    Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Vishnu the half lion-half man)
+
+    ', name: !!python/unicode 'Narasimha Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Vishnu as in form of the dwarf
+
+    ', name: !!python/unicode 'Vamana Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Vishnu as brahaman\u2019s son - Rama with an axe\n", name: !!python/unicode 'Parasurama
+    Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Vishnu as the prince of Ayodhya
+
+    ', name: !!python/unicode 'Rama Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Vishnu as in black tribal
+
+    ', name: !!python/unicode 'Krishna Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Vishnu as form of the completely enlightened
+    one
+
+    ', name: !!python/unicode 'Buddha Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Vishnu the incarnation to come in future
+
+    ', name: !!python/unicode 'Kalki Avatar', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'son of God Shiva and Goddess Parvati
+
+    ', name: !!python/unicode 'Ganesh', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode " Subramaynan, Shanmuga |- son of Shiva\
+    \ and Parvati \n", name: !!python/unicode 'Kartikeya ', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'son of Vasudeva and younger brother of
+    Balarama
+
+    ', name: !!python/unicode 'Krishna', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Elder brother of Lord Krishna
+
+    ', name: !!python/unicode 'Balarama', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'son of Vayu
+
+    ', name: !!python/unicode 'Hanuman', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "The father of Lord Krishna \n", name: !!python/unicode 'Vasudeva ',
+  pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The god of energy or life
+
+    ', name: !!python/unicode 'Surya', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The god of fire
+
+    ', name: !!python/unicode 'Agni', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The god of air
+
+    ', name: !!python/unicode 'Vayu', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "(the dew) : God of the dawn and the charioteer\
+    \ of the sun (son of Vinata and the wise Kasyapa. \n", name: !!python/unicode 'Arjuna',
+  pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'personification of the holy river
+
+    ', name: !!python/unicode 'Ganga', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'personification of the Vedic hymn
+
+    ', name: !!python/unicode 'Gayatri', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the monkey god - devotee of Rama
+
+    ', name: !!python/unicode 'Hanuman', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'King of the abode of gods
+
+    ', name: !!python/unicode 'Indra', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'god of love
+
+    ', name: !!python/unicode 'Kamdeva', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'god of wealth
+
+    ', name: !!python/unicode 'Kubera', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the Hindu Noah
+
+    ', name: !!python/unicode 'Manu', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the wandering seer who features in almost
+    all the Puranas
+
+    ', name: !!python/unicode 'Narada', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "the god of storms \n", name: !!python/unicode 'Rudra',
+  pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode " the god of conscience and the wife of\
+    \ SURYA (sun) \n", name: !!python/unicode 'Sanjna', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the moon god
+
+    ', name: !!python/unicode 'Soma', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the god of oceans
+
+    ', name: !!python/unicode 'Varuna', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the divine architect of the universe
+
+    ', name: !!python/unicode 'Vishwakarma', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the god of death
+
+    ', name: !!python/unicode 'Yama', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'beautiful ladies, who dance in the court
+    of Indra and names RAMBHA,
+
+    ', name: !!python/unicode 'Apsaras', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'celestial musicians who play in the court
+    of Indra
+
+    ', name: !!python/unicode 'Gandharvas', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'mythical beings, with a body of a man and
+    head of a horse
+
+    ', name: !!python/unicode 'Kinnaras', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'classes of spirits of great purity and
+    holiness
+
+    ', name: !!python/unicode 'Siddhas', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the guardians of wealth and attendants
+    of Kubera
+
+    ', name: !!python/unicode 'Yaksha', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the infinite, the king of Nagas, vehicle
+    of Vishnu or the bed on which Vishnu rests
+
+    ', name: !!python/unicode 'Sheshnag', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the cow of plenty
+
+    ', name: !!python/unicode 'Kamadhenu', pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'the king of birds', name: !!python/unicode 'Garuda',
+  pantheon: Hindu}
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of the Moon and wife of I
+
+    '
+  domains: []
+  name: !!python/unicode 'Ch''ang-o '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of walls and ditches.  Each town/village had
+    its own local Ch''eng-Huang. '
+  domains: [!!python/unicode ' Protection', !!python/unicode ' justice
+
+      ']
+  name: !!python/unicode 'Ch''eng-Huang '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of spinners, weavers and clouds. '
+  domains: [!!python/unicode ' Handcrafts', !!python/unicode ' rain
+
+      ']
+  name: !!python/unicode 'Chih-Nii '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Guardian God.  T''ang dynasty military hero elevated
+    to the job of guarding doors. '
+  domains: [!!python/unicode ' Protection', !!python/unicode ' privacy
+
+      ']
+  name: !!python/unicode 'Ch''in-Shu-Pao '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of the bedroom and sexual delights. '
+  domains: [!!python/unicode ' Sex
+
+      ']
+  name: !!python/unicode 'Chuang-Mu '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of fire and executions. '
+  domains: [!!python/unicode ' Justice', !!python/unicode ' revenge', !!python/unicode ' death
+
+      ']
+  name: !!python/unicode 'Chu-Jung '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God who chases away evil spirits and shape-shifter
+    who had up to 72 different bodily forms.  Widely worshipped. '
+  domains: [!!python/unicode ' Protection from evil
+
+      ']
+  name: !!python/unicode 'Erh-Lang '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of winds. '
+  domains: [!!python/unicode ' Storms', !!python/unicode ' moisture
+
+      ']
+  name: !!python/unicode 'Feng-Po-Po '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of happiness, symbolized by the bat. '
+  domains: [!!python/unicode ' Destiny', !!python/unicode ' love', !!python/unicode ' success
+
+      ']
+  name: !!python/unicode 'Fu-Hsi '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Ancient harvest God.  Depicted as a kindly old man
+    with millet stalks growing on his head. '
+  domains: [!!python/unicode ' Harvest', !!python/unicode ' crops
+
+      ']
+  name: !!python/unicode 'Hou-Chi '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Highest Goddess of ancient China.  Her palace iss
+    in the Khun-lun mountain where she protects the herb of immortality. '
+  domains: [!!python/unicode ' Curing disease
+
+      ']
+  name: !!python/unicode 'Hsi Wang Mu '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Ruler of Water, God who removes evil spirits and
+    demons. '
+  domains: [!!python/unicode ' Exorcism
+
+      ']
+  name: !!python/unicode 'Hsuan-T''ien-Shang-Ti '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Female deity Earth.  The Emperor offered sacrifices
+    to her on a square marble altar in the Forbidden City each summer solstice. '
+  domains: [!!python/unicode ' Earth magick', !!python/unicode ' fertility
+
+      ']
+  name: !!python/unicode 'Hu-Tu '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of wine who invented winemaking. '
+  domains: [!!python/unicode ' Wine
+
+      ']
+  name: !!python/unicode 'I-Ti '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of war and fortunetelling.  Shown dressed in
+    green and had a red face. '
+  domains: [!!python/unicode ' Protection', !!python/unicode ' valor', !!python/unicode ' justice',
+    !!python/unicode ' divination', !!python/unicode ' revenge', !!python/unicode ' death',
+    !!python/unicode ' dark magick', !!python/unicode ' prophecy
+
+      ']
+  name: !!python/unicode 'Kuan Ti '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Great Mother, patroness of priestesses.  Sometime
+    depicted holding a child.  It is thought this Goddess sits on her paradise island
+    of P''u T''o and answers every prayer to her.'
+  domains: [!!python/unicode ' Success', !!python/unicode ' mercy', !!python/unicode ' purification',
+    !!python/unicode ' fertility', !!python/unicode ' children', !!python/unicode ' motherhood',
+    !!python/unicode ' childbirth', !!python/unicode ' healing', !!python/unicode ' enlightenment
+
+      ']
+  name: !!python/unicode 'Kuan Yin '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Protector of travelers.  God of tests and examinations,
+    literature and students. '
+  domains: [!!python/unicode ' Protection during travel', !!python/unicode ' tests',
+    !!python/unicode ' literature', !!python/unicode ' students
+
+      ']
+  name: !!python/unicode 'K''uei-Hsing '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' One of the 8 Immortals of ancient China, this Goddess
+    dressed as a woman but had a male voice.  Carried a flute and basket of fruit.'
+  domains: [!!python/unicode ' Music', !!python/unicode ' fertility
+
+      ']
+  name: !!python/unicode 'Lan Ts''ai-Ho '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' The Jade Emperor.  "Father Heaven."'
+  domains: [!!python/unicode " \n"]
+  name: !!python/unicode 'Lao-Tien-Yeh '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of thunder and retribution, he had few shrines.  Shown
+    as an ugly man with blue skin, wings and claws, clad in a loincloth.  He punished
+    the guilty that human law did not touch. '
+  domains: [!!python/unicode ' Justice', !!python/unicode ' punishment
+
+      ']
+  name: !!python/unicode 'Lei-King '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of rivers. '
+  domains: [!!python/unicode ' Water magick
+
+      ']
+  name: !!python/unicode 'Lo Shen '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of pay and employees.  Symbol was a deer which
+    he rode on.'
+  domains: [!!python/unicode ' Prosperity', !!python/unicode ' success', !!python/unicode ' law',
+    !!python/unicode ' employment
+
+      ']
+  name: !!python/unicode 'Lu-Hsing '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of carpenters and masons. '
+  domains: [!!python/unicode ' Artistic abilities', !!python/unicode " fame. \n"]
+  name: !!python/unicode 'Lu-Pan '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of springtime. '
+  domains: [!!python/unicode ' Spring rites
+
+      ']
+  name: !!python/unicode 'Ma-Ku '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Two deities who warded the door against evil spirits
+    and hostile influences.  One had a red or black face, the other a white face.  They
+    both wore military dress, holding a long-handled mace.'
+  domains: [!!python/unicode " Protection. \n"]
+  name: !!python/unicode 'Men Shen '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess who lived just inside the door to hell where
+    those reincarnating would depart.  Her sacred potion, of which she gave a few
+    drops to each departing person, made all humans forget previous lives. '
+  domains: [!!python/unicode ' Rules Over: Passing over rites', !!python/unicode ' past-lives
+
+      ']
+  name: !!python/unicode 'Meng-Po Niang Niang '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Creator Goddess who made humankind. '
+  domains: [!!python/unicode ' Creation
+
+      ']
+  name: !!python/unicode 'Nu Kua '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of droughts. '
+  domains: [!!python/unicode ' Droughts
+
+      ']
+  name: !!python/unicode 'Pa '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of prostitutes. '
+  domains: [!!python/unicode ' Prostitution
+
+      ']
+  name: !!python/unicode 'P''an-Chin-Lien '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of childbirth and labor, she brings health
+    and good fortune to the newborn and protection to the mother. '
+  domains: [!!python/unicode ' Protection', !!python/unicode ' good fortune', !!python/unicode ' health',
+    !!python/unicode ' childbirth', !!python/unicode ' labor
+
+      ']
+  name: !!python/unicode 'Pi-Hsia Yuan Chin '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of the clouds.'
+  domains: [!!python/unicode ' Ending droughts
+
+      ']
+  name: !!python/unicode 'Sao-Ts''ing Niang '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Historical Buddha. '
+  domains: [!!python/unicode ' Virtue', !!python/unicode ' enlightenment', !!python/unicode ' self-realization
+
+      ']
+  name: !!python/unicode 'Shaka-Nyorai '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' The Supreme God.'
+  domains: [!!python/unicode " \n"]
+  name: !!python/unicode 'Shang-Ti '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of medicine, pharmacy, agriculture. '
+  domains: [!!python/unicode ' Medicine', !!python/unicode ' pharmacy', !!python/unicode ' agriculture
+
+      ']
+  name: !!python/unicode 'Shen Nung '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of longevity and old people, keeper of the book
+    of the life-span of men.  Shown with a prominent bald head with white eyebrows
+    and whiskers.  A stag beside him, he leaned on a staff and carried a peach, symbol
+    of immortality. '
+  domains: [!!python/unicode ' Life plan', !!python/unicode ' date of death', !!python/unicode ' reincarnation
+
+      ']
+  name: !!python/unicode 'Shou-Hsing '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God who defends men against all evil and forgives
+    sins. '
+  domains: [!!python/unicode ' Averting evil
+
+      ']
+  name: !!python/unicode 'Shui-Khan '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of the affairs of men, protector of men and
+    animals. '
+  domains: [!!python/unicode ' Children', !!python/unicode ' fortune', !!python/unicode ' honors',
+    !!python/unicode ' fate', !!python/unicode ' animals', !!python/unicode ' payment
+      of good and bad karma', !!python/unicode ' prosperity', !!python/unicode ' success
+
+      ']
+  name: !!python/unicode 'T''ai-Yueh-Ta-Ti '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Protectress of sailors and others in time of danger. '
+  domains: [!!python/unicode ' Protection
+
+      ']
+  name: !!python/unicode 'Tien-Hou '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God who bestows happiness. '
+  domains: [!!python/unicode ' Happiness
+
+      ']
+  name: !!python/unicode 'T''ien-Khuan '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of lightning. '
+  domains: [!!python/unicode ' Lightning
+
+      ']
+  name: !!python/unicode 'Tien-Mu '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God who grants remission of sins.'
+  domains: [!!python/unicode " \n"]
+  name: !!python/unicode 'Ti-Khuan '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of mercy, he visited those in Hell and tried
+    to arrange for a good reincarnation.  Depicted as a smiling robed monk with a
+    halo around his body and carried a pearl that gave off light. '
+  domains: [!!python/unicode ' Knowledge for reincarnation
+
+      ']
+  name: !!python/unicode 'Ti-Tsang-Wang-Pu-Sa '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of the polestar and record-keeper; scribe
+    of the Immortals.  Judge of all peoples. '
+  domains: [!!python/unicode ' Stars', !!python/unicode ' records', !!python/unicode ' writing',
+    !!python/unicode ' judgement
+
+      ']
+  name: !!python/unicode 'Tou-Mou '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Description: God of wealth, most popular chinese
+    god.  Shown dressed in exquisite silks. '
+  domains: [!!python/unicode ' Abundance', !!python/unicode ' success
+
+      ']
+  name: !!python/unicode 'Tsai Shen '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Kitchen god, god of the hearth.  Protector of families
+    and recorder of the actions and words of each family.  His wife recorded the behavior
+    of women in particular.  He gave his report to the Jade Emperor who then determined
+    the family''s coming fortunes
+
+    '
+  domains: []
+  name: !!python/unicode 'Tsao-Wang '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' Goddess of the outhouse.  It is said that when a
+    woman wanted to know the future, she went to the outhouse and asked Tsi-Ku. '
+  domains: [!!python/unicode ' Outhouses', !!python/unicode ' divination
+
+      ']
+  name: !!python/unicode 'Tsi-Ku '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' God of literature and poetry. '
+  domains: [!!python/unicode ' Writing', !!python/unicode ' publishing', !!python/unicode ' artistic
+      fame
+
+      ']
+  name: !!python/unicode 'Twen-Ch''ang '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' "Master of healing." '
+  domains: [!!python/unicode ' Psychic abilities', !!python/unicode ' healing powers
+
+      ']
+  name: !!python/unicode 'Yao-Shih '
+  pantheon: Chinese
+--- !!python/object/new:OlympiaNK.God
+dictitems:
+  description: !!python/unicode ' FOremost of the ten Yama Kings of Lords of Death.  Ruler
+    of hell.  He decided the fate of all new arrivals, determining if they went to
+    a special court for trial, were punished or sent straight back to the Wheel of
+    Life.'
+  domains: [!!python/unicode ' Judgment', !!python/unicode ' punishment', !!python/unicode ' karmic
+      justice
+
+      ']
+  name: !!python/unicode 'Yeng-Wang-Yeh '
+  pantheon: Chinese
