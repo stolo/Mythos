@@ -2198,3 +2198,803 @@ dictitems:
   domains: [merchants, travellers]
   name: !!python/unicode 'Yacatecuhtli '
   pantheon: Aztec
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of beauty, innocence, peace, and rebirth.
+    Consort: Nanna (Norse deity)|Nanna
+
+    ', name: !!python/unicode 'Baldr', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Father of Odin|\xD3\xF0inn, Vili and Ve. Marriage|Consort:\
+    \ Bestla\n", name: !!python/unicode 'Borr', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "God of poetry. Consort: I\xF0unn\n", name: !!python/unicode 'Bragi',
+  pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The first god and father of Borr.
+
+    ', name: "B\xFAri", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "God of the daytime, son of Delling and N\xF3tt.\n", name: !!python/unicode 'Dagr',
+  pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "God of dawn and father of Dagr by N\xF3tt.\n", name: !!python/unicode 'Delling',
+  pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of healing.
+
+    ', name: !!python/unicode 'Eir', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of justice, peace and truth. Son of
+    Baldr and Nanna (Norse deity)|Nanna.
+
+    ', name: !!python/unicode 'Forseti', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Goddess of love, sexuality, fertility and battle. Consort:\
+    \ \xD3\xF0r\n", name: !!python/unicode 'Freyja', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "God of fertility. Consort: Gerd|Ger\xF0\n", name: !!python/unicode 'Freyr',
+  pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Goddess of marriage and motherhood. Consort: Odin|\xD3\xF0\
+    inn Can also be pronounced Frigga\n", name: !!python/unicode 'Frigg', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Frigg\xB4s handmaid.\n", name: !!python/unicode 'Fulla',
+  pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode "God of the moon. Brother of Tree|Re`es\
+    \ andWeth. \n", name: !!python/unicode 'Gmot', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of fertility and plough.
+
+    ', name: !!python/unicode 'Gefjun', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Queen of Hel (realm)|Hel, the Norse underworld.
+
+    ', name: !!python/unicode 'Hel (being)|Hel', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "One of the \xC6sir and guardian of \xC1sgard|\xC1sgar\xF0\
+    , their realm.\n", name: "Heimdallr (R\xEDgr)", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "\xD3\xF0inn\xB4s son.\n", name: "Herm\xF3\xF0r", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of consolation and protection.
+
+    ', name: "Hl\xEDn", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of winter.
+
+    ', name: "H\xF6\xF0r", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The silent god.
+
+    ', name: "H\u0153nir", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of youth. Consort: Bragi.
+
+    ', name: "I\xF0unn", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Goddess of the Earth. Mother of Thor|\xDE\xF3rr by Odin|\xD3\
+    \xF0inn.\n", name: "J\xF6r\xF0", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of inspiration.
+
+    ', name: !!python/unicode 'Kvasir', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of love.
+
+    ', name: !!python/unicode 'Lofn', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Trickster and giant of mischief . Consort:
+    Sigyn (also called Saturn (mythology)|Saeter)
+
+    ', name: !!python/unicode 'Loki', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of Moon.
+
+    ', name: "M\xE1ni", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Odin|\xD3\xF0inn\xB4s uncle.\n", name: "M\xEDmir", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "An \xC1synja married with Baldr and mother to Forseti.\n",
+  name: !!python/unicode 'Nanna (Norse deity)|Nanna', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "A goddess mentioned by Tacitus. Her name is connected to\
+    \ that of Njord|Nj\xF6r\xF0r.\n", name: !!python/unicode 'Nerthus', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of sea, wind, fish, and wealth.
+
+    ', name: "Nj\xF6r\xF0r", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Goddess of night, daughter of Narvi (Norse mythology)|Narvi\
+    \ and mother of Au\xF0, J\xF6r\xF0 and Dagr by Naglfari, Annar and Delling, respectively.\n",
+  name: "N\xF3tt", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The "All Father" (The Ruler of the gods)
+
+    ', name: !!python/unicode 'Odin', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'An obscure goddess, possibly another name
+    for Frigg.
+
+    ', name: !!python/unicode 'Saga', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Wife of Thor.
+
+    ', name: !!python/unicode 'Sif', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of love.
+
+    ', name: "Sj\xF6fn", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Goddess of winter Njord|Nj\xF6r\xF0rs wife.\n", name: "Ska\xF0\
+    i", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of prudence.
+
+    ', name: !!python/unicode 'Snotra', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of Sun.
+
+    ', name: !!python/unicode 'Sol (goddess)|Sol (Sunna)', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of thunder and battle. Consort: Sif.
+
+    ', name: !!python/unicode 'Thor (Donar)', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of Stone
+
+    ', name: !!python/unicode 'Tiki', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of life
+
+    ', name: !!python/unicode 'Tree', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of War Also the God of the Skies.
+
+    ', name: !!python/unicode 'Tyr', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of skill, hunt, and duel. Son of Sif.
+
+    ', name: !!python/unicode 'Ullr', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '(son of Odin) God of revenge.
+
+    ', name: "V\xE1li", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of contract.
+
+    ', name: "Var (goddess)|V\xE1r", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "One of the three gods of creation. Brother of Odin|\xD3\xF0\
+    inn and Vili.\n", name: "V\xE9", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "Son of Odin and the giantess Gr\xED\xF0r.\n", name: !!python/unicode 'Vidar',
+  pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of wisdom.
+
+    ', name: "V\xF6r", pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of anger
+
+    ', name: !!python/unicode 'Weth', pantheon: Norse}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'possibly a river-god
+
+    ', name: !!python/unicode 'Abandinus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'god of apple trees
+
+    ', name: !!python/unicode 'Abellio', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'god of healing and prophesy
+
+    ', name: !!python/unicode 'Alaunus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Alisanos', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of thunder and lightning
+
+    ', name: !!python/unicode 'Ambisagrus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a protector god
+
+    ', name: !!python/unicode 'Anextiomarus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a horse god
+
+    ', name: !!python/unicode 'Atepomarus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a tribal god
+
+    ', name: !!python/unicode 'Arvernus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Arausio, a god of water
+
+    ', name: !!python/unicode 'Arausio', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of the sea and water
+
+    ', name: !!python/unicode 'Barinthus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of war
+
+    ', name: !!python/unicode 'Belatu-Cadros', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of healing.
+
+    ', name: !!python/unicode 'Belenus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of mineral and hot springs
+
+    ', name: !!python/unicode 'Borvo', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of box trees
+
+    ', name: !!python/unicode 'Buxenus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of war and sky
+
+    ', name: !!python/unicode 'Camalus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Canetonnessis', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Cernunnos', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Cicolluis', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Cimbrianus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of trade
+
+    ', name: !!python/unicode 'Cissonius', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of war
+
+    ', name: !!python/unicode 'Mars Cnabetius', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of war
+
+    ', name: !!python/unicode 'Cocidius', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of the confluences of rivers
+
+    ', name: !!python/unicode 'Condatis', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of a city
+
+    ', name: !!python/unicode 'Contrebis', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Dii Casses', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of the underworld
+
+    ', name: !!python/unicode 'Dis Pater', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Esus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of beech trees
+
+    ', name: !!python/unicode 'Fagus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of healing and mineral springs
+
+    ', name: !!python/unicode 'Grannus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of a river
+
+    ', name: !!python/unicode 'Icaunus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Intarabus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a protector of youth
+
+    ', name: !!python/unicode 'Iovantucarus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a healing god
+
+    ', name: !!python/unicode 'Lenus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of thunder
+
+    ', name: !!python/unicode 'Leucetios', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'creation and learning
+
+    ', name: !!python/unicode 'Lugus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of a city''s water
+
+    ', name: !!python/unicode 'Luxovius', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of youth
+
+    ', name: !!python/unicode 'Maponos', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Mogons', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a healing badger god
+
+    ', name: !!python/unicode 'Moritasgus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Mullo', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "a god worshipped at N\xEEmes\n", name: !!python/unicode 'Nemausus',
+  pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Nerius', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of healing, the sea, hunting and
+    dogs
+
+    ', name: !!python/unicode 'Nodens', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Ogmios', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of oak trees
+
+    ', name: !!python/unicode 'Robor', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of war
+
+    ', name: !!python/unicode 'Rudianos', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of war
+
+    ', name: !!python/unicode 'Segomo', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of war
+
+    ', name: !!python/unicode 'Smertrios', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of love and time
+
+    ', name: !!python/unicode 'Sucellos', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of thunder
+
+    ', name: !!python/unicode 'Taranis', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a tribal god
+
+    ', name: !!python/unicode 'Toutatis', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Veteris', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Virotutis', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Visucius', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a hunting and healing god
+
+    ', name: !!python/unicode 'Vindonnus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode '
+
+    ', name: !!python/unicode 'Vinotonus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'a god of the Vosges Mountains
+
+    ', name: !!python/unicode 'Vosegus', pantheon: Celtic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Sun god, possibly a culture hero and a
+    source of wealth and power
+
+    ', name: "Da\u017Ebog", pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of vegetation, fertility and spring;
+    also associated with war and harvest
+
+    ', name: !!python/unicode 'Jarilo', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of harvest, witchcraft, winter
+    and death
+
+    ', name: !!python/unicode 'Marzanna', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of thunder and lightning
+
+    ', name: !!python/unicode 'Perun', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The birth-giver, creator of all existent.
+    Supreme god, according to some theories
+
+    ', name: !!python/unicode 'Rod ', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of fire, sometimes described as a smith
+    god
+
+    ', name: !!python/unicode 'Svarog', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of war, fertility and abundance
+
+    ', name: !!python/unicode 'Svetovid', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Three-headed god
+
+    ', name: !!python/unicode 'Triglav', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of earth, waters, and the underworld
+
+    ', name: !!python/unicode 'Veles', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of beauty
+
+    ', name: !!python/unicode 'Zaria', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of love and fertility
+
+    ', name: "\u017Diva", pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Three (or two) guardian goddesses that
+    represent the morning, evening and midnight stars
+
+    ', name: !!python/unicode 'Zorya', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The White God; speculated to be a god of
+    light and sun
+
+    ', name: !!python/unicode 'Belobog', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Evil Wendish mythology|Wendish god of the
+    forest
+
+    ', name: !!python/unicode 'Berstuk', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The Black God; speculated to be the opposite
+    number of Belobog
+
+    ', name: !!python/unicode 'Chernobog', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of rain, sometimes believed to
+    be the wife of Perun
+
+    ', name: !!python/unicode 'Dodola', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Polish spirit of the west wind, associated
+    with love and gentleness
+
+    ', name: !!python/unicode 'Dogoda', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Virgin goddess of the hunt; equivalent
+    of the Roman mythology
+
+    ', name: !!python/unicode 'Dziewona', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Polish goddess of love, marriage, sexuality
+    and fertility
+
+    ', name: !!python/unicode 'Dzydzilelya', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Wendish god of death
+
+    ', name: !!python/unicode 'Flins', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of the winter sun, healing, survival,
+    and the triumph of health over illness
+
+    ', name: !!python/unicode 'Hors', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of the hunt
+
+    ', name: !!python/unicode 'Ipabog', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Wendish moon god
+
+    ', name: !!python/unicode 'Juthrbog', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Wendish protector of the town of Charenza
+
+    ', name: !!python/unicode 'Karewit', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Fire god
+
+    ', name: !!python/unicode 'Kresnik', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of fertility
+
+    ', name: !!python/unicode 'Kupalo', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of the sky, responsible for the
+    sunrise
+
+    ', name: !!python/unicode 'Koliada', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Fakeloric goddess of harmony, merriment,
+    youth, love and beauty, constructed by scholars during the Renaissance
+
+    ', name: !!python/unicode 'Lada', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Wendish god of nightmares
+
+    ', name: !!python/unicode 'Marowit', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Polish goddess of the grain
+
+    ', name: !!python/unicode 'Marzyana', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Polish goddess of the home and hearth
+
+    ', name: !!python/unicode 'Matka Gabia', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess connected with female activities
+    such as shearing, spinning and weaving
+
+    ', name: !!python/unicode 'Mokosh', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of the moon
+
+    ', name: !!python/unicode 'Myesyats', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Polish fire goddess who assists Perun
+
+    ', name: !!python/unicode 'Oynyena Maria', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of echo (phenomenon) echo, gossip,
+    fame and glory
+
+    ', name: "O\u017Awiena", pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of the underground and a divine judge
+
+    ', name: !!python/unicode 'Peklenc', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Polish goddess, purported to be Perun''s
+    mother
+
+    ', name: !!python/unicode 'Percunatel', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of drink and changing fortunes
+
+    ', name: !!python/unicode 'Pereplut', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Wendish god of weather, fishing, hunting
+    and farming
+
+    ', name: !!python/unicode 'Podaga', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of the woods, who protected lost voyagers
+    and punished those who mistreated the forest
+
+    ', name: !!python/unicode 'Porewit', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Possibly a god of hospitality, fertility
+    and crops
+
+    ', name: !!python/unicode 'Radegast', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Local personification of Perun, worshipped
+    by members of the Rani (Slavic tribe)|Rani in Charenza
+
+    ', name: !!python/unicode 'Rugiewit', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: "God of love and marriage; consort of \u017Diva\n", name: !!python/unicode 'Siebog',
+  pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Polish woodland god for whom moss was sacred
+
+    ', name: !!python/unicode 'Siliniez', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God and spirit of the winds, sky and air
+
+    ', name: !!python/unicode 'Stribog', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'The Fates of Polish mythology, who meted
+    out fortune, destiny, judgement and in some cases, fatality, when a child was
+    born
+
+    ', name: !!python/unicode 'Sudice', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Polish god of destiny and glory
+
+    ', name: !!python/unicode 'Sudz', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Blessing-bringing god of the meadows and
+    fields
+
+    ', name: !!python/unicode 'Tawals', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'God of storm winds and companion of Perun
+
+    ', name: !!python/unicode 'Varpulis', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of the earth
+
+    ', name: !!python/unicode 'Zeme', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Dragon god of sorcery
+
+    ', name: !!python/unicode 'Zirnitra', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Wendish moon goddess; also known as Kricco,
+    goddess of the seed
+
+    ', name: !!python/unicode 'Zislbog', pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Polish goddess known as the "Golden Woman"
+
+    ', name: "Z\u0142ota Baba", pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode 'Goddess of health and healing
+
+    ', name: "\u017Bywie", pantheon: Slavic}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Commonly called Uzume, she is the goddess
+    of dawn and revelry, instrumental to the Solar deity#Missing_sun', japanese_name: " (\u5929\
+    \u5B87\u53D7\u58F2\u547D or \u5929\u923F\u5973\u547D) ", name: !!python/unicode 'Ame-no-Uzume ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Commonly called Amaterasu, she is the
+    Solar deity', japanese_name: " (\u5929\u7167\u5927\u795E or \u5929\u7167\u5927\
+    \u5FA1\u795E) ", name: !!python/unicode 'Amaterasu ', pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' A male deity, he is considered the "First
+    in Charge of Divine Affairs", as well as the aide to the first Emperor of Japan.
+    He is also considered to be the ancestor of the Fujiwara family.
+
+    ', japanese_name: " (\u5929\u5150\u5C4B\u547D or \u5929\u5150\u5C4B\u6839\u547D\
+    ) ", name: !!python/unicode 'Ame-no-Koyane ', pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Also known as Kami-no-Kaze, he is the
+    Japanese god of the wind and one of the eldest Shinto gods, said to be present
+    at the creation of the world. He is often depicted as an Oni (Japanese folklore)',
+  japanese_name: " (\u98A8\u795E) ", name: "F\u016Bjin ", pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Also known as Hachiman-shin or Yawata
+    no Kami, he is the god of war and the divine protector of Japan and its people.
+    Originally an agriculture', japanese_name: " (\u516B\u5E61\u795E) ", name: !!python/unicode 'Hachiman ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The god or goddess of rice and fertility.
+    His/her messengers and symbolic animal are foxes.  He/she is often identified
+    with the Buddhist deity Dakiniten.
+
+    ', japanese_name: " (\u7A32\u8377) ", name: !!python/unicode 'Inari ', pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The forefather of the gods, he is the
+    first male as well as the god of creation and life. He and his wife, Izanami,
+    were responsible for the birth of the islands of Japan and many kami, though she
+    died in childbirth. Later, after his failed attempt to retrieve her from the Yomi',
+  japanese_name: " (\u4F0A\u5F0A\u8AFE or \u4F0A\u90AA\u90A3\u5C90) ", name: !!python/unicode 'Izanagi ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Izanagi''s wife and sister, she is the
+    first female as well as the goddess of creation and death. She died shortly after
+    the birth of Kagu-tsuchi, and Izanagi followed her to the underworld, but failed
+    to bring her back to the living world.  A marital spat between the pair caused
+    the cycle of life and death for all living beings.
+
+    ', japanese_name: " (\u4F0A\u5F09\u5189 or \u4F0A\u90AA\u90A3\u7F8E) ", name: !!python/unicode 'Izanami ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Commonly called Ninigi, he was the grandson
+    of Amaterasu. His great-grandson was Kamuyamato Iwarebiko, later to be known as
+    Emperor Jimmu, first emperor of Japan.
+
+    ', japanese_name: " (\u74CA\u74CA\u6775\u5C0A) ", name: !!python/unicode 'Ninigi-no-Mikoto ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' The deity of wisdom and intelligence,
+    who is always called upon to "ponder" and give good counsel in the deliberations
+    of the heavenly deities.
+
+    ', japanese_name: " \uFF08\u601D\u517C\uFF09 ", name: !!python/unicode 'Omoikane ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: " Commonly called Raiden (\u96F7\u96FB), he is the god of\
+    \ thunder and lightning, and is often paired with F\u016Bjin. As with the latter,\
+    \ Raijin is usually depicted as an oni.\n", japanese_name: " (\u96F7\u795E) ",
+  name: !!python/unicode 'Raijin ', pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: " Also known as Watatsumi or \u014Cwatatsumi, he is a Japanese\
+    \ dragon", japanese_name: " (\u9F8D\u795E) ", name: "Ry\u016Bjin ", pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: " A small deity of medicine and rain, who created and solidified\
+    \ the land with \u014Ckuninushi.\n", japanese_name: " \uFF08\u5C11\u540D\u6BD8\
+    \u53E4\u90A3\uFF09 ", name: "Sukuna-Biko-Na\u3000", pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: " The god of scholarship, he is the deified Sugawara no Michizane\
+    \ (845\u2013c903), who was elevated to his position after dying in exile and subsequent\
+    \ disasters in Kyoto", japanese_name: " (\u5929\u795E) ", name: !!python/unicode 'Tenjin ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: " Also known as Otohime (\u4E59\u59EB), she was the daughter\
+    \ of Ry\u016Bjin and the grandmother of Jimmu. It is said that after she gave\
+    \ birth to her son, she turned into a dragon and disappeared.\n", japanese_name: " (\u8C4A\
+    \u7389\u59EB) ", name: !!python/unicode 'Toyotama-hime ', pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Also known as Tsukiyomi, Tsuki no Kami,
+    Tsukiyomino Mikoto, and Tsukiyumi no Mikoto, he is the Lunar deity', japanese_name: " (\u6708\
+    \u8AAD\u306E\u547D or \u6708\u591C\u898B\u306E\u5C0A) ", name: !!python/unicode 'Tsukuyomi ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the kami of all evil and stars who existed
+    before the Kotoamatsukami.
+
+    ', japanese_name: " (\u5929\u6D25\u7515\u661F) ", name: !!python/unicode 'Amatsu-Mikaboshi ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' the wife of Ninigi and daughter of Ohoyamatsumi,
+    and great-grandmother of Jimmu. She is also known as the goddess of Mount Fuji.
+    She is also known by the name Sengen.
+
+    ', japanese_name: " (\u6728\u82B1\u4E4B\u958B\u8036\u59EB) ", name: !!python/unicode 'Konohanasakuya-hime ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' an elder brother of Amaterasu, and an
+    important god who rules mountain, sea, and war, as well as the father of Konohanasakuya-hime.
+
+    ', japanese_name: " (\u5927\u5C71\u7A4D\u547D) ", name: "\u014Choyamatsumi ",
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' a kami of the Earth that guided Ninigi
+    to the Japanese islands.
+
+    ', japanese_name: " (\u733F\u7530\u6BD8\u53E4\u795E) ", name: "Sarutahiko \u014C\
+    kami ", pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' sometimes called Ogetsu-hime-no-Kami,
+    a goddess of food. After she had spat a fish, vomited or defecated game and coughed
+    rice, she had been killed by a disgusted Tsukuyomi, or in some other versions,
+    Susanoo.
+
+    ', japanese_name: " (\u4FDD\u98DF\u795E) ", name: !!python/unicode 'Uke Mochi ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' reportedly called "Futsu". Almost all
+    the oldest Shinto shrines such as "Isonokami Jingu" (the only "Jingu", the shrine
+    only for the highest deity, in Japan before the sixth century), Oomiwa shrine
+    and already existed long before the conquest war of Emperor Jinmu who is the founder
+    of the current Japanese Dynasty. Almost all the oldest Shinto shrines'' deities
+    are the same as "Futsu", "Futsushi" and "Furu".
+
+    ', japanese_name: " (\u7D4C\u6D25\u4E3B\u5C0A, \u658E\u4E3B\u5C0A) ", name: !!python/unicode 'Futsu-nushi-no-kami ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' Alternately Romanization', japanese_name: " (\u9808\
+    \u4F50\u4E4B\u7537\u5C0A) ", name: !!python/unicode 'Susanoo ', pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: !!python/unicode ' reportedly called "Futsushi" and said
+    a son or elder brother of "Futsu".
+
+    ', japanese_name: " (\u5929\u82D7\u52A0\u5C0A) ", name: !!python/unicode 'Ame-no-naemasu-no-Mikoto ',
+  pantheon: Japanses}
+--- !!python/object/new:OlympiaNK.God
+dictitems: {description: " reportedly called \"Furu\" and said a sone of \"Futsushi\"\
+    . Only Nigihayahi (Furu) has the name of \"Amateru (\u5929\u7167)\" among Japanese\
+    \ deities. It is clearly described that Nigihayahi was ruling Yamato (ancient\
+    \ name of the capital and the center of Japan) before conquest war of emperor\
+    \ Jinmu in the two oldest official history books of Japan, \"Kojiki\" (712) or\
+    \ \"Nihon Shoki\" (720).\n", japanese_name: " (\u9952\u901F\u65E5\u5C0A, \u5929\
+    \u7167\u56FD\u7167\u5F66\u5929\u706B\u660E\u6ADB\u7389\u9952\u901F\u65E5\u5C0A\
+    ) ", name: !!python/unicode 'Nigihayahi-no-mikoto ', pantheon: Japanses}
