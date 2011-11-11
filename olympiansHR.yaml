@@ -172,12 +172,10 @@ dictitems:
   symbols: [Hunting Dogs, Stags, Bow, Arrows, Moon, Cypress]
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' The god of the upper air and light.
-
-    '
+  description: !!python/unicode 'The god of the upper air and light.'
   domains: [air, light]
-  greek_name: "\u0391\u1F30\u03B8\u03AE\u03C1 "
-  name: !!python/unicode ' Aether '
+  native_name: "\u0391\u1F30\u03B8\u03AE\u03C1"
+  name: !!python/unicode 'Aether'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -185,8 +183,8 @@ dictitems:
 
     '
   domains: [inevitability, compulsion, necessity]
-  greek_name: "\u1F08\u03BD\u03AC\u03B3\u03BA\u03B7 "
-  name: !!python/unicode ' Ananke '
+  native_name: "\u1F08\u03BD\u03AC\u03B3\u03BA\u03B7 "
+  name: !!python/unicode 'Ananke'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -194,18 +192,17 @@ dictitems:
 
     '
   domains: [darkness, shadow]
-  greek_name: "\u1F1C\u03C1\u03B5\u03B2\u03BF\u03C2 "
-  name: !!python/unicode ' Erebus '
+  native_name: "\u1F1C\u03C1\u03B5\u03B2\u03BF\u03C2 "
+  name: !!python/unicode 'Erebus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' Personification of the Earth (Mother Earth); mother
-    of the Titan (mythology)|Titans.
-
+  description: !!python/unicode ' Personification of the Earth Mother Earth; mother
+    of the Titan mythology|Titans.  
     '
   domains: [earth]
-  greek_name: "\u0393\u03B1\u1FD6\u03B1 "
-  name: !!python/unicode ' Gaia '
+  native_name: "\u0393\u03B1\u1FD6\u03B1 "
+  name: !!python/unicode 'Gaia'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -213,8 +210,8 @@ dictitems:
 
     '
   domains: [daylight, sun]
-  greek_name: "\u1F29\u03BC\u03AD\u03C1\u03B1 "
-  name: !!python/unicode ' Hemera '
+  native_name: "\u1F29\u03BC\u03AD\u03C1\u03B1 "
+  name: !!python/unicode 'Hemera'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -222,23 +219,23 @@ dictitems:
 
     '
   domains: ['']
-  greek_name: "\u03A7\u03AC\u03BF\u03C2 "
-  name: !!python/unicode ' Chaos '
+  native_name: "\u03A7\u03AC\u03BF\u03C2"
+  name: !!python/unicode 'Chaos'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode " The Keeper of Time. Not to be confused with the\
-    \ Titan (mythology)|Titan Cronus, the father of Zeus. \n"
+    \ Titan mythology|Titan Cronus, the father of Zeus. \n"
   domains: [time]
-  greek_name: "\u03A7\u03C1\u03CC\u03BD\u03BF\u03C2 "
-  name: !!python/unicode ' Chronos '
+  native_name: "\u03A7\u03C1\u03CC\u03BD\u03BF\u03C2 "
+  name: !!python/unicode 'Chronos'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode " The goddesses of the islands. \n"
   domains: ['']
-  greek_name: "N\u1FC6\u03C3\u03BF\u03B9 "
-  name: !!python/unicode ' The Nesoi '
+  native_name: "N\u1FC6\u03C3\u03BF\u03B9 "
+  name: !!python/unicode 'The Nesoi'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -246,18 +243,18 @@ dictitems:
 
     '
   domains: [night]
-  greek_name: "\u039D\u03CD\u03BE "
-  name: !!python/unicode ' Nyx '
+  native_name: "\u039D\u03CD\u03BE"
+  name: !!python/unicode 'Nyx'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' The god of the heavens (Father Sky); father of the
+  description: !!python/unicode ' The god of the heavens Father Sky; father of the
     Titans.
 
     '
   domains: [heavens, sky]
-  greek_name: "\u039F\u1F50\u03C1\u03B1\u03BD\u03CC\u03C2 "
-  name: !!python/unicode ' Uranus '
+  native_name: "\u039F\u1F50\u03C1\u03B1\u03BD\u03CC\u03C2 "
+  name: !!python/unicode 'Uranus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -265,8 +262,8 @@ dictitems:
 
     '
   domains: [mountains]
-  greek_name: "\u039F\u1F54\u03C1\u03B5\u03B1 "
-  name: !!python/unicode ' The Ourea '
+  native_name: "\u039F\u1F54\u03C1\u03B5\u03B1 "
+  name: !!python/unicode 'Ourea'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -274,8 +271,8 @@ dictitems:
 
     '
   domains: [procreation]
-  greek_name: "\u03A6\u03AC\u03BD\u03B7\u03C2 "
-  name: !!python/unicode ' Phanes '
+  native_name: "\u03A6\u03AC\u03BD\u03B7\u03C2 "
+  name: !!python/unicode 'Phanes'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -284,8 +281,8 @@ dictitems:
 
     '
   domains: [sea, fish, sea creatures, water]
-  greek_name: "\u03A0\u03CC\u03BD\u03C4\u03BF\u03C2 "
-  name: !!python/unicode ' Pontus '
+  native_name: "\u03A0\u03CC\u03BD\u03C4\u03BF\u03C2 "
+  name: !!python/unicode 'Pontus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -293,8 +290,8 @@ dictitems:
 
     '
   domains: ['']
-  greek_name: "\u03A4\u03AC\u03C1\u03C4\u03B1\u03C1\u03BF\u03C2 "
-  name: !!python/unicode ' Tartarus '
+  native_name: "\u03A4\u03AC\u03C1\u03C4\u03B1\u03C1\u03BF\u03C2 "
+  name: !!python/unicode 'Tartarus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -302,28 +299,28 @@ dictitems:
 
     '
   domains: [sea]
-  greek_name: "\u0398\u03AC\u03BB\u03B1\u03C3\u03C3\u03B1 "
-  name: !!python/unicode ' Thalassa '
+  native_name: "\u0398\u03AC\u03BB\u03B1\u03C3\u03C3\u03B1 "
+  name: !!python/unicode 'Thalassa'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' Titan of light. With Theia, he is the father of
-    Helios (the sun), Selene (the moon) and Eos (the dawn).
+    Helios the sun, Selene the moon and Eos the dawn.
 
     '
   domains: [light]
-  greek_name: "\u1F59\u03C0\u03B5\u03C1\u03AF\u03C9\u03BD "
-  name: !!python/unicode ' Hyperion '
+  native_name: "\u1F59\u03C0\u03B5\u03C1\u03AF\u03C9\u03BD "
+  name: !!python/unicode 'Hyperion'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' Titan of mortality and father of Prometheus, Epimetheus
-    (mythology)|Epimetheus and Atlas (mythology)|Atlas.
+    mythology|Epimetheus and Atlas mythology|Atlas.
 
     '
   domains: [mortality]
-  greek_name: "\u1F38\u03B1\u03C0\u03B5\u03C4\u03CC\u03C2 "
-  name: !!python/unicode ' Iapetus '
+  native_name: "\u1F38\u03B1\u03C0\u03B5\u03C4\u03CC\u03C2 "
+  name: !!python/unicode 'Iapetus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -332,18 +329,18 @@ dictitems:
 
     '
   domains: [intellect]
-  greek_name: "\u039A\u03BF\u1FD6\u03BF\u03C2 "
-  name: !!python/unicode ' Coeus '
+  native_name: "\u039A\u03BF\u1FD6\u03BF\u03C2 "
+  name: !!python/unicode 'Coeus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' The least individualized of the Twelve Titans, he
-    is the father of Astraeus|Astraios, Pallas (son of Crius)|Pallas and Perses (Titan)|Perses.
+    is the father of Astraeus|Astraios, Pallas son of Crius|Pallas and Perses Titan|Perses.
 
     '
   domains: ['']
-  greek_name: "\u039A\u03C1\u03B5\u1FD6\u03BF\u03C2 "
-  name: !!python/unicode ' Crius '
+  native_name: "\u039A\u03C1\u03B5\u1FD6\u03BF\u03C2 "
+  name: !!python/unicode 'Crius'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -353,8 +350,8 @@ dictitems:
 
     '
   domains: [time]
-  greek_name: "\u039A\u03C1\u03CC\u03BD\u03BF\u03C2 "
-  name: !!python/unicode ' Cronus '
+  native_name: "\u039A\u03C1\u03CC\u03BD\u03BF\u03C2 "
+  name: !!python/unicode 'Cronus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -363,8 +360,8 @@ dictitems:
 
     '
   domains: [memory, remembrance]
-  greek_name: "M\u03BD\u03B7\u03BC\u03BF\u03C3\u03CD\u03BD\u03B7 "
-  name: !!python/unicode ' Mnemosyne '
+  native_name: "M\u03BD\u03B7\u03BC\u03BF\u03C3\u03CD\u03BD\u03B7 "
+  name: !!python/unicode 'Mnemosyne'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -373,8 +370,8 @@ dictitems:
 
     '
   domains: [fresh-water]
-  greek_name: "\u1F68\u03BA\u03B5\u03B1\u03BD\u03CC\u03C2 "
-  name: !!python/unicode ' Oceanus '
+  native_name: "\u1F68\u03BA\u03B5\u03B1\u03BD\u03CC\u03C2 "
+  name: !!python/unicode 'Oceanus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -383,8 +380,8 @@ dictitems:
 
     '
   domains: [intellect, prophecy]
-  greek_name: "\u03A6\u03BF\u03AF\u03B2\u03B7 "
-  name: !!python/unicode ' Phoebe '
+  native_name: "\u03A6\u03BF\u03AF\u03B2\u03B7 "
+  name: !!python/unicode 'Phoebe'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -394,8 +391,8 @@ dictitems:
 
     '
   domains: [fertility, motherhood, generation]
-  greek_name: "\u1FEC\u03AD\u03B1 "
-  name: !!python/unicode ' Rhea '
+  native_name: "\u1FEC\u03AD\u03B1 "
+  name: !!python/unicode 'Rhea'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -404,8 +401,8 @@ dictitems:
 
     '
   domains: [rivers, springs, streams, fountains, clouds]
-  greek_name: "\u03A4\u03B7\u03B8\u03CD\u03C2 "
-  name: !!python/unicode ' Tethys '
+  native_name: "\u03A4\u03B7\u03B8\u03CD\u03C2 "
+  name: !!python/unicode 'Tethys'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -414,8 +411,8 @@ dictitems:
 
     '
   domains: [sight, shining light of the clear blue sky]
-  greek_name: "\u0398\u03B5\u03AF\u03B1 "
-  name: !!python/unicode ' Theia '
+  native_name: "\u0398\u03B5\u03AF\u03B1 "
+  name: !!python/unicode 'Theia'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -423,8 +420,8 @@ dictitems:
 
     '
   domains: [law, order]
-  greek_name: "\u0398\u03AD\u03BC\u03B9\u03C2 "
-  name: !!python/unicode ' Themis '
+  native_name: "\u0398\u03AD\u03BC\u03B9\u03C2 "
+  name: !!python/unicode 'Themis'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -432,8 +429,8 @@ dictitems:
 
     '
   domains: [nocturnal oracles, falling stars]
-  greek_name: "\u1F08\u03C3\u03C4\u03B5\u03C1\u03AF\u03B1 "
-  name: !!python/unicode ' Asteria '
+  native_name: "\u1F08\u03C3\u03C4\u03B5\u03C1\u03AF\u03B1 "
+  name: !!python/unicode 'Asteria'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -441,8 +438,8 @@ dictitems:
 
     '
   domains: [stars, planets, astrology]
-  greek_name: "\u1F08\u03C3\u03C4\u03C1\u03B1\u1FD6\u03BF\u03C2 "
-  name: !!python/unicode ' Astraeus '
+  native_name: "\u1F08\u03C3\u03C4\u03C1\u03B1\u1FD6\u03BF\u03C2 "
+  name: !!python/unicode 'Astraeus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -451,8 +448,8 @@ dictitems:
 
     '
   domains: ['']
-  greek_name: "\u1F0C\u03C4\u03BB\u03B1\u03C2 "
-  name: !!python/unicode ' Atlas '
+  native_name: "\u1F0C\u03C4\u03BB\u03B1\u03C2 "
+  name: !!python/unicode 'Atlas'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -460,9 +457,9 @@ dictitems:
     morning.
 
     '
-  domains: [breeze, ' fresh and cool air of the early morning']
-  greek_name: "\u0391\u1F54\u03C1\u03B1 "
-  name: !!python/unicode ' Aura '
+  domains: [breeze, 'fresh and cool air of the early morning']
+  native_name: "\u0391\u1F54\u03C1\u03B1 "
+  name: !!python/unicode 'Aura'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -470,8 +467,8 @@ dictitems:
 
     '
   domains: ['']
-  greek_name: "\u0394\u03B9\u03CE\u03BD\u03B7 "
-  name: !!python/unicode ' Dione '
+  native_name: "\u0394\u03B9\u03CE\u03BD\u03B7 "
+  name: !!python/unicode 'Dione'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -479,8 +476,8 @@ dictitems:
 
     '
   domains: [dawn]
-  greek_name: "\u1F28\u03CE\u03C2 "
-  name: !!python/unicode ' Eos '
+  native_name: "\u1F28\u03CE\u03C2 "
+  name: !!python/unicode 'Eos'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -488,8 +485,8 @@ dictitems:
 
     '
   domains: [excuses]
-  greek_name: "\u1F18\u03C0\u03B9\u03BC\u03B7\u03B8\u03B5\u03CD\u03C2 "
-  name: !!python/unicode ' Epimetheus '
+  native_name: "\u1F18\u03C0\u03B9\u03BC\u03B7\u03B8\u03B5\u03CD\u03C2 "
+  name: !!python/unicode 'Epimetheus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -498,8 +495,8 @@ dictitems:
 
     '
   domains: [mastery of the seas]
-  greek_name: "\u0395\u1F50\u03C1\u03C5\u03B2\u03AF\u03B1 "
-  name: !!python/unicode ' Eurybia '
+  native_name: "\u0395\u1F50\u03C1\u03C5\u03B2\u03AF\u03B1 "
+  name: !!python/unicode 'Eurybia'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -508,8 +505,8 @@ dictitems:
 
     '
   domains: [water-meadows, pasturelands]
-  greek_name: "\u0395\u1F50\u03C1\u03C5\u03BD\u03CC\u03BC\u03B7 "
-  name: !!python/unicode ' Eurynome '
+  native_name: "\u0395\u1F50\u03C1\u03C5\u03BD\u03CC\u03BC\u03B7 "
+  name: !!python/unicode 'Eurynome'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -517,8 +514,8 @@ dictitems:
 
     '
   domains: [oaths]
-  greek_name: "\u1F2D\u03BB\u03B9\u03BF\u03C2 "
-  name: !!python/unicode ' Helios '
+  native_name: "\u1F2D\u03BB\u03B9\u03BF\u03C2 "
+  name: !!python/unicode 'Helios'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -526,8 +523,8 @@ dictitems:
 
     '
   domains: [renown, fame, infamy]
-  greek_name: "\u039A\u03BB\u03C5\u03BC\u03AD\u03BD\u03B7 "
-  name: !!python/unicode ' Asia '
+  native_name: "\u039A\u03BB\u03C5\u03BC\u03AD\u03BD\u03B7 "
+  name: !!python/unicode 'Asia'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -536,8 +533,8 @@ dictitems:
 
     '
   domains: [air, stalking prey]
-  greek_name: "\u039B\u03B7\u03BB\u03B1\u03BD\u03C4\u03BF\u03C2 "
-  name: !!python/unicode ' Lelantos '
+  native_name: "\u039B\u03B7\u03BB\u03B1\u03BD\u03C4\u03BF\u03C2 "
+  name: !!python/unicode 'Lelantos'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -545,8 +542,8 @@ dictitems:
 
     '
   domains: [motherhood]
-  greek_name: "\u039B\u03B7\u03C4\u03CE "
-  name: !!python/unicode ' Leto '
+  native_name: "\u039B\u03B7\u03C4\u03CE "
+  name: !!python/unicode 'Leto'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -555,8 +552,8 @@ dictitems:
 
     '
   domains: [violent anger, rash action, human mortality]
-  greek_name: "\u039C\u03B5\u03BD\u03BF\u03AF\u03C4\u03B9\u03BF\u03C2 "
-  name: !!python/unicode ' Menoetius '
+  native_name: "\u039C\u03B5\u03BD\u03BF\u03AF\u03C4\u03B9\u03BF\u03C2 "
+  name: !!python/unicode 'Menoetius'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -565,8 +562,8 @@ dictitems:
 
     '
   domains: [good counsel, advice, planning, cunning, craftiness, wisdom]
-  greek_name: "\u039C\u1FC6\u03C4\u03B9\u03C2 (M\u0113\u0302tis) "
-  name: !!python/unicode ' Metis '
+  native_name: "\u039C\u1FC6\u03C4\u03B9\u03C2 M\u0113\u0302tis "
+  name: !!python/unicode 'Metis'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -575,8 +572,8 @@ dictitems:
 
     '
   domains: ['']
-  greek_name: "\u1F48\u03C6\u03AF\u03C9\u03BD "
-  name: !!python/unicode ' Ophion '
+  native_name: "\u1F48\u03C6\u03AF\u03C9\u03BD "
+  name: !!python/unicode 'Ophion'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -585,8 +582,8 @@ dictitems:
 
     '
   domains: [warcraft]
-  greek_name: "\u03A0\u03AC\u03BB\u03BB\u03B1\u03C2 "
-  name: !!python/unicode ' Pallas '
+  native_name: "\u03A0\u03AC\u03BB\u03BB\u03B1\u03C2 "
+  name: !!python/unicode 'Pallas'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -594,8 +591,8 @@ dictitems:
 
     '
   domains: [destruction]
-  greek_name: "\u03A0\u03AD\u03C1\u03C3\u03B7\u03C2 "
-  name: !!python/unicode ' Perses '
+  native_name: "\u03A0\u03AD\u03C1\u03C3\u03B7\u03C2 "
+  name: !!python/unicode 'Perses'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -604,8 +601,8 @@ dictitems:
 
     '
   domains: [forthought, crafty counsel]
-  greek_name: "\u03A0\u03C1\u03BF\u03BC\u03B7\u03B8\u03B5\u03CD\u03C2 "
-  name: !!python/unicode ' Prometheus '
+  native_name: "\u03A0\u03C1\u03BF\u03BC\u03B7\u03B8\u03B5\u03CD\u03C2 "
+  name: !!python/unicode 'Prometheus'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -613,8 +610,8 @@ dictitems:
 
     '
   domains: [moon]
-  greek_name: "\u03A3\u03B5\u03BB\u03AE\u03BD\u03B7 "
-  name: !!python/unicode ' Selene '
+  native_name: "\u03A3\u03B5\u03BB\u03AE\u03BD\u03B7 "
+  name: !!python/unicode 'Selene'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -623,8 +620,8 @@ dictitems:
 
     '
   domains: [underworld, hatred]
-  greek_name: "\u03A3\u03C4\u03CD\u03BE "
-  name: !!python/unicode ' Styx '
+  native_name: "\u03A3\u03C4\u03CD\u03BE "
+  name: !!python/unicode 'Styx'
   pantheon: Greek
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -632,7 +629,7 @@ dictitems:
 
     '
   domains: [underworld]
-  name: !!python/unicode 'Aken '
+  name: !!python/unicode 'Aken'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -640,11 +637,11 @@ dictitems:
 
     '
   domains: [horizon]
-  name: !!python/unicode 'Aker '
+  name: !!python/unicode 'Aker'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode 'heh '
+  description: !!python/unicode 'heh'
   domains: ['']
   name: !!python/unicode 'Am'
   pantheon: Egyptian
@@ -652,7 +649,7 @@ dictitems:
 dictitems:
   description: !!python/unicode ' crocodile'
   domains: ['']
-  name: !!python/unicode 'Ammit '
+  name: !!python/unicode 'Ammit'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -661,14 +658,14 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Amun or Amen '
+  name: !!python/unicode 'Amun or Amen'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' female aspect of the primordial concept of air in
     the Ogdoad cosmogony; depicted as a cobra snake or a snake'
   domains: [air, cosmogony]
-  name: !!python/unicode 'Amunet '
+  name: !!python/unicode 'Amunet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -676,7 +673,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Andjety '
+  name: !!python/unicode 'Andjety'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -684,7 +681,7 @@ dictitems:
 
     '
   domains: [war]
-  name: !!python/unicode 'Anhur '
+  name: !!python/unicode 'Anhur'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -692,7 +689,7 @@ dictitems:
 
     '
   domains: [war]
-  name: !!python/unicode 'Ankt '
+  name: !!python/unicode 'Ankt'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -700,7 +697,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Anput '
+  name: !!python/unicode 'Anput'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -708,13 +705,13 @@ dictitems:
 
     '
   domains: [ferrymen]
-  name: !!python/unicode 'Anti '
+  name: !!python/unicode 'Anti'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' dog or jackal god of embalming and tomb'
   domains: [embalming, tomb]
-  name: !!python/unicode 'Anubis '
+  name: !!python/unicode 'Anubis'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -723,7 +720,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Anuket '
+  name: !!python/unicode 'Anuket'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -732,7 +729,7 @@ dictitems:
 
     '
   domains: [evil]
-  name: !!python/unicode 'Apophis '
+  name: !!python/unicode 'Apophis'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -741,7 +738,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Apis '
+  name: !!python/unicode 'Apis'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -750,17 +747,17 @@ dictitems:
 
     '
   domains: [oases, vinyards]
-  name: !!python/unicode 'Ash  '
+  name: !!python/unicode 'Ash '
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' sun god worshipped primarily during the period of
     Atenism in the Eighteenth dynasty of Egypteighteenth dynasty when Pharaoh Amenhotep
-    IV (Akhenaten) introduced monotheistic worship
+    IV Akhenaten introduced monotheistic worship
 
     '
   domains: [sun]
-  name: !!python/unicode 'The Aten '
+  name: !!python/unicode 'The Aten'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -768,7 +765,7 @@ dictitems:
 
     '
   domains: [setting sun, creation]
-  name: !!python/unicode 'Atum '
+  name: !!python/unicode 'Atum'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -776,7 +773,7 @@ dictitems:
 
     '
   domains: [death, virility]
-  name: !!python/unicode 'Babi  '
+  name: !!python/unicode 'Babi '
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -784,7 +781,7 @@ dictitems:
 
     '
   domains: [fertility]
-  name: !!python/unicode 'Banebdjedet '
+  name: !!python/unicode 'Banebdjedet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -792,14 +789,14 @@ dictitems:
 
     '
   domains: [underworld]
-  name: !!python/unicode 'Ba '
+  name: !!python/unicode 'Ba'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' protector of the pharaoh and solar goddess, depicted
     as a lionlioness, house cat, cat'
   domains: [sun]
-  name: !!python/unicode 'Bastet  '
+  name: !!python/unicode 'Bastet '
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -809,7 +806,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Bat '
+  name: !!python/unicode 'Bat'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -817,7 +814,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Bata '
+  name: !!python/unicode 'Bata'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -826,7 +823,7 @@ dictitems:
 
     '
   domains: [household, childbirth, entertainment]
-  name: !!python/unicode 'Bes '
+  name: !!python/unicode 'Bes'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -834,16 +831,16 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Chenti '
+  name: !!python/unicode 'Chenti'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' god of the Earth, first ruler of Egypt and husband
-    of Nut (goddess)Nut
+    of Nut goddessNut
 
     '
   domains: [earth]
-  name: !!python/unicode 'Geb '
+  name: !!python/unicode 'Geb'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -851,7 +848,7 @@ dictitems:
 
     '
   domains: [the western deserts]
-  name: !!python/unicode 'Ha '
+  name: !!python/unicode 'Haa'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -860,13 +857,13 @@ dictitems:
 
     '
   domains: [fertility]
-  name: !!python/unicode 'Hapi '
+  name: !!python/unicode 'Hapi'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' cow or cow'
   domains: ['']
-  name: !!python/unicode 'Hathor '
+  name: !!python/unicode 'Hathor'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -875,7 +872,7 @@ dictitems:
 
     '
   domains: [fish]
-  name: !!python/unicode 'Hatmehit '
+  name: !!python/unicode 'Hatmehit'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -883,15 +880,15 @@ dictitems:
 
     '
   domains: [scoropion]
-  name: !!python/unicode 'Hedetet '
+  name: !!python/unicode 'Hedetet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' deification of magic (paranormal)magic
+  description: !!python/unicode ' deification of magic paranormalmagic
 
     '
   domains: [magic]
-  name: !!python/unicode 'Heka '
+  name: !!python/unicode 'Heka'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -899,13 +896,13 @@ dictitems:
 
     '
   domains: [falcon]
-  name: !!python/unicode 'Hemen '
+  name: !!python/unicode 'Hemen'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' frog or a frog'
   domains: [frog]
-  name: !!python/unicode 'Heqet '
+  name: !!python/unicode 'Heqet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -913,7 +910,7 @@ dictitems:
 
     '
   domains: [fate, protection]
-  name: !!python/unicode 'Hemsut '
+  name: !!python/unicode 'Hemsut'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -921,13 +918,13 @@ dictitems:
 
     '
   domains: [ram]
-  name: !!python/unicode 'Heryshaf '
+  name: !!python/unicode 'Heryshaf'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' falcon'
   domains: [falcon]
-  name: !!python/unicode 'Horus or Heru '
+  name: !!python/unicode 'Horus or Heru'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -935,7 +932,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'The four sons of Horus '
+  name: !!python/unicode 'The four sons of Horus'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -943,7 +940,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Hu '
+  name: !!python/unicode 'Hu'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -951,7 +948,7 @@ dictitems:
 
     '
   domains: [eternity]
-  name: !!python/unicode 'Huh '
+  name: !!python/unicode 'Huh'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -960,7 +957,7 @@ dictitems:
 
     '
   domains: [east]
-  name: !!python/unicode 'Iabet '
+  name: !!python/unicode 'Iabet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -968,7 +965,7 @@ dictitems:
 
     '
   domains: [moon]
-  name: !!python/unicode 'Iah '
+  name: !!python/unicode 'Iah'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -977,7 +974,7 @@ dictitems:
 
     '
   domains: [milk, nurturing, childbirth]
-  name: !!python/unicode 'Iat '
+  name: !!python/unicode 'Iat'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -985,7 +982,7 @@ dictitems:
 
     '
   domains: [necropoleis]
-  name: !!python/unicode 'Imentet '
+  name: !!python/unicode 'Imentet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -994,7 +991,7 @@ dictitems:
 
     '
   domains: [magic, motherhood, fertility]
-  name: !!python/unicode 'Isis '
+  name: !!python/unicode 'Isis'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1003,7 +1000,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Iusaaset '
+  name: !!python/unicode 'Iusaaset'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1011,13 +1008,13 @@ dictitems:
 
     '
   domains: [embalming liquid]
-  name: !!python/unicode 'Kebechet '
+  name: !!python/unicode 'Kebechet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' the scarab beetle or scarab'
   domains: [scarab]
-  name: !!python/unicode 'Khepri '
+  name: !!python/unicode 'Khepri'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1025,13 +1022,13 @@ dictitems:
 
     '
   domains: [creation]
-  name: !!python/unicode 'Kneph '
+  name: !!python/unicode 'Kneph'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' ram'
   domains: [ram]
-  name: !!python/unicode 'Khnum '
+  name: !!python/unicode 'Khnum'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1039,19 +1036,19 @@ dictitems:
 
     '
   domains: [youth, moon]
-  name: !!python/unicode 'Khonsu '
+  name: !!python/unicode 'Khonsu'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode 'frog'
   domains: [frog]
-  name: !!python/unicode 'Kuk '
+  name: !!python/unicode 'Kuk'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' lion'
   domains: [lion]
-  name: !!python/unicode 'Maahes '
+  name: !!python/unicode 'Maahes'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1060,7 +1057,7 @@ dictitems:
 
     '
   domains: [truth, balance, justice, order]
-  name: !!python/unicode 'Ma''at '
+  name: !!python/unicode 'Ma''at'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1068,7 +1065,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Mafdet '
+  name: !!python/unicode 'Mafdet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1077,7 +1074,7 @@ dictitems:
 
     '
   domains: [protection]
-  name: !!python/unicode 'Mehen '
+  name: !!python/unicode 'Mehen'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1085,7 +1082,7 @@ dictitems:
 
     '
   domains: [war]
-  name: !!python/unicode 'Menhit '
+  name: !!python/unicode 'Menhit'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1093,13 +1090,13 @@ dictitems:
 
     '
   domains: [rejoicing, singing, dancing]
-  name: !!python/unicode 'Meret '
+  name: !!python/unicode 'Meret'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' cobra'
   domains: [cobra]
-  name: !!python/unicode 'Meretseger '
+  name: !!python/unicode 'Meretseger'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1108,7 +1105,7 @@ dictitems:
 
     '
   domains: [childbirth]
-  name: !!python/unicode 'Meskhenet '
+  name: !!python/unicode 'Meskhenet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1117,7 +1114,7 @@ dictitems:
 
     '
   domains: [fertility, lettuce]
-  name: !!python/unicode 'Min '
+  name: !!python/unicode 'Min'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1125,7 +1122,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Mnevis '
+  name: !!python/unicode 'Mnevis'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1133,7 +1130,7 @@ dictitems:
 
     '
   domains: [war]
-  name: !!python/unicode 'Monthu '
+  name: !!python/unicode 'Monthu'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1142,7 +1139,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Mut '
+  name: !!python/unicode 'Mut'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1150,7 +1147,7 @@ dictitems:
 
     '
   domains: [healing, beauty]
-  name: !!python/unicode 'Nefertem '
+  name: !!python/unicode 'Nefertem'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1158,7 +1155,7 @@ dictitems:
 
     '
   domains: [underworld]
-  name: !!python/unicode 'Nehebkau '
+  name: !!python/unicode 'Nehebkau'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1166,7 +1163,7 @@ dictitems:
 
     '
   domains: [creation, weaving, war, dead]
-  name: !!python/unicode 'Neith '
+  name: !!python/unicode 'Neith'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1175,7 +1172,7 @@ dictitems:
 
     '
   domains: [vulture]
-  name: !!python/unicode 'Nekhbet '
+  name: !!python/unicode 'Nekhbet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1183,7 +1180,7 @@ dictitems:
 
     '
   domains: [grain]
-  name: !!python/unicode 'Neper '
+  name: !!python/unicode 'Neper'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1192,7 +1189,7 @@ dictitems:
 
     '
   domains: [death, night, lamentation]
-  name: !!python/unicode 'Nephthys or Nebthet '
+  name: !!python/unicode 'Nephthys or Nebthet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1200,7 +1197,7 @@ dictitems:
 
     '
   domains: [watery abyss]
-  name: !!python/unicode 'Nu '
+  name: !!python/unicode 'Nu'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1208,7 +1205,7 @@ dictitems:
 
     '
   domains: [sky, heavens]
-  name: !!python/unicode 'Nut '
+  name: !!python/unicode 'Nut'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1217,7 +1214,7 @@ dictitems:
 
     '
   domains: [judgement, death]
-  name: !!python/unicode 'Osiris or Wesir '
+  name: !!python/unicode 'Osiris or Wesir'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1225,7 +1222,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Pakhet '
+  name: !!python/unicode 'Pakhet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1233,7 +1230,7 @@ dictitems:
 
     '
   domains: [revenge]
-  name: !!python/unicode 'Petbe '
+  name: !!python/unicode 'Petbe'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1241,7 +1238,7 @@ dictitems:
 
     '
   domains: [craft, creation]
-  name: !!python/unicode 'Ptah '
+  name: !!python/unicode 'Ptah'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1249,7 +1246,7 @@ dictitems:
 
     '
   domains: [north wind]
-  name: !!python/unicode 'Qebui '
+  name: !!python/unicode 'Qebui'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1258,7 +1255,7 @@ dictitems:
 
     '
   domains: [sun, creation]
-  name: !!python/unicode 'Ra '
+  name: !!python/unicode 'Ra'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1266,7 +1263,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Rem (mythology)Rem '
+  name: !!python/unicode 'Rem mythologyRem'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1275,7 +1272,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Renenutet '
+  name: !!python/unicode 'Renenutet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1283,7 +1280,7 @@ dictitems:
 
     '
   domains: [perception]
-  name: !!python/unicode 'Saa or Sia '
+  name: !!python/unicode 'Saa or Sia'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1292,7 +1289,7 @@ dictitems:
 
     '
   domains: [war, hunting, fertility]
-  name: !!python/unicode 'Satet '
+  name: !!python/unicode 'Satet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1301,7 +1298,7 @@ dictitems:
 
     '
   domains: [destruction, pestilence, war]
-  name: !!python/unicode 'Sekhmet '
+  name: !!python/unicode 'Sekhmet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1309,7 +1306,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Seker '
+  name: !!python/unicode 'Seker'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1317,7 +1314,7 @@ dictitems:
 
     '
   domains: [scorpion]
-  name: !!python/unicode 'Serket '
+  name: !!python/unicode 'Serket'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1326,7 +1323,7 @@ dictitems:
 
     '
   domains: [writing, astronomy, astrology, architecture, mathematics]
-  name: !!python/unicode 'Seshat '
+  name: !!python/unicode 'Seshat'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1335,7 +1332,7 @@ dictitems:
 
     '
   domains: [desert, storms, foreigners, chaos]
-  name: !!python/unicode 'Set '
+  name: !!python/unicode 'Set'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1343,7 +1340,7 @@ dictitems:
 
     '
   domains: [destiny, fate]
-  name: !!python/unicode 'Shai '
+  name: !!python/unicode 'Shai'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1351,7 +1348,7 @@ dictitems:
 
     '
   domains: [salvation]
-  name: !!python/unicode 'Shed '
+  name: !!python/unicode 'Shed'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1359,7 +1356,7 @@ dictitems:
 
     '
   domains: [execution, slaughter, blood, oil, wine]
-  name: !!python/unicode 'Shezmu '
+  name: !!python/unicode 'Shezmu'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1367,7 +1364,7 @@ dictitems:
 
     '
   domains: [air]
-  name: !!python/unicode 'Shu '
+  name: !!python/unicode 'Shu'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1375,23 +1372,23 @@ dictitems:
 
     '
   domains: [military]
-  name: !!python/unicode 'Sobek '
+  name: !!python/unicode 'Sobek'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' messenger god
 
     '
-  domains: [god]
-  name: !!python/unicode 'Sobkou '
+  domains: []
+  name: !!python/unicode 'Sobkou'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' deification of the star Sothis (Sirius)
+  description: !!python/unicode ' deification of the star Sothis Sirius
 
     '
   domains: ['']
-  name: !!python/unicode 'Sopdet '
+  name: !!python/unicode 'Sopdet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1399,7 +1396,7 @@ dictitems:
 
     '
   domains: [sun]
-  name: !!python/unicode 'Sopdu '
+  name: !!python/unicode 'Sopdu'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1407,7 +1404,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Ta '
+  name: !!python/unicode 'Ta'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1415,7 +1412,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Tatenen '
+  name: !!python/unicode 'Tatenen'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1424,7 +1421,7 @@ dictitems:
 
     '
   domains: [pregnancy, protection]
-  name: !!python/unicode 'Taweret '
+  name: !!python/unicode 'Taweret'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1432,7 +1429,7 @@ dictitems:
 
     '
   domains: [moisture, moist air, dew, rain]
-  name: !!python/unicode 'Tefnut '
+  name: !!python/unicode 'Tefnut'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1440,7 +1437,7 @@ dictitems:
 
     '
   domains: [beer]
-  name: !!python/unicode 'Tenenet '
+  name: !!python/unicode 'Tenenet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1450,7 +1447,7 @@ dictitems:
     '
   domains: [moon, drawing, writing, geometry, wisdom, medicine, music, astronomy,
     magic]
-  name: !!python/unicode 'Thoth '
+  name: !!python/unicode 'Thoth'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1458,7 +1455,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Unut '
+  name: !!python/unicode 'Unut'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1466,11 +1463,11 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Wadjet '
+  name: !!python/unicode 'Wadjet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode 'wer '
+  description: !!python/unicode 'wer'
   domains: ['']
   name: !!python/unicode 'Wadj'
   pantheon: Egyptian
@@ -1480,7 +1477,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Weneg '
+  name: !!python/unicode 'Weneg'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1488,7 +1485,7 @@ dictitems:
 
     '
   domains: [the supernatural]
-  name: !!python/unicode 'Werethekau '
+  name: !!python/unicode 'Werethekau'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1496,7 +1493,7 @@ dictitems:
 
     '
   domains: [warfare, hunting]
-  name: !!python/unicode 'Wepwawet '
+  name: !!python/unicode 'Wepwawet'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1505,7 +1502,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Wosret '
+  name: !!python/unicode 'Wosret'
   pantheon: Egyptian
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1514,7 +1511,7 @@ dictitems:
 
     '
   domains: [underworld]
-  name: !!python/unicode 'Acolnahuacatl '
+  name: !!python/unicode 'Acolnahuacatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1522,7 +1519,7 @@ dictitems:
 
     '
   domains: [lakes, fishers]
-  name: !!python/unicode 'Amimitl '
+  name: !!python/unicode 'Amimitl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1530,7 +1527,7 @@ dictitems:
 
     '
   domains: [storms, hurricanes]
-  name: !!python/unicode 'Atlacamani '
+  name: !!python/unicode 'Atlacamani'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1538,7 +1535,7 @@ dictitems:
 
     '
   domains: [drought]
-  name: !!python/unicode 'Atlacoya '
+  name: !!python/unicode 'Atlacoya'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1546,7 +1543,7 @@ dictitems:
 
     '
   domains: [coast]
-  name: !!python/unicode 'Atlatonan (also ''''Atlatonin'''') '
+  name: !!python/unicode 'Atlatonan also''''Atlatonin'''' '
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1554,7 +1551,7 @@ dictitems:
 
     '
   domains: [water]
-  name: !!python/unicode 'Atlaua '
+  name: !!python/unicode 'Atlaua'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1562,7 +1559,7 @@ dictitems:
 
     '
   domains: [mist, fog, vanity, fame]
-  name: !!python/unicode 'Ayauhteotl '
+  name: !!python/unicode 'Ayauhteotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1570,7 +1567,7 @@ dictitems:
 
     '
   domains: [hunting, war, fate, fire]
-  name: !!python/unicode 'Camaxtli '
+  name: !!python/unicode 'Camaxtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1578,7 +1575,7 @@ dictitems:
 
     '
   domains: [water]
-  name: !!python/unicode 'Chalchiuhtlatonal '
+  name: !!python/unicode 'Chalchiuhtlatonal'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1586,7 +1583,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Chalchiuhtecolotl '
+  name: !!python/unicode 'Chalchiuhtecolotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1595,7 +1592,7 @@ dictitems:
 
     '
   domains: [lakes, streams, birth]
-  name: !!python/unicode 'Chalchiuhtlicue '
+  name: !!python/unicode 'Chalchiuhtlicue'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1603,7 +1600,7 @@ dictitems:
 
     '
   domains: [pestilence, mystery]
-  name: !!python/unicode 'Chalchiuhtotolin (Precious Night Turkey) '
+  name: !!python/unicode 'Chalchiuhtotolin Precious Night Turkey'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1611,7 +1608,7 @@ dictitems:
 
     '
   domains: [underworld, sacrifices]
-  name: !!python/unicode 'Chalmecatecuchtlz '
+  name: !!python/unicode 'Chalmecatecuchtlz'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1619,14 +1616,14 @@ dictitems:
 
     '
   domains: [underworld, north]
-  name: !!python/unicode 'Chalmecatl '
+  name: !!python/unicode 'Chalmecatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode " the goddess of hearth fires, personal treasure,\
     \ and volcanoes \n"
   domains: [hearth fires, personal treasure, volcanoes]
-  name: !!python/unicode 'Chantico '
+  name: !!python/unicode 'Chantico'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1634,7 +1631,7 @@ dictitems:
 
     '
   domains: [maize, produce]
-  name: !!python/unicode 'Chicomecoatl '
+  name: !!python/unicode 'Chicomecoatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1642,7 +1639,7 @@ dictitems:
 
     '
   domains: [artists]
-  name: !!python/unicode 'Chicomexochtli '
+  name: !!python/unicode 'Chicomexochtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1650,7 +1647,7 @@ dictitems:
 
     '
   domains: [fertility]
-  name: !!python/unicode 'Chiconahui '
+  name: !!python/unicode 'Chiconahui'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1658,7 +1655,7 @@ dictitems:
 
     '
   domains: [creation]
-  name: !!python/unicode 'Chiconahuiehecatl '
+  name: !!python/unicode 'Chiconahuiehecatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1666,7 +1663,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Cihuacoatl '
+  name: !!python/unicode 'Cihuacoatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1674,7 +1671,7 @@ dictitems:
 
     '
   domains: [maize]
-  name: !!python/unicode 'Cinteotl '
+  name: !!python/unicode 'Cinteotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1682,7 +1679,7 @@ dictitems:
 
     '
   domains: [astrology]
-  name: !!python/unicode 'Cipactonal '
+  name: !!python/unicode 'Cipactonal'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1690,13 +1687,13 @@ dictitems:
 
     '
   domains: [stars]
-  name: !!python/unicode 'Citlalicue '
+  name: !!python/unicode 'Citlalicue'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' legendary mother of Coyolxauhqui, the Centzonuitznaua'
   domains: ['']
-  name: !!python/unicode 'Coatlicue '
+  name: !!python/unicode 'Coatlicue'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1704,7 +1701,7 @@ dictitems:
 
     '
   domains: [commerce, bartering, merchants]
-  name: !!python/unicode 'Cochimetl '
+  name: !!python/unicode 'Cochimetl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1713,7 +1710,7 @@ dictitems:
 
     '
   domains: [Milky Way, moon]
-  name: !!python/unicode 'Coyolxauhqui '
+  name: !!python/unicode 'Coyolxauhqui'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1721,7 +1718,7 @@ dictitems:
 
     '
   domains: [hearth]
-  name: !!python/unicode 'Cuaxolotl '
+  name: !!python/unicode 'Cuaxolotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1730,20 +1727,20 @@ dictitems:
 
     '
   domains: [wind, creation, earth, heavans]
-  name: !!python/unicode 'Ehecatl '
+  name: !!python/unicode 'Ehecatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' a trickster god of indulgence and pranks. A shapeshifting'
   domains: [indulgence, pranks]
-  name: !!python/unicode 'Huehuecoyotl '
+  name: !!python/unicode 'Huehuecoyotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' an ancient god of the hearth, the fire of life.
     Associated with the pole star and the north, and serves as a skybearers'
   domains: [hearth]
-  name: !!python/unicode 'Huehueteotl '
+  name: !!python/unicode 'Huehueteotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1752,7 +1749,7 @@ dictitems:
 
     '
   domains: [war, sun, fire]
-  name: !!python/unicode 'Huitzilopochtli '
+  name: !!python/unicode 'Huitzilopochtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1760,7 +1757,7 @@ dictitems:
 
     '
   domains: [salt, saltwater]
-  name: !!python/unicode 'Huixtocihuatl '
+  name: !!python/unicode 'Huixtocihuatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1769,11 +1766,11 @@ dictitems:
 
     '
   domains: [earth, death, Milk Way]
-  name: !!python/unicode 'Ilamatecuhtli '
+  name: !!python/unicode 'Ilamatecuhtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode 'Ixquimilli '
+  description: !!python/unicode 'Ixquimilli'
   domains: ['']
   name: !!python/unicode 'Itztlacoliuhqui'
   pantheon: Aztec
@@ -1783,16 +1780,16 @@ dictitems:
 
     '
   domains: [sacrifice, stone knives]
-  name: !!python/unicode 'Itzli '
+  name: !!python/unicode 'Itzli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' Queen of Tomoanchan and one of the Cihuateteo (night
-    demons) and tzitzimime (star demons)
+  description: !!python/unicode ' Queen of Tomoanchan and one of the Cihuateteo night
+    demons and tzitzimime star demons
 
     '
   domains: ['']
-  name: !!python/unicode 'Itzpapalotl '
+  name: !!python/unicode 'Itzpapalotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1801,48 +1798,48 @@ dictitems:
 
     '
   domains: [healing, dancing, festivals, games]
-  name: !!python/unicode 'Ixtlilton '
+  name: !!python/unicode 'Ixtlilton'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
+  description: !!python/unicode ' one of the Ahuiateteo gods of excess
 
     '
   domains: [excess]
-  name: !!python/unicode 'Macuilcozcacuauhtli (five vulture) '
+  name: !!python/unicode 'Macuilcozcacuauhtli five vulture'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
+  description: !!python/unicode ' one of the Ahuiateteo gods of excess
 
     '
   domains: [excess]
-  name: !!python/unicode 'Macuilcuetzpalin (five lizard) '
+  name: !!python/unicode 'Macuilcuetzpalin five lizard'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
+  description: !!python/unicode ' one of the Ahuiateteo gods of excess
 
     '
   domains: [excess]
-  name: !!python/unicode 'Macuilmalinalli (five grass) '
+  name: !!python/unicode 'Macuilmalinalli five grass'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' one of the Ahuiateteo (gods of excess)
+  description: !!python/unicode ' one of the Ahuiateteo gods of excess
 
     '
   domains: [excess]
-  name: !!python/unicode 'Macuil (five rabbit) '
+  name: !!python/unicode 'Macuil five rabbit'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' the god of games and gambling, and chief of the
-    Ahuiateteo (gods of excess)
+    Ahuiateteo gods of excess
 
     '
   domains: [gambling, games]
-  name: !!python/unicode 'Macuilxochitl (five flower) '
+  name: !!python/unicode 'Macuilxochitl five flower'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1851,7 +1848,7 @@ dictitems:
 
     '
   domains: [snakes, scorpions, insects of the desert]
-  name: !!python/unicode 'Malinalxochitl '
+  name: !!python/unicode 'Malinalxochitl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1860,7 +1857,7 @@ dictitems:
 
     '
   domains: [rainfall, singing]
-  name: !!python/unicode 'Matlalceuitl '
+  name: !!python/unicode 'Matlalceuitl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1868,7 +1865,7 @@ dictitems:
 
     '
   domains: [alcohol, maguey]
-  name: !!python/unicode 'Mayahuel '
+  name: !!python/unicode 'Mayahuel'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1877,7 +1874,7 @@ dictitems:
 
     '
   domains: [worms, moon]
-  name: !!python/unicode 'Metztli '
+  name: !!python/unicode 'Metztli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1885,7 +1882,7 @@ dictitems:
 
     '
   domains: [war, storms]
-  name: !!python/unicode 'Mextli '
+  name: !!python/unicode 'Mextli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1893,7 +1890,7 @@ dictitems:
 
     '
   domains: [underworld]
-  name: !!python/unicode 'Mictecacihuatl '
+  name: !!python/unicode 'Mictecacihuatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1902,7 +1899,7 @@ dictitems:
 
     '
   domains: [south, death]
-  name: !!python/unicode 'Mictlantecuhtli '
+  name: !!python/unicode 'Mictlantecuhtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1911,7 +1908,7 @@ dictitems:
 
     '
   domains: [hunting, war, Milky Way]
-  name: !!python/unicode 'Mixcoatl (cloud serpent) '
+  name: !!python/unicode 'Mixcoatl cloud serpent'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1920,16 +1917,16 @@ dictitems:
 
     '
   domains: [sun]
-  name: !!python/unicode 'Nanahuatzin '
+  name: !!python/unicode 'Nanahuatzin'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' the god(s) of duality, pregenator(s) of souls and
+  description: !!python/unicode ' the gods of duality, pregenators of souls and
     lord/lady of heaven
 
     '
   domains: [duality, heaven]
-  name: !!python/unicode 'Ometeotl '
+  name: !!python/unicode 'Ometeotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1937,13 +1934,13 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Ometotchtli (two rabbit) '
+  name: !!python/unicode 'Ometotchtli two rabbit'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' left'
   domains: ['']
-  name: !!python/unicode 'Opochtli '
+  name: !!python/unicode 'Opochtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1951,7 +1948,7 @@ dictitems:
 
     '
   domains: [astrology, calendar]
-  name: !!python/unicode 'Oxomoco '
+  name: !!python/unicode 'Oxomoco'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1959,7 +1956,7 @@ dictitems:
 
     '
   domains: [medicine]
-  name: !!python/unicode 'Patecatl '
+  name: !!python/unicode 'Patecatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1967,7 +1964,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Paynal '
+  name: !!python/unicode 'Paynal'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1976,7 +1973,7 @@ dictitems:
 
     '
   domains: [rulership, priests, merchants]
-  name: !!python/unicode 'Quetzalcoatl feathered serpent) '
+  name: !!python/unicode 'Quetzalcoatl feathered serpent'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1984,7 +1981,7 @@ dictitems:
 
     '
   domains: [bathing, sweatbaths]
-  name: !!python/unicode 'Temazcalteci '
+  name: !!python/unicode 'Temazcalteci'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -1992,16 +1989,16 @@ dictitems:
 
     '
   domains: [dead warriors]
-  name: !!python/unicode 'Teoyaomicqui '
+  name: !!python/unicode 'Teoyaomicqui'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' (The jaguar form of Tezcatlipoca) god of the heart
+  description: !!python/unicode ' The jaguar form of Tezcatlipoca god of the heart
     of the mountain, associated with jaguars, echoes, and earthquakes
 
     '
   domains: [jaguars, earthquakes, echoes]
-  name: !!python/unicode 'Tepeyollotl '
+  name: !!python/unicode 'Tepeyollotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2009,7 +2006,7 @@ dictitems:
 
     '
   domains: [pulque, rabbits]
-  name: !!python/unicode 'Tepoztecatl '
+  name: !!python/unicode 'Tepoztecatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2017,7 +2014,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Teteoinnan '
+  name: !!python/unicode 'Teteoinnan'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2028,16 +2025,16 @@ dictitems:
     '
   domains: [rulers, sorcerers, warriors, night, ' death', ' discord', ' conflict',
     ' temptation', change]
-  name: !!python/unicode 'Tezcatlipoca '
+  name: !!python/unicode 'Tezcatlipoca'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode ' destructive god of the morning star (venus), dawn,
+  description: !!python/unicode ' destructive god of the morning star venus, dawn,
     and of the east. One of the skybearers
 
     '
   domains: [dawn, east]
-  name: !!python/unicode 'Tlahuizcalpantecuhtli '
+  name: !!python/unicode 'Tlahuizcalpantecuhtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2046,7 +2043,7 @@ dictitems:
 
     '
   domains: [rain, fertility, lightning]
-  name: !!python/unicode 'Tlaloc '
+  name: !!python/unicode 'Tlaloc'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2054,7 +2051,7 @@ dictitems:
 
     '
   domains: [earth]
-  name: !!python/unicode 'Tlaltecuhtli '
+  name: !!python/unicode 'Tlaltecuhtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2063,7 +2060,7 @@ dictitems:
 
     '
   domains: [purification, disease, excess]
-  name: !!python/unicode 'Tlazolteotl '
+  name: !!python/unicode 'Tlazolteotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2071,7 +2068,7 @@ dictitems:
 
     '
   domains: [creation]
-  name: !!python/unicode 'Tloquenahuaque '
+  name: !!python/unicode 'Tloquenahuaque'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2080,7 +2077,7 @@ dictitems:
 
     '
   domains: [earth, midwives, war]
-  name: !!python/unicode 'Toci '
+  name: !!python/unicode 'Toci'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2089,7 +2086,7 @@ dictitems:
 
     '
   domains: [food]
-  name: !!python/unicode 'Tonacatecuhtli '
+  name: !!python/unicode 'Tonacatecuhtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2097,7 +2094,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Tonacacihuatl '
+  name: !!python/unicode 'Tonacacihuatl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2105,14 +2102,14 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Tonantzin '
+  name: !!python/unicode 'Tonantzin'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' a sun god and heavenly warrior, associated with
     eagles and with the Maya civilization'
   domains: [sun]
-  name: !!python/unicode 'Tonatiuh '
+  name: !!python/unicode 'Tonatiuh'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2120,7 +2117,7 @@ dictitems:
 
     '
   domains: ['']
-  name: !!python/unicode 'Tzitzmitl '
+  name: !!python/unicode 'Tzitzmitl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2128,7 +2125,7 @@ dictitems:
 
     '
   domains: [maize]
-  name: !!python/unicode 'Xilonen '
+  name: !!python/unicode 'Xilonen'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2137,22 +2134,22 @@ dictitems:
 
     '
   domains: [seasons, seeds, germination, renewal, goldworking]
-  name: !!python/unicode 'Xipe Totec '
+  name: !!python/unicode 'Xipe Totec'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' embodiment of the sun''s rays and emblem of XiuhtecuhtliImage:Aztec
     serpent sculpture.JPG'
   domains: [suns]
-  name: !!python/unicode 'Xiuhcoatl (fire serpent or turquoise serpent) '
+  name: !!python/unicode 'Xiuhcoatl fire serpent or turquoise serpent'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
-  description: !!python/unicode '(also called Huehueteotl)
+  description: !!python/unicode 'also called Huehueteotl
 
     '
   domains: ['']
-  name: !!python/unicode 'Xiuhtecuhtli '
+  name: !!python/unicode 'Xiuhtecuhtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2161,7 +2158,7 @@ dictitems:
 
     '
   domains: [feasting, painting, dancing, games, writing]
-  name: !!python/unicode 'Xochipilli '
+  name: !!python/unicode 'Xochipilli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2171,7 +2168,7 @@ dictitems:
     '
   domains: [love, beauty, female sexuality, prostitutes, flowers, pleasure, craft,
     weaving, young mothers]
-  name: !!python/unicode 'Xochiquetzal '
+  name: !!python/unicode 'Xochiquetzal'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2179,7 +2176,7 @@ dictitems:
 
     '
   domains: [stars, fire]
-  name: !!python/unicode 'Xocotl '
+  name: !!python/unicode 'Xocotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2188,7 +2185,7 @@ dictitems:
 
     '
   domains: [twins, sickness, deformity]
-  name: !!python/unicode 'Xolotl '
+  name: !!python/unicode 'Xolotl'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -2196,11 +2193,11 @@ dictitems:
 
     '
   domains: [merchants, travellers]
-  name: !!python/unicode 'Yacatecuhtli '
+  name: !!python/unicode 'Yacatecuhtli'
   pantheon: Aztec
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'God of beauty, innocence, peace, and rebirth.
-    Consort: Nanna (Norse deity)|Nanna
+    Consort: Nanna Norse deity|Nanna
 
     ', name: !!python/unicode 'Baldr', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
@@ -2212,7 +2209,7 @@ dictitems: {description: "God of poetry. Consort: I\xF0unn\n", name: !!python/un
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'The first god and father of Borr.
 
-    ', name: "B\xFAri", pantheon: Norse}
+    ', name: !!python/unicode "B\xFAri", pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: "God of the daytime, son of Delling and N\xF3tt.\n", name: !!python/unicode 'Dagr',
   pantheon: Norse}
@@ -2225,7 +2222,7 @@ dictitems: {description: !!python/unicode 'Goddess of healing.
     ', name: !!python/unicode 'Eir', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'God of justice, peace and truth. Son of
-    Baldr and Nanna (Norse deity)|Nanna.
+    Baldr and Nanna Norse deity|Nanna.
 
     ', name: !!python/unicode 'Forseti', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
@@ -2248,12 +2245,12 @@ dictitems: {description: !!python/unicode 'Goddess of fertility and plough.
 
     ', name: !!python/unicode 'Gefjun', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: !!python/unicode 'Queen of Hel (realm)|Hel, the Norse underworld.
+dictitems: {description: !!python/unicode 'Queen of Hel realm|Hel, the Norse underworld.
 
-    ', name: !!python/unicode 'Hel (being)|Hel', pantheon: Norse}
+    ', name: !!python/unicode 'Hel being|Hel', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: "One of the \xC6sir and guardian of \xC1sgard|\xC1sgar\xF0\
-    , their realm.\n", name: "Heimdallr (R\xEDgr)", pantheon: Norse}
+    , their realm.\n", name: "Heimdallr R\xEDgr", pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: "\xD3\xF0inn\xB4s son.\n", name: "Herm\xF3\xF0r", pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
@@ -2285,7 +2282,7 @@ dictitems: {description: !!python/unicode 'Goddess of love.
     ', name: !!python/unicode 'Lofn', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'Trickster and giant of mischief . Consort:
-    Sigyn (also called Saturn (mythology)|Saeter)
+    Sigyn also called Saturn mythology|Saeter
 
     ', name: !!python/unicode 'Loki', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
@@ -2296,7 +2293,7 @@ dictitems: {description: !!python/unicode 'God of Moon.
 dictitems: {description: "Odin|\xD3\xF0inn\xB4s uncle.\n", name: "M\xEDmir", pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: "An \xC1synja married with Baldr and mother to Forseti.\n",
-  name: !!python/unicode 'Nanna (Norse deity)|Nanna', pantheon: Norse}
+  name: !!python/unicode 'Nanna Norse deity|Nanna', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: "A goddess mentioned by Tacitus. Her name is connected to\
     \ that of Njord|Nj\xF6r\xF0r.\n", name: !!python/unicode 'Nerthus', pantheon: Norse}
@@ -2305,11 +2302,11 @@ dictitems: {description: !!python/unicode 'God of sea, wind, fish, and wealth.
 
     ', name: "Nj\xF6r\xF0r", pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: "Goddess of night, daughter of Narvi (Norse mythology)|Narvi\
+dictitems: {description: "Goddess of night, daughter of Narvi Norse mythology|Narvi\
     \ and mother of Au\xF0, J\xF6r\xF0 and Dagr by Naglfari, Annar and Delling, respectively.\n",
   name: "N\xF3tt", pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: !!python/unicode 'The "All Father" (The Ruler of the gods)
+dictitems: {description: !!python/unicode 'The "All Father" The Ruler of the gods
 
     ', name: !!python/unicode 'Odin', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
@@ -2335,11 +2332,11 @@ dictitems: {description: !!python/unicode 'Goddess of prudence.
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'Goddess of Sun.
 
-    ', name: !!python/unicode 'Sol (goddess)|Sol (Sunna)', pantheon: Norse}
+    ', name: !!python/unicode 'Sol goddess|Sol Sunna', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'God of thunder and battle. Consort: Sif.
 
-    ', name: !!python/unicode 'Thor (Donar)', pantheon: Norse}
+    ', name: !!python/unicode 'Thor Donar', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'God of Stone
 
@@ -2357,13 +2354,13 @@ dictitems: {description: !!python/unicode 'God of skill, hunt, and duel. Son of 
 
     ', name: !!python/unicode 'Ullr', pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: !!python/unicode '(son of Odin) God of revenge.
+dictitems: {description: !!python/unicode 'son of Odin God of revenge.
 
     ', name: "V\xE1li", pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'Goddess of contract.
 
-    ', name: "Var (goddess)|V\xE1r", pantheon: Norse}
+    ', name: "Var goddess|V\xE1r", pantheon: Norse}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: "One of the three gods of creation. Brother of Odin|\xD3\xF0\
     inn and Vili.\n", name: "V\xE9", pantheon: Norse}
@@ -2629,7 +2626,7 @@ dictitems: {description: !!python/unicode 'God of thunder and lightning
 dictitems: {description: !!python/unicode 'The birth-giver, creator of all existent.
     Supreme god, according to some theories
 
-    ', name: !!python/unicode 'Rod ', pantheon: Slavic}
+    ', name: !!python/unicode 'Rod', pantheon: Slavic}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'God of fire, sometimes described as a smith
     god
@@ -2656,7 +2653,7 @@ dictitems: {description: !!python/unicode 'Goddess of love and fertility
 
     ', name: "\u017Diva", pantheon: Slavic}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: !!python/unicode 'Three (or two) guardian goddesses that
+dictitems: {description: !!python/unicode 'Three or two guardian goddesses that
     represent the morning, evening and midnight stars
 
     ', name: !!python/unicode 'Zorya', pantheon: Slavic}
@@ -2760,7 +2757,7 @@ dictitems: {description: !!python/unicode 'Polish fire goddess who assists Perun
 
     ', name: !!python/unicode 'Oynyena Maria', pantheon: Slavic}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: !!python/unicode 'Goddess of echo (phenomenon) echo, gossip,
+dictitems: {description: !!python/unicode 'Goddess of echo phenomenon echo, gossip,
     fame and glory
 
     ', name: "O\u017Awiena", pantheon: Slavic}
@@ -2794,7 +2791,7 @@ dictitems: {description: !!python/unicode 'Possibly a god of hospitality, fertil
     ', name: !!python/unicode 'Radegast', pantheon: Slavic}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'Local personification of Perun, worshipped
-    by members of the Rani (Slavic tribe)|Rani in Charenza
+    by members of the Rani Slavic tribe|Rani in Charenza
 
     ', name: !!python/unicode 'Rugiewit', pantheon: Slavic}
 --- !!python/object/new:OlympiaNK.God
@@ -2850,42 +2847,42 @@ dictitems: {description: !!python/unicode 'Goddess of health and healing
     ', name: "\u017Bywie", pantheon: Slavic}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Commonly called Uzume, she is the goddess
-    of dawn and revelry, instrumental to the Solar deity#Missing_sun', japanese_name: " (\u5929\
-    \u5B87\u53D7\u58F2\u547D or \u5929\u923F\u5973\u547D) ", name: !!python/unicode 'Ame-no-Uzume ',
+    of dawn and revelry, instrumental to the Solar deity#Missing_sun', native_name: " \u5929\
+    \u5B87\u53D7\u58F2\u547D or \u5929\u923F\u5973\u547D ", name: !!python/unicode 'Ame-no-Uzume',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Commonly called Amaterasu, she is the
-    Solar deity', japanese_name: " (\u5929\u7167\u5927\u795E or \u5929\u7167\u5927\
-    \u5FA1\u795E) ", name: !!python/unicode 'Amaterasu ', pantheon: Japanese}
+    Solar deity', native_name: " \u5929\u7167\u5927\u795E or \u5929\u7167\u5927\
+    \u5FA1\u795E ", name: !!python/unicode 'Amaterasu', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' A male deity, he is considered the "First
     in Charge of Divine Affairs", as well as the aide to the first Emperor of Japan.
     He is also considered to be the ancestor of the Fujiwara family.
 
-    ', japanese_name: " (\u5929\u5150\u5C4B\u547D or \u5929\u5150\u5C4B\u6839\u547D\
-    ) ", name: !!python/unicode 'Ame-no-Koyane ', pantheon: Japanese}
+    ', native_name: " \u5929\u5150\u5C4B\u547D or \u5929\u5150\u5C4B\u6839\u547D\
+     ", name: !!python/unicode 'Ame-no-Koyane', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Also known as Kami-no-Kaze, he is the
     Japanese god of the wind and one of the eldest Shinto gods, said to be present
-    at the creation of the world. He is often depicted as an Oni (Japanese folklore)',
-  japanese_name: " (\u98A8\u795E) ", name: "F\u016Bjin ", pantheon: Japanese}
+    at the creation of the world. He is often depicted as an Oni Japanese folklore',
+  native_name: " \u98A8\u795E ", name: "F\u016Bjin", pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Also known as Hachiman-shin or Yawata
     no Kami, he is the god of war and the divine protector of Japan and its people.
-    Originally an agriculture', japanese_name: " (\u516B\u5E61\u795E) ", name: !!python/unicode 'Hachiman ',
+    Originally an agriculture', native_name: "\u516B\u5E61\u795E", name: !!python/unicode 'Hachiman',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' The god or goddess of rice and fertility.
     His/her messengers and symbolic animal are foxes.  He/she is often identified
     with the Buddhist deity Dakiniten.
 
-    ', japanese_name: " (\u7A32\u8377) ", name: !!python/unicode 'Inari ', pantheon: Japanese}
+    ', native_name: " \u7A32\u8377 ", name: !!python/unicode 'Inari', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' The forefather of the gods, he is the
     first male as well as the god of creation and life. He and his wife, Izanami,
     were responsible for the birth of the islands of Japan and many kami, though she
     died in childbirth. Later, after his failed attempt to retrieve her from the Yomi',
-  japanese_name: " (\u4F0A\u5F0A\u8AFE or \u4F0A\u90AA\u90A3\u5C90) ", name: !!python/unicode 'Izanagi ',
+  native_name: "\u4F0A\u5F0A\u8AFE or \u4F0A\u90AA\u90A3\u5C90 ", name: !!python/unicode 'Izanagi',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Izanagi''s wife and sister, she is the
@@ -2894,110 +2891,110 @@ dictitems: {description: !!python/unicode ' Izanagi''s wife and sister, she is t
     to bring her back to the living world.  A marital spat between the pair caused
     the cycle of life and death for all living beings.
 
-    ', japanese_name: " (\u4F0A\u5F09\u5189 or \u4F0A\u90AA\u90A3\u7F8E) ", name: !!python/unicode 'Izanami ',
+    ', native_name: " \u4F0A\u5F09\u5189 or \u4F0A\u90AA\u90A3\u7F8E ", name: !!python/unicode 'Izanami',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Commonly called Ninigi, he was the grandson
     of Amaterasu. His great-grandson was Kamuyamato Iwarebiko, later to be known as
     Emperor Jimmu, first emperor of Japan.
 
-    ', japanese_name: " (\u74CA\u74CA\u6775\u5C0A) ", name: !!python/unicode 'Ninigi-no-Mikoto ',
+    ', native_name: "\u74CA\u74CA\u6775\u5C0A", name: !!python/unicode 'Ninigi-no-Mikoto',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' The deity of wisdom and intelligence,
     who is always called upon to "ponder" and give good counsel in the deliberations
     of the heavenly deities.
 
-    ', japanese_name: " \uFF08\u601D\u517C\uFF09 ", name: !!python/unicode 'Omoikane ',
+    ', native_name: " \uFF08\u601D\u517C\uFF09 ", name: !!python/unicode 'Omoikane',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: " Commonly called Raiden (\u96F7\u96FB), he is the god of\
+dictitems: {description: " Commonly called Raiden \u96F7\u96FB, he is the god of\
     \ thunder and lightning, and is often paired with F\u016Bjin. As with the latter,\
-    \ Raijin is usually depicted as an oni.\n", japanese_name: " (\u96F7\u795E) ",
-  name: !!python/unicode 'Raijin ', pantheon: Japanese}
+    \ Raijin is usually depicted as an oni.\n", native_name: " \u96F7\u795E",
+  name: !!python/unicode 'Raijin', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " Also known as Watatsumi or \u014Cwatatsumi, he is a Japanese\
-    \ dragon", japanese_name: " (\u9F8D\u795E) ", name: "Ry\u016Bjin ", pantheon: Japanese}
+    \ dragon", native_name: " \u9F8D\u795E", name: "Ry\u016Bjin", pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " A small deity of medicine and rain, who created and solidified\
-    \ the land with \u014Ckuninushi.\n", japanese_name: " \uFF08\u5C11\u540D\u6BD8\
+    \ the land with \u014Ckuninushi.\n", native_name: "\uFF08\u5C11\u540D\u6BD8\
     \u53E4\u90A3\uFF09 ", name: "Sukuna-Biko-Na\u3000", pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " The god of scholarship, he is the deified Sugawara no Michizane\
-    \ (845\u2013c903), who was elevated to his position after dying in exile and subsequent\
-    \ disasters in Kyoto", japanese_name: " (\u5929\u795E) ", name: !!python/unicode 'Tenjin ',
+    \ 845\u2013c903, who was elevated to his position after dying in exile and subsequent\
+    \ disasters in Kyoto", native_name: "\u5929\u795E", name: !!python/unicode 'Tenjin',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: " Also known as Otohime (\u4E59\u59EB), she was the daughter\
+dictitems: {description: " Also known as Otohime \u4E59\u59EB, she was the daughter\
     \ of Ry\u016Bjin and the grandmother of Jimmu. It is said that after she gave\
-    \ birth to her son, she turned into a dragon and disappeared.\n", japanese_name: " (\u8C4A\
-    \u7389\u59EB) ", name: !!python/unicode 'Toyotama-hime ', pantheon: Japanese}
+    \ birth to her son, she turned into a dragon and disappeared.\n", native_name: "\u8C4A\
+    \u7389\u59EB ", name: !!python/unicode 'Toyotama-hime', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' Also known as Tsukiyomi, Tsuki no Kami,
-    Tsukiyomino Mikoto, and Tsukiyumi no Mikoto, he is the Lunar deity', japanese_name: " (\u6708\
-    \u8AAD\u306E\u547D or \u6708\u591C\u898B\u306E\u5C0A) ", name: !!python/unicode 'Tsukuyomi ',
+    Tsukiyomino Mikoto, and Tsukiyumi no Mikoto, he is the Lunar deity', native_name: "\u6708\
+    \u8AAD\u306E\u547D or \u6708\u591C\u898B\u306E\u5C0A ", name: !!python/unicode 'Tsukuyomi',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' the kami of all evil and stars who existed
     before the Kotoamatsukami.
 
-    ', japanese_name: " (\u5929\u6D25\u7515\u661F) ", name: !!python/unicode 'Amatsu-Mikaboshi ',
+    ', native_name: " \u5929\u6D25\u7515\u661F ", name: !!python/unicode 'Amatsu-Mikaboshi',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' the wife of Ninigi and daughter of Ohoyamatsumi,
     and great-grandmother of Jimmu. She is also known as the goddess of Mount Fuji.
     She is also known by the name Sengen.
 
-    ', japanese_name: " (\u6728\u82B1\u4E4B\u958B\u8036\u59EB) ", name: !!python/unicode 'Konohanasakuya-hime ',
+    ', native_name: " \u6728\u82B1\u4E4B\u958B\u8036\u59EB ", name: !!python/unicode 'Konohanasakuya-hime',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' an elder brother of Amaterasu, and an
     important god who rules mountain, sea, and war, as well as the father of Konohanasakuya-hime.
 
-    ', japanese_name: " (\u5927\u5C71\u7A4D\u547D) ", name: "\u014Choyamatsumi ",
+    ', native_name: "\u5927\u5C71\u7A4D\u547D ", name: "\u014Choyamatsumi",
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' a kami of the Earth that guided Ninigi
     to the Japanese islands.
 
-    ', japanese_name: " (\u733F\u7530\u6BD8\u53E4\u795E) ", name: "Sarutahiko \u014C\
-    kami ", pantheon: Japanese}
+    ', native_name: " \u733F\u7530\u6BD8\u53E4\u795E ", name: "Sarutahiko \u014C\
+    kami", pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' sometimes called Ogetsu-hime-no-Kami,
     a goddess of food. After she had spat a fish, vomited or defecated game and coughed
     rice, she had been killed by a disgusted Tsukuyomi, or in some other versions,
     Susanoo.
 
-    ', japanese_name: " (\u4FDD\u98DF\u795E) ", name: !!python/unicode 'Uke Mochi ',
+    ', native_name: " \u4FDD\u98DF\u795E ", name: !!python/unicode 'Uke Mochi',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' reportedly called "Futsu". Almost all
-    the oldest Shinto shrines such as "Isonokami Jingu" (the only "Jingu", the shrine
-    only for the highest deity, in Japan before the sixth century), Oomiwa shrine
+    the oldest Shinto shrines such as "Isonokami Jingu" the only "Jingu", the shrine
+    only for the highest deity, in Japan before the sixth century, Oomiwa shrine
     and already existed long before the conquest war of Emperor Jinmu who is the founder
     of the current Japanese Dynasty. Almost all the oldest Shinto shrines'' deities
     are the same as "Futsu", "Futsushi" and "Furu".
 
-    ', japanese_name: " (\u7D4C\u6D25\u4E3B\u5C0A, \u658E\u4E3B\u5C0A) ", name: !!python/unicode 'Futsu-nushi-no-kami ',
+    ', native_name: " \u7D4C\u6D25\u4E3B\u5C0A, \u658E\u4E3B\u5C0A ", name: !!python/unicode 'Futsu-nushi-no-kami',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: !!python/unicode ' Alternately Romanization', japanese_name: " (\u9808\
-    \u4F50\u4E4B\u7537\u5C0A) ", name: !!python/unicode 'Susanoo ', pantheon: Japanese}
+dictitems: {description: !!python/unicode ' Alternately Romanization', native_name: " \u9808\
+    \u4F50\u4E4B\u7537\u5C0A ", name: !!python/unicode 'Susanoo', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode ' reportedly called "Futsushi" and said
     a son or elder brother of "Futsu".
 
-    ', japanese_name: " (\u5929\u82D7\u52A0\u5C0A) ", name: !!python/unicode 'Ame-no-naemasu-no-Mikoto ',
+    ', native_name: " \u5929\u82D7\u52A0\u5C0A ", name: !!python/unicode 'Ame-no-naemasu-no-Mikoto',
   pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: " reportedly called \"Furu\" and said a sone of \"Futsushi\"\
-    . Only Nigihayahi (Furu) has the name of \"Amateru (\u5929\u7167)\" among Japanese\
-    \ deities. It is clearly described that Nigihayahi was ruling Yamato (ancient\
-    \ name of the capital and the center of Japan) before conquest war of emperor\
-    \ Jinmu in the two oldest official history books of Japan, \"Kojiki\" (712) or\
-    \ \"Nihon Shoki\" (720).\n", japanese_name: " (\u9952\u901F\u65E5\u5C0A, \u5929\
+    . Only Nigihayahi Furu has the name of \"Amateru \u5929\u7167\" among Japanese\
+    \ deities. It is clearly described that Nigihayahi was ruling Yamato ancient\
+    \ name of the capital and the center of Japan before conquest war of emperor\
+    \ Jinmu in the two oldest official history books of Japan, \"Kojiki\" 712 or\
+    \ \"Nihon Shoki\" 720.\n", native_name: " \u9952\u901F\u65E5\u5C0A, \u5929\
     \u7167\u56FD\u7167\u5F66\u5929\u706B\u660E\u6ADB\u7389\u9952\u901F\u65E5\u5C0A\
-    ) ", name: !!python/unicode 'Nigihayahi-no-mikoto ', pantheon: Japanese}
+     ", name: !!python/unicode 'Nigihayahi-no-mikoto', pantheon: Japanese}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode "the sky father   \n", name: !!python/unicode 'Dyaush-Pita',
   pantheon: Hindu}
@@ -3175,7 +3172,7 @@ dictitems: {description: !!python/unicode "Vishnu as a tortoise \n", name: !!pyt
 dictitems: {description: !!python/unicode "Vishnu as a boar \n", name: !!python/unicode 'Varaha
     Avatar', pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: !!python/unicode 'Vishnu the half lion-half man)
+dictitems: {description: !!python/unicode 'Vishnu the half lion-half man
 
     ', name: !!python/unicode 'Narasimha Avatar', pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
@@ -3208,7 +3205,7 @@ dictitems: {description: !!python/unicode 'son of God Shiva and Goddess Parvati
     ', name: !!python/unicode 'Ganesh', pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode " Subramaynan, Shanmuga |- son of Shiva\
-    \ and Parvati \n", name: !!python/unicode 'Kartikeya ', pantheon: Hindu}
+    \ and Parvati \n", name: !!python/unicode 'Kartikeya', pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'son of Vasudeva and younger brother of
     Balarama
@@ -3223,7 +3220,7 @@ dictitems: {description: !!python/unicode 'son of Vayu
 
     ', name: !!python/unicode 'Hanuman', pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: !!python/unicode "The father of Lord Krishna \n", name: !!python/unicode 'Vasudeva ',
+dictitems: {description: !!python/unicode "The father of Lord Krishna \n", name: !!python/unicode 'Vasudeva',
   pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'The god of energy or life
@@ -3238,8 +3235,8 @@ dictitems: {description: !!python/unicode 'The god of air
 
     ', name: !!python/unicode 'Vayu', pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
-dictitems: {description: !!python/unicode "(the dew) : God of the dawn and the charioteer\
-    \ of the sun (son of Vinata and the wise Kasyapa. \n", name: !!python/unicode 'Arjuna',
+dictitems: {description: !!python/unicode "the dew : God of the dawn and the charioteer\
+    \ of the sun son of Vinata and the wise Kasyapa. \n", name: !!python/unicode 'Arjuna',
   pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'personification of the holy river
@@ -3279,7 +3276,7 @@ dictitems: {description: !!python/unicode "the god of storms \n", name: !!python
   pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode " the god of conscience and the wife of\
-    \ SURYA (sun) \n", name: !!python/unicode 'Sanjna', pantheon: Hindu}
+    \ SURYA sun \n", name: !!python/unicode 'Sanjna', pantheon: Hindu}
 --- !!python/object/new:OlympiaNK.God
 dictitems: {description: !!python/unicode 'the moon god
 
@@ -3339,7 +3336,7 @@ dictitems:
 
     '
   domains: []
-  name: !!python/unicode 'Ch''ang-o '
+  name: !!python/unicode 'Ch''ang-o'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3348,7 +3345,7 @@ dictitems:
   domains: [!!python/unicode ' Protection', !!python/unicode ' justice
 
       ']
-  name: !!python/unicode 'Ch''eng-Huang '
+  name: !!python/unicode 'Ch''eng-Huang'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3356,7 +3353,7 @@ dictitems:
   domains: [!!python/unicode ' Handcrafts', !!python/unicode ' rain
 
       ']
-  name: !!python/unicode 'Chih-Nii '
+  name: !!python/unicode 'Chih-Nii'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3365,7 +3362,7 @@ dictitems:
   domains: [!!python/unicode ' Protection', !!python/unicode ' privacy
 
       ']
-  name: !!python/unicode 'Ch''in-Shu-Pao '
+  name: !!python/unicode 'Ch''in-Shu-Pao'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3373,7 +3370,7 @@ dictitems:
   domains: [!!python/unicode ' Sex
 
       ']
-  name: !!python/unicode 'Chuang-Mu '
+  name: !!python/unicode 'Chuang-Mu'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3381,7 +3378,7 @@ dictitems:
   domains: [!!python/unicode ' Justice', !!python/unicode ' revenge', !!python/unicode ' death
 
       ']
-  name: !!python/unicode 'Chu-Jung '
+  name: !!python/unicode 'Chu-Jung'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3390,7 +3387,7 @@ dictitems:
   domains: [!!python/unicode ' Protection from evil
 
       ']
-  name: !!python/unicode 'Erh-Lang '
+  name: !!python/unicode 'Erh-Lang'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3398,7 +3395,7 @@ dictitems:
   domains: [!!python/unicode ' Storms', !!python/unicode ' moisture
 
       ']
-  name: !!python/unicode 'Feng-Po-Po '
+  name: !!python/unicode 'Feng-Po-Po'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3406,7 +3403,7 @@ dictitems:
   domains: [!!python/unicode ' Destiny', !!python/unicode ' love', !!python/unicode ' success
 
       ']
-  name: !!python/unicode 'Fu-Hsi '
+  name: !!python/unicode 'Fu-Hsi'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3415,7 +3412,7 @@ dictitems:
   domains: [!!python/unicode ' Harvest', !!python/unicode ' crops
 
       ']
-  name: !!python/unicode 'Hou-Chi '
+  name: !!python/unicode 'Hou-Chi'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3424,7 +3421,7 @@ dictitems:
   domains: [!!python/unicode ' Curing disease
 
       ']
-  name: !!python/unicode 'Hsi Wang Mu '
+  name: !!python/unicode 'Hsi Wang Mu'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3433,7 +3430,7 @@ dictitems:
   domains: [!!python/unicode ' Exorcism
 
       ']
-  name: !!python/unicode 'Hsuan-T''ien-Shang-Ti '
+  name: !!python/unicode 'Hsuan-T''ien-Shang-Ti'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3442,7 +3439,7 @@ dictitems:
   domains: [!!python/unicode ' Earth magick', !!python/unicode ' fertility
 
       ']
-  name: !!python/unicode 'Hu-Tu '
+  name: !!python/unicode 'Hu-Tu'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3450,7 +3447,7 @@ dictitems:
   domains: [!!python/unicode ' Wine
 
       ']
-  name: !!python/unicode 'I-Ti '
+  name: !!python/unicode 'I-Ti'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3461,7 +3458,7 @@ dictitems:
     !!python/unicode ' dark magick', !!python/unicode ' prophecy
 
       ']
-  name: !!python/unicode 'Kuan Ti '
+  name: !!python/unicode 'Kuan Ti'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3473,7 +3470,7 @@ dictitems:
     !!python/unicode ' childbirth', !!python/unicode ' healing', !!python/unicode ' enlightenment
 
       ']
-  name: !!python/unicode 'Kuan Yin '
+  name: !!python/unicode 'Kuan Yin'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3483,7 +3480,7 @@ dictitems:
     !!python/unicode ' literature', !!python/unicode ' students
 
       ']
-  name: !!python/unicode 'K''uei-Hsing '
+  name: !!python/unicode 'K''uei-Hsing'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3492,13 +3489,13 @@ dictitems:
   domains: [!!python/unicode ' Music', !!python/unicode ' fertility
 
       ']
-  name: !!python/unicode 'Lan Ts''ai-Ho '
+  name: !!python/unicode 'Lan Ts''ai-Ho'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' The Jade Emperor.  "Father Heaven."'
   domains: [!!python/unicode " \n"]
-  name: !!python/unicode 'Lao-Tien-Yeh '
+  name: !!python/unicode 'Lao-Tien-Yeh'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3508,7 +3505,7 @@ dictitems:
   domains: [!!python/unicode ' Justice', !!python/unicode ' punishment
 
       ']
-  name: !!python/unicode 'Lei-King '
+  name: !!python/unicode 'Lei-King'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3516,7 +3513,7 @@ dictitems:
   domains: [!!python/unicode ' Water magick
 
       ']
-  name: !!python/unicode 'Lo Shen '
+  name: !!python/unicode 'Lo Shen'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3526,13 +3523,13 @@ dictitems:
     !!python/unicode ' employment
 
       ']
-  name: !!python/unicode 'Lu-Hsing '
+  name: !!python/unicode 'Lu-Hsing'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' God of carpenters and masons. '
   domains: [!!python/unicode ' Artistic abilities', !!python/unicode " fame. \n"]
-  name: !!python/unicode 'Lu-Pan '
+  name: !!python/unicode 'Lu-Pan'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3540,7 +3537,7 @@ dictitems:
   domains: [!!python/unicode ' Spring rites
 
       ']
-  name: !!python/unicode 'Ma-Ku '
+  name: !!python/unicode 'Ma-Ku'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3548,7 +3545,7 @@ dictitems:
     and hostile influences.  One had a red or black face, the other a white face.  They
     both wore military dress, holding a long-handled mace.'
   domains: [!!python/unicode " Protection. \n"]
-  name: !!python/unicode 'Men Shen '
+  name: !!python/unicode 'Men Shen'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3558,7 +3555,7 @@ dictitems:
   domains: [!!python/unicode ' Rules Over: Passing over rites', !!python/unicode ' past-lives
 
       ']
-  name: !!python/unicode 'Meng-Po Niang Niang '
+  name: !!python/unicode 'Meng-Po Niang Niang'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3566,7 +3563,7 @@ dictitems:
   domains: [!!python/unicode ' Creation
 
       ']
-  name: !!python/unicode 'Nu Kua '
+  name: !!python/unicode 'Nu Kua'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3574,7 +3571,7 @@ dictitems:
   domains: [!!python/unicode ' Droughts
 
       ']
-  name: !!python/unicode 'Pa '
+  name: !!python/unicode 'Pa'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3582,7 +3579,7 @@ dictitems:
   domains: [!!python/unicode ' Prostitution
 
       ']
-  name: !!python/unicode 'P''an-Chin-Lien '
+  name: !!python/unicode 'P''an-Chin-Lien'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3592,7 +3589,7 @@ dictitems:
     !!python/unicode ' childbirth', !!python/unicode ' labor
 
       ']
-  name: !!python/unicode 'Pi-Hsia Yuan Chin '
+  name: !!python/unicode 'Pi-Hsia Yuan Chin'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3600,7 +3597,7 @@ dictitems:
   domains: [!!python/unicode ' Ending droughts
 
       ']
-  name: !!python/unicode 'Sao-Ts''ing Niang '
+  name: !!python/unicode 'Sao-Ts''ing Niang'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3608,13 +3605,13 @@ dictitems:
   domains: [!!python/unicode ' Virtue', !!python/unicode ' enlightenment', !!python/unicode ' self-realization
 
       ']
-  name: !!python/unicode 'Shaka-Nyorai '
+  name: !!python/unicode 'Shaka-Nyorai'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' The Supreme God.'
   domains: [!!python/unicode " \n"]
-  name: !!python/unicode 'Shang-Ti '
+  name: !!python/unicode 'Shang-Ti'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3622,7 +3619,7 @@ dictitems:
   domains: [!!python/unicode ' Medicine', !!python/unicode ' pharmacy', !!python/unicode ' agriculture
 
       ']
-  name: !!python/unicode 'Shen Nung '
+  name: !!python/unicode 'Shen Nung'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3633,7 +3630,7 @@ dictitems:
   domains: [!!python/unicode ' Life plan', !!python/unicode ' date of death', !!python/unicode ' reincarnation
 
       ']
-  name: !!python/unicode 'Shou-Hsing '
+  name: !!python/unicode 'Shou-Hsing'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3642,7 +3639,7 @@ dictitems:
   domains: [!!python/unicode ' Averting evil
 
       ']
-  name: !!python/unicode 'Shui-Khan '
+  name: !!python/unicode 'Shui-Khan'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3653,7 +3650,7 @@ dictitems:
       of good and bad karma', !!python/unicode ' prosperity', !!python/unicode ' success
 
       ']
-  name: !!python/unicode 'T''ai-Yueh-Ta-Ti '
+  name: !!python/unicode 'T''ai-Yueh-Ta-Ti'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3661,7 +3658,7 @@ dictitems:
   domains: [!!python/unicode ' Protection
 
       ']
-  name: !!python/unicode 'Tien-Hou '
+  name: !!python/unicode 'Tien-Hou'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3669,7 +3666,7 @@ dictitems:
   domains: [!!python/unicode ' Happiness
 
       ']
-  name: !!python/unicode 'T''ien-Khuan '
+  name: !!python/unicode 'T''ien-Khuan'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3677,13 +3674,13 @@ dictitems:
   domains: [!!python/unicode ' Lightning
 
       ']
-  name: !!python/unicode 'Tien-Mu '
+  name: !!python/unicode 'Tien-Mu'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
   description: !!python/unicode ' God who grants remission of sins.'
   domains: [!!python/unicode " \n"]
-  name: !!python/unicode 'Ti-Khuan '
+  name: !!python/unicode 'Ti-Khuan'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3693,7 +3690,7 @@ dictitems:
   domains: [!!python/unicode ' Knowledge for reincarnation
 
       ']
-  name: !!python/unicode 'Ti-Tsang-Wang-Pu-Sa '
+  name: !!python/unicode 'Ti-Tsang-Wang-Pu-Sa'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3703,7 +3700,7 @@ dictitems:
     !!python/unicode ' judgement
 
       ']
-  name: !!python/unicode 'Tou-Mou '
+  name: !!python/unicode 'Tou-Mou'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3712,7 +3709,7 @@ dictitems:
   domains: [!!python/unicode ' Abundance', !!python/unicode ' success
 
       ']
-  name: !!python/unicode 'Tsai Shen '
+  name: !!python/unicode 'Tsai Shen'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3723,7 +3720,7 @@ dictitems:
 
     '
   domains: []
-  name: !!python/unicode 'Tsao-Wang '
+  name: !!python/unicode 'Tsao-Wang'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3732,7 +3729,7 @@ dictitems:
   domains: [!!python/unicode ' Outhouses', !!python/unicode ' divination
 
       ']
-  name: !!python/unicode 'Tsi-Ku '
+  name: !!python/unicode 'Tsi-Ku'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3741,7 +3738,7 @@ dictitems:
       fame
 
       ']
-  name: !!python/unicode 'Twen-Ch''ang '
+  name: !!python/unicode 'Twen-Chang' 
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3749,7 +3746,7 @@ dictitems:
   domains: [!!python/unicode ' Psychic abilities', !!python/unicode ' healing powers
 
       ']
-  name: !!python/unicode 'Yao-Shih '
+  name: !!python/unicode 'Yao-Shih'
   pantheon: Chinese
 --- !!python/object/new:OlympiaNK.God
 dictitems:
@@ -3761,5 +3758,5 @@ dictitems:
       justice
 
       ']
-  name: !!python/unicode 'Yeng-Wang-Yeh '
+  name: !!python/unicode 'Yeng-Wang-Yeh'
   pantheon: Chinese

@@ -100,7 +100,9 @@ class TheOracle():
         god =  self._get_god_by_name(god_name)
     
         try:
-            if self._is_string(god_attr):
+            if god_attr == 'native_name':
+                print god[god_attr]
+            elif self._is_string(god_attr):
                 print god[god_attr]
             else:
                 for item in god[god_attr]:

@@ -87,17 +87,19 @@ class TheOracle():
         god_attr = self.question_tokens[3]
         god =  self._get_god_by_name(god_name)
     
-        try:
-            if self._is_string(god_attr):
-                print god[god_attr]
-            else:
-                for item in god[god_attr]:
-                    if god[god_attr].index(item) < len(god[god_attr])-1:
-                        print "%s," %item,
-                    else:
-                        print "%s" % item
-        except:
-            print "problem looking up %s for %s" %(god_attr, god_name)
+        #try:
+        if god_attr == 'native_name':
+            print god[god_attr]
+        elif self._is_string(god_attr):
+            print god[god_attr]
+        else:
+            for item in god[god_attr]:
+                if god[god_attr].index(item) < len(god[god_attr])-1:
+                    print "%s," %item,
+                else:
+                    print "%s" % item
+        #except:
+        #    print "problem looking up %s for %s" %(god_attr, god_name)
                   
     def list_gods_with_attr(self):
         """ return gods that have certain attribute value """
@@ -150,11 +152,12 @@ class TheOracle():
         print "There are %d Gods" % (len(self.olympus))
 
     def _is_string(self, key):
-        return isinstance(self.olympus[0][key], str)
+        if key != 'native_name':
+            return isinstance(self.olympus[0][key], str)
 
     def _get_god_by_name(self, name):
         for god in self.olympus:
-            if god['name'].lower() == name.lower() or god['roman_name'].lower() == name.lower():
+            if god['name'].lower() == name.lower():
                 return god
 
 class God(dict):
