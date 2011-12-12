@@ -1,0 +1,75 @@
+#!/usr/bin/python
+
+import yaml
+from Mythos import *
+oly = Olympus()
+oly.load_yaml('./olympiansHR.yaml')
+
+def breakout(key, desc, file_name):
+    result = []
+    i=1
+    for god in oly:
+        if god.has_key(key):
+            if hasattr(god[key], 'append'):
+                for item in god[key]: 
+                    if re.match('\S', item):
+                        result.append(item_fmt(desc, i, item))
+                        i += 1
+            else:
+                if re.match('\S', god[key]):
+                    result.append(item_fmt(desc, i, god[key])) 
+                    i += 1
+
+    fp = file("yaml/%s.yaml"%file_name, 'w')
+    yaml.dump(result, fp)
+    fp.close()
+
+def associate(key, file_name):
+    result = []
+    print file_name
+    fp = file("yaml/%s.yaml"%file_name, 'r')
+    list_o_dicts = yaml.load(fp)
+    rev_list = rev_list_o_dicts(list_o_dicts)
+    for god in oly:
+        if god.has_key(key):
+            if hasattr(god[key], 'append'):
+                for item in god[key]: 
+                    if re.match('\S', item):
+                        if rev_list.has_key(item):
+                            print god['name'], item, rev_list[item]
+            else:
+                if re.match('\S', god[key]):
+                    item = god[key]
+                    if rev_list.has_key(item):
+                        print god['name'], item, rev_list[item]
+
+
+    fp = file("yaml/%s.yaml"%file_name, 'w')
+    yaml.dump(result, fp)
+    fp.close()
+
+def rev_list_o_dicts(list_o_dicts):
+    result = []
+    for item in list_o_dicts:
+        key = item.keys()[0]
+    #    print item[key], key
+        result.append({item[key]: key})
+    return result
+
+         
+def item_fmt(desc, i, item):
+    return {"%s:%u"%(desc,i):item.lower().encode("utf-8").decode("utf-8")} 
+
+def test(file):
+    fp = open(file, 'rw')
+    my_yaml = yaml.load(fp)
+    for item in my_yaml:
+        key = item.keys()[0] 
+        value = item[key].encode("utf-8")
+        print key, value
+        #item[key] = value
+    fp.close()
+    #fp = open(file, 'w')
+    #yaml.dump_all(my_yaml, fp)
+    #fp.close()
+

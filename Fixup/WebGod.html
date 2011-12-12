@@ -1,0 +1,40 @@
+<head>
+<style type="text/css">
+div { position: relative }
+.logo { 
+        display: block;
+        margin-left: auto;
+        margin-right: auto; 
+      }
+.left { float: left }
+.right { float: right }
+</style>
+</head>
+<img class="logo" src="static/logo.jpg"/>
+<div>
+<div class="left">
+<form action="" method="post">
+Question The Gods: <input type="text" name="question" />
+<input type="submit" value="Submit" />
+</form>
+</div>
+<div class="right">
+<form action="" method="post" enctype="multipart/form-data" >
+Upload Data: <input type="file" name="input_file" />
+<input type="submit" value="Submit" />
+</form>
+</div>
+<br><br>
+<hr />
+{% if question %}
+    {{ question }}
+{% end %}
+<br>
+{% if answer %}
+    {{ answer }}
+{% end %}
+{% if files %}
+    {{ files }}
+{% end %}
+</div>
+

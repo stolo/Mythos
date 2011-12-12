@@ -1,0 +1,96 @@
+#!/usr/bin/python
+
+import yaml
+from Olympus import *
+oly = Olympus()
+oly.load_yaml('./olympiansHR.yaml')
+
+lu = {'children': 'child', 'description': 'description', 'domains': 'domain', 'father': 'father', 'generation': 'generation', 'mother': 'mother', 'name': 'god', 'native_name': 'native_name', 'pantheon': 'pantheon', 'sacred_animals': 'sacred_animal', 'siblings': 'sibling', 'symbols': 'symbol'}
+
+def go():
+    breakout(lu)
+    
+#def breakout(key, desc):
+def breakout(lookups):
+    gobit_dict = {}
+    glubit_dict = {} 
+    gobit_list = []
+    glubit_list = [] 
+    relations = []
+    result = {}
+    done = {}
+    for thing in lookups.keys():
+        key = thing
+        desc = lookups[thing]
+        i=1
+        j=1
+        for god in oly:
+            g = item_fmt('god', j, god['name'])
+            if god.has_key(key):
+                if hasattr(god[key], 'append'):
+                    for item in god[key]: 
+                        if re.match('\S', item):
+                            kv = item_fmt(desc, i, item)
+                            if done.has_key(kv[0][0]):
+                                next
+                            else:
+                                done[kv[0][0]] = True
+                                result[kv[0]] = kv[1]
+                                i += 1
+                            #result.append((kv[0], kv[1]))
+                            relations.append((g[0], kv[0]))
+                            #gobit_dict[(kv[0], kv[1])] = True
+                            #glubit_dict[(g[0], kv[0])] = True
+                else:
+                    if re.match('\S', god[key]):
+                        item = god[key]
+                        kv = item_fmt(desc, i, item)
+                        if done.has_key(kv[0][0]):
+                            next
+                        else:
+                            done[kv[0][0]] = True
+                            result[kv[0]] = kv[1]
+                            #result.append((kv[0], kv[1]))
+                            i += 1
+                        relations.append((g[0], kv[0]))
+            j += 1
+    for r in result.keys():
+        print r
+        gobit_list.append(( r, result[r]))
+
+    #return (result, relations)
+    fp = file("gobits.yaml", 'w')
+    yaml.dump(gobit_list.sort(), fp)
+    fp.close()
+    fp = file("glubits.yaml", 'w')
+    yaml.dump(relations.sort(), fp)
+    #fp.close()
+
+def rev_list_o_dicts(list_o_dicts):
+    result = []
+    for item in list_o_dicts:
+        key = item.keys()[0]
+    #    print item[key], key
+        result.append({item[key]: key})
+    return result
+
+         
+def item_fmt(desc, i, item):
+    #return {"%s:%u"%(desc,i):item.lower().encode("utf-8").decode("utf-8")} 
+    return ((desc, i), item.lower().encode("utf-8").decode("utf-8")) 
+
+def test(file):
+    fp = open(file, 'rw')
+    my_yaml = yaml.load(fp)
+    for item in my_yaml:
+        key = item.keys()[0] 
+        value = item[key].encode("utf-8")
+        print key, value
+        #item[key] = value
+    fp.close()
+    #fp = open(file, 'w')
+    #yaml.dump_all(my_yaml, fp)
+    #fp.close()
+
+if __name__ == '__main__':
+    go()
