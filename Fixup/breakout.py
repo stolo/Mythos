@@ -17,15 +17,17 @@ def breakout_glubits(lookups):
     glub = [] 
     for (old_attr, value) in lookups.iteritems():
         for god in oly:
-            god_gobit = gb.get_by_type_entry("name", god["name"].lower())[0][0]
+            #god_gobit = gb.get_by_type_entry("name", god["name"].lower())[0]
             if god.has_key(old_attr):
                 if hasattr(god[old_attr], 'append'):
                     for desc in god[old_attr]: 
                         if re.match('\S', desc):
-                            glub.append( (god_gobit, gb.get_by_type_entry(lookups[old_attr], desc.lower())[0][0]) )
+                            glub.append( (("name", god["name"].lower()), (lookups[old_attr].lower(), desc.lower())) )
+                            #glub.append( (god_gobit, gb.get_by_type_entry(lookups[old_attr], desc.lower())[0]) )
                             #glub[(lookups[old_attr], desc.lower())] = god["name"]
                 else:
-                    glub.append( (god_gobit, gb.get_by_type_entry(lookups[old_attr], god[old_attr].lower())[0][0]) )
+                    glub.append( (("name", god["name"].lower()), (lookups[old_attr].lower(), god[old_attr].lower())) )
+                    #glub.append( (god_gobit, gb.get_by_type_entry(lookups[old_attr], god[old_attr].lower())[0]) )
                     #glub[(lookups[old_attr], god[old_attr].lower())] = god["name"]
 
     fp = file("glubits.yaml", 'w')
@@ -68,7 +70,7 @@ def get_god_by_name(gobit_list, name):
     return [g for g in gobit_list if g[1].lower() == name.lower()][0] 
 
 def fmt_entry(entry, i):
-    return ((entry[0], i), entry[1])
+    return (entry[0], entry[1])
 
 def rev_list_o_dicts(list_o_dicts):
     result = []
@@ -77,11 +79,6 @@ def rev_list_o_dicts(list_o_dicts):
     #    print item[key], key
         result.append({item[key]: key})
     return result
-
-         
-def item_fmt(desc, i, item):
-    #return {"%s:%u"%(desc,i):item.lower().encode("utf-8").decode("utf-8")} 
-    return ((desc, i), item.lower().encode("utf-8").decode("utf-8")) 
 
 def test(file):
     fp = open(file, 'rw')

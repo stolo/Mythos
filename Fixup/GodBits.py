@@ -17,31 +17,31 @@ class BaseBits(list):
         fp = open(yaml_file, 'w')
         yaml.dump_all(self, fp)
 
-    def get_by_type(self, my_type):
-        return [entry for entry in self if entry[0][0] == my_type]
+    #def get_by_type(self, my_type):
+    #    return [entry for entry in self if entry[0] == my_type]
 
 class Gobits(BaseBits):
     def __init__(self, yaml_file="gobits.yaml"):
         super(Gobits, self).__init__()
         self.load(yaml_file)
 
-    def list_by_type(self, type):
-        return set([entry[1] for entry in self if entry[0][0] == type])
+    def get_by_type(self, my_type):
+        return set([entry[1] for entry in self if entry[0] == my_type])
 
     def list_types(self):
-        return set([entry[0][0] for entry in self])
+        return set([entry[0] for entry in self])
 
     def list_entries(self):
         return [entry[1] for entry in self]
 
-    def get_by_str(self, my_str):
-        return [entry for entry in self if entry[1].lower() == my_str.lower()]
+    #def get_by_str(self, my_str):
+    #    return [entry for entry in self if entry[1].lower() == my_str.lower()]
 
-    def get_by_gobit(self, my_gobit):
-        return [entry for entry in self if entry[0] == my_gobit][0]
+    #def get_by_gobit(self, my_gobit):
+    #    return [entry for entry in self if entry[0] == my_gobit][0]
 
-    def get_by_type_entry(self, my_type, my_entry):
-        return [entry for entry in self if entry[0][0] == my_type and entry[1] == my_entry]
+    #def get_by_type_entry(self, my_type, my_entry):
+    #    return [entry for entry in self if entry[0] == my_type and entry[1] == my_entry]
 
 class Glubits(BaseBits):
     def __init__(self, yaml_file="glubits.yaml"):
@@ -49,13 +49,16 @@ class Glubits(BaseBits):
         self.load(yaml_file)
 
     def get_by_gobit(self, my_gobit):
-        return [entry for entry in self if entry[0] == my_gobit or entry[1] == my_gobit]
+        return [entry for entry in self if entry[0] == my_gobit]
+
+    def get_by_type(self, my_type):
+        pass 
 
     def get_by_gobit_type(self, my_gobit, my_type):
-        return [entry for entry in self if entry[0] == my_gobit and entry[1][0] == my_type]
+        return [entry[1][1] for entry in self if entry[0] == my_gobit and entry[1][0] == my_type]
 
-    def get_by_type_gobit(self, my_type, my_gobit):
-        return [entry for entry in self if entry[0][0] == my_type and entry[1] == my_gobit]
+    #def get_by_type_gobit(self, my_type, my_gobit):
+    #    return [entry for entry in self if entry[0][0] == my_type and entry[1] == my_gobit]
 
 class Query():
     def __init__(self, gobits, glubits):
@@ -63,10 +66,9 @@ class Query():
         self.glubits = glubits
         self.entries = gobits.list_entries()
         self.types = gobits.list_types()
-        self.names = gobits.list_by_type("name")
+        self.names = gobits.get_by_type("name")
 
     def question(self, question):
-        #question = raw_input("Question?" ) 
         tokens = question.split(" ") 
         num_tokens = len(tokens)
         self.chunks = []
@@ -84,30 +86,49 @@ class Query():
         ltm = len(types_mentioned)
         lem = len(entries_mentioned)
 
-        if lnm > 0 and ltm == 0:
-            for name in names_mentioned:
-                for item in self.gobits.get_by_type_entry("name", name):
-                    desc_gobit = self.glubits.get_by_gobit_type(item[0], "description")[0][1]
-                    return self.gobits.get_by_gobit(desc_gobit)[1]
-
         result = []
+        print lnm, ltm, lem
+        if lnm > 0 and ltm == 0:
+            for my_name in names_mentioned:
+                my_filter = lambda x: x[0][1] == my_name and x[1][0] == "description"
+                result += [entry[1][1] for entry in filter(my_filter, self.glubits)]
+
         if lnm == 0 and ltm > 0 and lem == 0:
-            for typ in types_mentioned:
-                for item in self.gobits.get_by_type(typ):
-                    result.append( item[1] )
+            for my_type in types_mentioned:
+                my_filter = lambda x: x[0][0] == my_type 
+                result += [entry[0][1] for entry in filter(my_filter, self.gobits)]
+        
+        if lem > 0:
+            all_results = []
+            for my_entry in entries_mentioned:
+                my_filter = lambda x: x[1][1] == my_entry
+                all_results.append([entry[0][1] for entry in filter(my_filter, self.glubits)])
+            result = set(self.intersection_all(all_results))              
 
-        if lnm == 0 and ltm == 1 and lem == 1:
-            for entry in entries_mentioned:
-                for typ in types_mentioned:
-                    for item in self.gobits.get_by_type_entry(typ, entry):
-                        name_gobits = self.glubits.get_by_type_gobit("name", item[0])
-                        for ngb in name_gobits:
-                            result.append(self.gobits.get_by_gobit(ngb[0])[1]) 
-
+#        if lnm == 0 and ltm > 0 and lem == 0:
+#            for typ in types_mentioned:
+#                for item in self.gobits.get_by_type(typ):
+#                    result.append( item[1] )
+#
+#        if lnm == 0 and ltm == 1 and lem == 1:
+#            for entry in entries_mentioned:
+#                for typ in types_mentioned:
+#                    for item in self.gobits.get_by_type_entry(typ, entry):
+#                        name_gobits = self.glubits.get_by_type_gobit("name", item[0])
+#                        for ngb in name_gobits:
+#                            result.append(self.gobits.get_by_gobit(ngb[0])[1]) 
+#
         return "<br>".join(result)
 
     def intersection(self, l1, l2):
         return [x for x in l1 if x in l2]
+
+    def intersection_all(self, list_of_lists):
+        common = list_of_lists.pop()
+        for my_list in list_of_lists:
+            if type(my_list) == type([]):
+                common = [x for x in common if x in list_of_lists]
+        return common 
         
 if __name__ == '__main__':
     gobits=Gobits()
